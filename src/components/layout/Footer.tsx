@@ -25,41 +25,40 @@ export default function Footer() {
   const [logoError, setLogoError] = useState(false);
 
   return (
-    <footer className="w-full pb-[60px] lg:pb-0">
+    <footer className="w-full pb-[calc(64px+env(safe-area-inset-bottom,0px))] lg:pb-0">
       {/* Newsletter strip */}
       <div
-        className="w-full py-10 lg:py-12"
+        className="w-full py-8 md:py-10 lg:py-12"
         style={{ background: 'var(--bg-secondary)' }}
       >
-        <div className="max-w-[1400px] mx-auto px-6 flex flex-col lg:flex-row items-start lg:items-center justify-between gap-6">
+        <div className="max-w-[1400px] mx-auto px-4 md:px-6 flex flex-col lg:flex-row items-start lg:items-center justify-between gap-4 md:gap-6">
           <div>
-            <h3 className="font-heading text-[28px] font-bold uppercase text-[var(--text-primary)]">
+            <h3 className="font-heading text-[22px] md:text-[28px] font-bold uppercase text-[var(--text-primary)]">
               STAY IN THE LOOP
             </h3>
-            <p className="font-body text-[16px] text-[var(--text-secondary)]">
+            <p className="font-body text-[14px] md:text-[16px] text-[var(--text-secondary)]">
               Get exclusive deals, new arrivals, and tire tips
             </p>
           </div>
           <form
             onSubmit={(e) => { e.preventDefault(); setEmail(''); }}
-            className="flex w-full lg:w-auto gap-0"
+            className="flex flex-col md:flex-row w-full lg:w-auto gap-2 md:gap-0"
           >
             <input
               type="email"
               placeholder="Enter your email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              className="font-body text-[15px] px-4 py-3 w-full lg:w-[300px] rounded-l-[6px]"
+              className="font-body text-[15px] px-4 py-3 w-full lg:w-[300px] rounded-[6px] md:rounded-l-[6px] md:rounded-r-none h-12"
               style={{
                 background: 'var(--bg-card)',
                 border: '1px solid #2A2A2A',
-                borderRight: 'none',
                 color: 'var(--text-primary)',
               }}
             />
             <button
               type="submit"
-              className="font-nav font-bold text-[14px] uppercase tracking-[0.1em] px-6 rounded-r-[6px] whitespace-nowrap text-white transition-all duration-200 hover:brightness-110"
+              className="font-nav font-bold text-[14px] uppercase tracking-[0.1em] px-6 rounded-[6px] md:rounded-l-none md:rounded-r-[6px] whitespace-nowrap text-white transition-all duration-200 hover:brightness-110 h-12"
               style={{ background: 'linear-gradient(135deg, #1E88C7 0%, #29B6F6 100%)' }}
             >
               SUBSCRIBE
@@ -70,10 +69,10 @@ export default function Footer() {
 
       {/* Main footer */}
       <div
-        className="w-full py-12 lg:py-16"
+        className="w-full py-10 md:py-12 lg:py-16"
         style={{ background: 'var(--bg-primary)' }}
       >
-        <div className="max-w-[1400px] mx-auto px-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-8">
+        <div className="max-w-[1400px] mx-auto px-4 md:px-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-8">
           {/* Column 1: Brand */}
           <div>
             <div className="flex items-center gap-3 mb-4">
@@ -210,21 +209,21 @@ export default function Footer() {
           borderTop: '1px solid rgba(255,255,255,0.06)',
         }}
       >
-        <div className="max-w-[1400px] mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-3">
-          <p className="font-body text-[14px] text-[var(--text-muted)]">
+        <div className="max-w-[1400px] mx-auto px-4 md:px-6 flex flex-col md:flex-row items-center justify-between gap-2 md:gap-3 text-center md:text-left">
+          <p className="font-body text-[12px] md:text-[14px] text-[var(--text-muted)]">
             &copy; 2026 Tire Geeks. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             <Link
               href="#"
-              className="font-body text-[14px] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+              className="font-body text-[12px] md:text-[14px] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
             >
               Privacy Policy
             </Link>
             <span className="text-[var(--text-muted)]">|</span>
             <Link
               href="#"
-              className="font-body text-[14px] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+              className="font-body text-[12px] md:text-[14px] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
             >
               Terms of Service
             </Link>

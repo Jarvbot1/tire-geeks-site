@@ -34,10 +34,10 @@ export default function ContactPage() {
     border: '1px solid #2A2A2A',
     borderRadius: 6,
     color: '#F2F2F2',
-    height: 48,
+    height: 52,
     width: '100%',
     padding: '0 16px',
-    fontSize: 15,
+    fontSize: 16,
     outline: 'none',
     transition: 'border-color 0.2s',
   };
@@ -88,14 +88,7 @@ export default function ContactPage() {
 
         {/* ── Content ── */}
         <section
-          style={{
-            maxWidth: 1400,
-            margin: '0 auto',
-            padding: '80px 24px',
-            display: 'flex',
-            gap: 48,
-            flexWrap: 'wrap',
-          }}
+          className="max-w-[1400px] mx-auto px-4 md:px-6 py-12 md:py-20 flex flex-col md:flex-row gap-8 md:gap-12"
         >
           {/* ── Left: Contact Form (60%) ── */}
           <div style={{ flex: '1 1 600px', minWidth: 0 }}>
@@ -192,7 +185,7 @@ export default function ContactPage() {
               {/* Vehicle Year / Make / Model */}
               <div>
                 <label className="font-nav" style={labelStyle}>Vehicle Year / Make / Model</label>
-                <div style={{ display: 'flex', gap: 12 }}>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
                   <input
                     className="font-body"
                     type="text"
@@ -200,7 +193,7 @@ export default function ContactPage() {
                     value={form.vehicleYear}
                     onChange={handleChange}
                     placeholder="Year"
-                    style={{ ...inputStyle, flex: 1 }}
+                    style={inputStyle}
                     onFocus={focusHandler}
                     onBlur={blurHandler}
                   />
@@ -211,7 +204,7 @@ export default function ContactPage() {
                     value={form.vehicleMake}
                     onChange={handleChange}
                     placeholder="Make"
-                    style={{ ...inputStyle, flex: 1 }}
+                    style={inputStyle}
                     onFocus={focusHandler}
                     onBlur={blurHandler}
                   />
@@ -222,7 +215,7 @@ export default function ContactPage() {
                     value={form.vehicleModel}
                     onChange={handleChange}
                     placeholder="Model"
-                    style={{ ...inputStyle, flex: 1 }}
+                    style={inputStyle}
                     onFocus={focusHandler}
                     onBlur={blurHandler}
                   />
@@ -257,15 +250,16 @@ export default function ContactPage() {
                 className="btn-cta font-nav"
                 style={{
                   width: '100%',
-                  height: 52,
+                  height: 56,
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
                   gap: 10,
-                  fontSize: 14,
+                  fontSize: 16,
                   letterSpacing: 2,
                   border: 'none',
                   cursor: 'pointer',
+                  borderRadius: 8,
                 }}
               >
                 <Send size={16} />

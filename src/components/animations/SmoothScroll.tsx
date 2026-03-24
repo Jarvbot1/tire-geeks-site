@@ -8,9 +8,10 @@ gsap.registerPlugin(ScrollTrigger);
 
 export default function SmoothScroll({ children }: { children: React.ReactNode }) {
   useEffect(() => {
-    // Disable smooth scroll for users who prefer reduced motion
+    // Disable smooth scroll on mobile (native iOS scroll is better) or reduced motion
     const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    if (prefersReduced) return;
+    const isMobile = window.innerWidth < 768;
+    if (prefersReduced || isMobile) return;
 
     const lenis = new Lenis({
       duration: 1.2,

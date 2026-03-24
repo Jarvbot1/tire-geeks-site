@@ -26,7 +26,7 @@ export default function Home() {
     <>
       <Preloader onComplete={handlePreloaderComplete} />
       <Navbar />
-      <main id="main-content">
+      <main id="main-content" className="pb-[calc(64px+env(safe-area-inset-bottom,0px))] lg:pb-0">
         <HeroSection loaded={loaded} />
         <AcimaSection />
         <TrustStrip />

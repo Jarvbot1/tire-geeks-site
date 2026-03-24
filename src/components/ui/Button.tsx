@@ -9,7 +9,7 @@ interface ButtonProps {
   className?: string;
   external?: boolean;
   fullWidth?: boolean;
-  size?: 'sm' | 'md' | 'lg';
+  size?: 'xs' | 'sm' | 'md' | 'lg';
 }
 
 export default function Button({
@@ -23,14 +23,15 @@ export default function Button({
   size = 'md',
 }: ButtonProps) {
   const sizeClasses = {
-    sm: 'px-5 py-2 text-[13px]',
+    xs: 'px-4 py-2 text-[12px]',
+    sm: 'px-5 py-2.5 text-[13px]',
     md: 'px-10 py-4 text-[15px]',
     lg: 'px-12 py-4 text-[16px]',
   };
 
   const baseClasses = `
     font-nav font-bold uppercase tracking-[0.1em] rounded-[4px]
-    inline-flex items-center justify-center gap-2
+    inline-flex items-center justify-center gap-2 whitespace-nowrap
     transition-all duration-200
     ${sizeClasses[size]}
     ${fullWidth ? 'w-full' : ''}

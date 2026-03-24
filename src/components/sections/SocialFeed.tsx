@@ -18,10 +18,10 @@ export default function SocialFeed() {
     <section
       style={{
         background: 'var(--bg-primary)',
-        padding: '96px 0',
       }}
+      className="py-12 md:py-24"
     >
-      <div className="mx-auto max-w-7xl px-6">
+      <div className="mx-auto max-w-7xl px-4 md:px-6">
         <SectionHeading
           label="FOLLOW US"
           title="TIRE GEEKS ON SOCIAL"

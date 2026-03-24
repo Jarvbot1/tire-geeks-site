@@ -26,6 +26,11 @@ const DIRECTIONS_INFO = [
   "Just minutes from US-50 and Business 80 — exit at Arden Way and head west. We're situated on Arden Way between Howe Avenue and Ethan Way, easily accessible from all major Sacramento corridors.",
 ];
 
+const STOREFRONT_IMAGES = [
+  '/images/store-front-florin.jpg',
+  '/images/store-front-arden.jpg',
+];
+
 const mapFilterStyle = 'none';
 
 export default function LocationsPage() {
@@ -211,7 +216,7 @@ export default function LocationsPage() {
                 <div className="flex flex-col gap-6">
                   {/* Storefront Photo */}
                   <img
-                    src="/images/store-front-florin.jpg"
+                    src={STOREFRONT_IMAGES[index]}
                     alt={`Tire Geeks ${location.name} storefront`}
                     className="w-full object-cover"
                     style={{

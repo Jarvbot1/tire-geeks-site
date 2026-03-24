@@ -43,7 +43,7 @@ export default function BlogPostClient({ post }: { post: BlogPost | undefined })
       <Navbar />
 
       {/* Hero */}
-      <section className="flex flex-col items-center justify-center text-center px-6" style={{ paddingTop: 120, paddingBottom: 80, background: '#0A0A0A' }}>
+      <section className="flex flex-col items-center justify-center text-center px-4 md:px-6" style={{ paddingTop: 100, paddingBottom: 48, background: '#0A0A0A' }}>
         <div className="max-w-4xl mx-auto">
           <span className="inline-block bg-[#D42B2B]/10 text-[#D42B2B] text-xs font-nav px-3 py-1 rounded-full uppercase tracking-wider mb-6">{post.category}</span>
           <h1 className="font-display uppercase text-white" style={{ fontSize: 'clamp(2rem, 5vw, 3.5rem)', lineHeight: 1.1 }}>{post.title}</h1>
@@ -54,9 +54,14 @@ export default function BlogPostClient({ post }: { post: BlogPost | undefined })
       {/* Article Body */}
       <article style={{ background: '#0A0A0A' }}>
         <style dangerouslySetInnerHTML={{ __html: `
-          .blog-content h2 { font-family: var(--font-heading); font-size: 28px; font-weight: 700; color: #FFFFFF; margin-top: 2.5rem; margin-bottom: 1rem; }
-          .blog-content h3 { font-family: var(--font-heading); font-size: 22px; font-weight: 600; color: #FFFFFF; margin-top: 2rem; margin-bottom: 0.75rem; }
-          .blog-content p { font-family: var(--font-body); font-size: 18px; color: #D4D4D4; line-height: 1.8; margin-bottom: 1.5rem; }
+          .blog-content h2 { font-family: var(--font-heading); font-size: 22px; font-weight: 700; color: #FFFFFF; margin-top: 2.25rem; margin-bottom: 1rem; }
+          .blog-content h3 { font-family: var(--font-heading); font-size: 18px; font-weight: 600; color: #FFFFFF; margin-top: 1.5rem; margin-bottom: 0.75rem; }
+          .blog-content p { font-family: var(--font-body); font-size: 16px; color: #D4D4D4; line-height: 1.75; margin-bottom: 1.5rem; }
+          @media (min-width: 768px) {
+            .blog-content h2 { font-size: 28px; margin-top: 2.5rem; }
+            .blog-content h3 { font-size: 22px; margin-top: 2rem; }
+            .blog-content p { font-size: 18px; line-height: 1.8; }
+          }
           .blog-content ul, .blog-content ol { font-family: var(--font-body); font-size: 16px; color: #D4D4D4; margin-bottom: 1.5rem; padding-left: 1.5rem; }
           .blog-content ul { list-style: disc; }
           .blog-content ol { list-style: decimal; }
@@ -67,14 +72,14 @@ export default function BlogPostClient({ post }: { post: BlogPost | undefined })
           .blog-content a { color: #D42B2B; text-decoration: underline; text-underline-offset: 2px; }
           .blog-content a:hover { color: #FF4444; }
         `}} />
-        <div className="blog-content max-w-[780px] mx-auto px-6 py-12" dangerouslySetInnerHTML={{ __html: post.content }} />
+        <div className="blog-content max-w-[780px] mx-auto px-4 md:px-6 py-8 md:py-12" dangerouslySetInnerHTML={{ __html: post.content }} />
       </article>
 
       {/* Related Posts */}
       {relatedPosts.length > 0 && (
         <section style={{ background: '#111111' }} className="py-16">
           <h2 className="font-display text-3xl text-white text-center uppercase mb-10">Related Posts</h2>
-          <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="max-w-7xl mx-auto px-4 md:px-6 grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6">
             {relatedPosts.map((rp) => (
               <Link key={rp.id} href={`/blog/${rp.slug}`} className="bg-[#141414] rounded-xl overflow-hidden border border-white/5 group transition-all hover:border-white/10">
                 <div className="overflow-hidden" style={{ height: 192 }}>

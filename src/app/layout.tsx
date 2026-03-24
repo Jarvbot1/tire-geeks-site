@@ -2,7 +2,6 @@ import type { Metadata } from 'next';
 import { Bebas_Neue, Oswald, Inter, Barlow_Condensed } from 'next/font/google';
 import './globals.css';
 import SmoothScroll from '@/components/animations/SmoothScroll';
-import CustomCursor from '@/components/ui/CustomCursor';
 import PageTransition from '@/components/animations/PageTransition';
 
 const bebasNeue = Bebas_Neue({
@@ -38,6 +37,20 @@ export const metadata: Metadata = {
   title: 'Tire Geeks | Sacramento Tires, Wheels, Alignment & Suspension',
   description: "Sacramento's premier tire and wheel shop. Custom wheels, lift kits, lowering kits, alignment, and more. Two locations — no appointment needed. Financing with no credit check.",
   keywords: 'tires sacramento, wheels sacramento, alignment sacramento, lift kits, lowering kits, tire shop near me, custom wheels, tire geeks',
+  icons: {
+    icon: [
+      { url: '/favicon-32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/favicon-16.png', sizes: '16x16', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
+    ],
+    other: [
+      { rel: 'icon', url: '/android-chrome-192.png', sizes: '192x192', type: 'image/png' },
+      { rel: 'icon', url: '/android-chrome-512.png', sizes: '512x512', type: 'image/png' },
+    ],
+  },
+  manifest: '/site.webmanifest',
   openGraph: {
     title: 'Tire Geeks | Sacramento Tires, Wheels & Custom Builds',
     description: 'Premium tires, custom wheels, and expert fitment in Sacramento. Walk-in service, financing available.',
@@ -120,7 +133,6 @@ export default function RootLayout({
         >
           Skip to main content
         </a>
-        <CustomCursor />
         <SmoothScroll>
           <PageTransition>{children}</PageTransition>
         </SmoothScroll>

@@ -121,16 +121,16 @@ export default function AcimaSection() {
         style={{ background: 'linear-gradient(to bottom, var(--blue), var(--blue-light))' }}
       />
 
-      <div className="max-w-[1400px] mx-auto px-6">
-        <div className="flex flex-col lg:flex-row gap-12 lg:gap-16">
+      <div className="max-w-[1400px] mx-auto px-4 md:px-6">
+        <div className="flex flex-col lg:flex-row gap-8 lg:gap-16">
           {/* Left column */}
           <div ref={contentRef} className="w-full lg:w-[55%]">
             <SectionHeading
               label="FINANCING"
               title="NO CREDIT? NO PROBLEM."
-              className="mb-4"
+              className="mb-2 md:mb-4"
             />
-            <p className="font-heading text-[20px] lg:text-[22px] font-normal text-[var(--text-secondary)] mb-10">
+            <p className="font-heading text-[16px] md:text-[20px] lg:text-[22px] font-normal text-[var(--text-secondary)] mb-6 md:mb-10">
               Get approved up to{' '}
               <span className="text-[var(--text-primary)] font-semibold">
                 {visible ? (
@@ -144,28 +144,32 @@ export default function AcimaSection() {
               in seconds with Acima Leasing
             </p>
 
-            {/* Benefit cards */}
-            <div ref={cardsRef} className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-10">
+            {/* Benefit cards — horizontal layout on mobile (icon left, text right) */}
+            <div ref={cardsRef} className="grid grid-cols-1 md:grid-cols-3 gap-3 md:gap-4 mb-6 md:mb-10">
               {BENEFITS.map((benefit) => (
                 <div
                   key={benefit.title}
-                  className="p-6 rounded-[8px]"
+                  className="p-5 md:p-6 rounded-[8px] flex flex-row md:flex-col items-start gap-4 md:gap-0"
                   style={{
                     background: 'rgba(255,255,255,0.03)',
                     border: '1px solid rgba(255,255,255,0.06)',
                   }}
                 >
-                  <benefit.icon
-                    size={28}
-                    style={{ color: 'var(--red)' }}
-                    className="mb-3"
-                  />
-                  <h4 className="font-heading text-[18px] font-semibold text-[var(--text-primary)] mb-2">
-                    {benefit.title}
-                  </h4>
-                  <p className="font-body text-[14px] text-[var(--text-secondary)]">
-                    {benefit.desc}
-                  </p>
+                  <div className="w-12 h-12 min-w-[48px] rounded-xl bg-[rgba(212,43,43,0.1)] flex items-center justify-center md:w-auto md:h-auto md:min-w-0 md:rounded-none md:bg-transparent md:mb-3">
+                    <benefit.icon
+                      size={24}
+                      style={{ color: 'var(--red)' }}
+                      className="md:w-7 md:h-7"
+                    />
+                  </div>
+                  <div>
+                    <h4 className="font-heading text-[16px] md:text-[18px] font-semibold text-[var(--text-primary)] mb-1 md:mb-2">
+                      {benefit.title}
+                    </h4>
+                    <p className="font-body text-[13px] md:text-[14px] text-[var(--text-secondary)] leading-relaxed">
+                      {benefit.desc}
+                    </p>
+                  </div>
                 </div>
               ))}
             </div>
@@ -178,7 +182,7 @@ export default function AcimaSection() {
                 variant="cta"
                 size="lg"
                 fullWidth
-                className="md:w-auto"
+                className="md:w-auto h-[56px] md:h-auto"
               >
                 APPLY NOW — TAKES 60 SECONDS
               </Button>
@@ -193,8 +197,8 @@ export default function AcimaSection() {
             </p>
           </div>
 
-          {/* Right column — Banners */}
-          <div ref={bannersRef} className="w-full lg:w-[45%] flex items-center">
+          {/* Right column — Banners (hidden on mobile) */}
+          <div ref={bannersRef} className="hidden md:flex w-full lg:w-[45%] items-center">
             <AcimaBanners />
           </div>
         </div>

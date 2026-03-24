@@ -206,10 +206,76 @@ html:not([data-loaded]) {
   width: 40px;
 }
 
-/* ═══ CUSTOM CURSOR HIDE ═══ */
-@media (min-width: 1024px) and (hover: hover) {
-  .custom-cursor-active,
-  .custom-cursor-active * {
-    cursor: none !important;
+/* ═══════════════════════════════════════════════ */
+/* MOBILE OVERRIDES (< 768px)                     */
+/* ═══════════════════════════════════════════════ */
+@media (max-width: 767px) {
+  /* Prevent iOS zoom on input focus */
+  input, select, textarea {
+    font-size: 16px !important;
+  }
+
+  /* Smoother touch experience */
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Prevent horizontal overflow */
+  html, body {
+    overflow-x: hidden;
+    max-width: 100vw;
+  }
+
+  /* Fix 100vh on mobile (iOS address bar) */
+  .full-height {
+    min-height: 100dvh;
+  }
+
+  /* Body text base size */
+  body {
+    font-size: 15px;
+  }
+
+  /* Prevent text selection on interactive elements */
+  button, a, [role="button"] {
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  /* Hero headline sizing for mobile */
+  .hero-headline {
+    font-size: clamp(2.2rem, 10vw, 3rem);
+    line-height: 0.92;
+  }
+
+  /* Section headline sizing for mobile */
+  .section-headline {
+    font-size: clamp(1.8rem, 7vw, 2.5rem);
+  }
+
+  .section-heading {
+    font-size: clamp(1.6rem, 6vw, 2.2rem);
+  }
+
+  /* Vehicle select compact touch targets */
+  .vehicle-select {
+    height: 44px;
+    font-size: 16px;
+    border-radius: 8px;
+  }
+
+  /* Reduce animation complexity */
+  .scroll-reveal {
+    transition: opacity 0.4s ease, transform 0.4s ease !important;
+  }
+
+  /* Disable parallax */
+  [data-parallax] {
+    transform: none !important;
+  }
+
+  /* Disable tilt effects */
+  [data-tilt] {
+    transform: none !important;
   }
 }

@@ -49,16 +49,16 @@ export default function TestimonialsSection() {
       className="w-full py-16 lg:py-24"
       style={{ background: 'var(--bg-primary)' }}
     >
-      <div className="max-w-[1400px] mx-auto px-6">
+      <div className="max-w-[1400px] mx-auto px-4 md:px-6">
         <SectionHeading
           label="TESTIMONIALS"
           title="WHAT OUR CUSTOMERS SAY"
         />
 
-        <div className="mt-12 relative">
+        <div className="mt-8 md:mt-12 relative">
           <Swiper
             modules={[Autoplay, Navigation, Pagination]}
-            spaceBetween={24}
+            spaceBetween={16}
             loop={true}
             autoplay={{ delay: 5000, disableOnInteraction: true }}
             pagination={{
@@ -77,36 +77,36 @@ export default function TestimonialsSection() {
               }
             }}
             breakpoints={{
-              0: { slidesPerView: 1 },
-              768: { slidesPerView: 2 },
-              1024: { slidesPerView: 3 },
+              0: { slidesPerView: 1, spaceBetween: 12 },
+              768: { slidesPerView: 2, spaceBetween: 24 },
+              1024: { slidesPerView: 3, spaceBetween: 24 },
             }}
             className="pb-14"
           >
             {TESTIMONIALS.map((t, i) => (
               <SwiperSlide key={i} style={{ height: 'auto' }}>
                 <div
-                  className="p-8 rounded-xl flex flex-col"
+                  className="p-6 md:p-8 rounded-xl flex flex-col"
                   style={{
                     background: '#141414',
                     border: '1px solid rgba(255,255,255,0.06)',
-                    minHeight: 260,
+                    minHeight: 220,
                     height: '100%',
                   }}
                 >
-                  <div className="flex gap-1 mb-4">
+                  <div className="flex gap-0.5 md:gap-1 mb-3 md:mb-4">
                     {[...Array(5)].map((_, j) => (
-                      <Star key={j} size={16} fill="#D42B2B" color="#D42B2B" />
+                      <Star key={j} size={14} fill="#D42B2B" color="#D42B2B" className="md:w-4 md:h-4" />
                     ))}
                   </div>
-                  <p className="font-body text-[16px] text-[#D4D4D4] italic leading-[1.7] mb-6 flex-1">
+                  <p className="font-body text-[15px] md:text-[16px] text-[#D4D4D4] italic leading-[1.7] mb-4 md:mb-6 flex-1">
                     &ldquo;{t.quote}&rdquo;
                   </p>
                   <div className="mt-auto">
-                    <span className="font-heading text-[16px] font-semibold text-white block">
+                    <span className="font-heading text-[14px] md:text-[16px] font-semibold text-white block">
                       {t.name}
                     </span>
-                    <span className="font-body text-[13px] text-[var(--text-secondary)]">
+                    <span className="font-body text-[12px] md:text-[13px] text-[var(--text-secondary)]">
                       {t.vehicle}
                     </span>
                   </div>
@@ -115,7 +115,8 @@ export default function TestimonialsSection() {
             ))}
           </Swiper>
 
-          <div className="flex items-center justify-center gap-4 mt-6">
+          {/* Navigation arrows — hidden on mobile, visible on md+ */}
+          <div className="hidden md:flex items-center justify-center gap-4 mt-6">
             <button
               ref={prevRef}
               className="w-10 h-10 rounded-full flex items-center justify-center transition-colors duration-200"

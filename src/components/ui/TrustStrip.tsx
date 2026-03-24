@@ -40,7 +40,7 @@ export default function TrustStrip() {
         borderBottom: '1px solid rgba(255,255,255,0.06)',
       }}
     >
-      <div className="max-w-7xl mx-auto px-6 h-full">
+      <div className="max-w-7xl mx-auto px-4 md:px-6 h-full">
         {/* Desktop: horizontal row */}
         <div className="hidden lg:flex items-center justify-center h-full gap-0">
           {TRUST_ITEMS.map((item, i) => (
@@ -67,25 +67,25 @@ export default function TrustStrip() {
           ))}
         </div>
 
-        {/* Mobile: 2x2 grid + center last */}
-        <div className="grid grid-cols-2 gap-6 lg:hidden">
+        {/* Mobile: compact 2x2 grid + center last */}
+        <div className="grid grid-cols-2 gap-4 lg:hidden">
           {TRUST_ITEMS.map((item) => (
             <div
               key={item.label}
-              className={`flex items-center gap-3 ${
+              className={`flex items-center gap-2.5 ${
                 item.label === 'Financing Available' ? 'col-span-2 justify-center' : ''
               }`}
             >
-              <item.icon size={20} style={{ color: item.color }} />
+              <item.icon size={18} style={{ color: item.color }} className="flex-shrink-0" />
               <div>
-                <div className="font-display text-[28px] leading-none text-[var(--text-primary)]">
+                <div className="font-display text-[22px] md:text-[28px] leading-none text-[var(--text-primary)]">
                   {item.isNumber && visible ? (
                     <CountUpNumber end={item.end!} decimals={item.decimals} suffix={item.suffix} />
                   ) : (
                     item.value
                   )}
                 </div>
-                <div className="font-body text-[11px] text-[var(--text-secondary)]">
+                <div className="font-body text-[10px] md:text-[11px] text-[var(--text-secondary)]">
                   {item.label}
                 </div>
               </div>

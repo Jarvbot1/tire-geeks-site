@@ -3,7 +3,7 @@ import { useRef, useEffect } from 'react';
 import { gsap } from 'gsap';
 import Link from 'next/link';
 import { NAV_LINKS, BRAND } from '@/lib/constants';
-import { Facebook, Instagram } from 'lucide-react';
+import { Facebook, Instagram, Navigation, Ruler } from 'lucide-react';
 import Button from '@/components/ui/Button';
 
 interface MobileMenuProps {
@@ -44,10 +44,12 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
   return (
     <div
       ref={overlayRef}
-      className="fixed inset-0 z-[98] flex flex-col justify-center px-8"
+      className="fixed inset-0 z-[102] flex flex-col justify-start px-8 overflow-y-auto"
       style={{
         background: '#0A0A0A',
         clipPath: 'inset(0 100% 0 0)',
+        paddingTop: 80,
+        paddingBottom: 'calc(80px + env(safe-area-inset-bottom, 0px))',
       }}
     >
       <nav ref={linksRef} className="flex flex-col gap-4 mb-12">
@@ -73,9 +75,17 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
           </div>
         ))}
 
-        <div className="pt-4">
+        <div className="pt-4 space-y-3">
+          <Button href={BRAND.locations[0].mapUrl} external variant="ghost" fullWidth>
+            <Navigation size={16} />
+            GET DIRECTIONS
+          </Button>
           <Button href={BRAND.acima.applyUrl} external variant="cta" fullWidth>
             APPLY FOR FINANCING
+          </Button>
+          <Button href="/blog/tire-size-calculator" variant="outline" fullWidth>
+            <Ruler size={16} />
+            FIND MY TIRE SIZE
           </Button>
         </div>
 

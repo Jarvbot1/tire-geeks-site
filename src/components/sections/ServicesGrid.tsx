@@ -378,24 +378,24 @@ export default function ServicesGrid() {
         }
       `}</style>
 
-      <div className="max-w-[1400px] mx-auto px-6">
+      <div className="max-w-[1400px] mx-auto px-4 md:px-6">
         <div ref={headingRef}>
           <SectionHeading
             label="OUR SERVICES"
             title="EVERYTHING YOUR RIDE NEEDS"
           />
-          <p className="font-body text-[18px] text-[var(--text-secondary)] mt-4 max-w-[600px]">
+          <p className="font-body text-[15px] md:text-[18px] text-[var(--text-secondary)] mt-4 max-w-[600px]">
             From new tires to full suspension builds — we handle it all. No appointment needed.
           </p>
         </div>
 
         {/* Carousel container */}
-        <div className="relative mt-12">
-          {/* Left arrow */}
+        <div className="relative mt-8 md:mt-12">
+          {/* Left arrow — hidden on mobile */}
           <button
             onClick={goPrev}
             disabled={currentIndex === 0}
-            className="absolute -left-5 lg:-left-12 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full flex items-center justify-center transition-all duration-300"
+            className="hidden md:flex absolute -left-5 lg:-left-12 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full items-center justify-center transition-all duration-300"
             style={{
               background: currentIndex === 0 ? 'rgba(255,255,255,0.05)' : 'rgba(30, 136, 199, 0.2)',
               border: `1px solid ${currentIndex === 0 ? 'rgba(255,255,255,0.1)' : 'rgba(30, 136, 199, 0.4)'}`,
@@ -407,11 +407,11 @@ export default function ServicesGrid() {
             <ChevronLeft size={20} color={currentIndex === 0 ? '#555' : '#1E88C7'} />
           </button>
 
-          {/* Right arrow */}
+          {/* Right arrow — hidden on mobile */}
           <button
             onClick={goNext}
             disabled={currentIndex >= maxIndex}
-            className="absolute -right-5 lg:-right-12 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full flex items-center justify-center transition-all duration-300"
+            className="hidden md:flex absolute -right-5 lg:-right-12 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full items-center justify-center transition-all duration-300"
             style={{
               background: currentIndex >= maxIndex ? 'rgba(255,255,255,0.05)' : 'rgba(30, 136, 199, 0.2)',
               border: `1px solid ${currentIndex >= maxIndex ? 'rgba(255,255,255,0.1)' : 'rgba(30, 136, 199, 0.4)'}`,
@@ -445,7 +445,7 @@ export default function ServicesGrid() {
                 >
                   <Link
                     href="/services"
-                    className="group p-6 rounded-lg transition-all duration-300 block h-full"
+                    className="group p-5 md:p-6 rounded-xl md:rounded-lg transition-all duration-300 block h-full flex items-start gap-4 md:block"
                     style={{
                       background: '#141414',
                       border: '1px solid rgba(255,255,255,0.06)',
@@ -464,17 +464,21 @@ export default function ServicesGrid() {
                     }}
                   >
                     <div
-                      className="w-16 h-12 mb-4"
-                      style={{ color: service.color }}
+                      className="w-12 h-12 min-w-[48px] rounded-xl flex items-center justify-center md:w-16 md:h-12 md:min-w-0 md:rounded-none md:mb-4 md:bg-transparent"
+                      style={{ color: service.color, background: `${service.color}15` }}
                     >
-                      {service.icon}
+                      <div className="w-6 h-6 md:w-full md:h-full">
+                        {service.icon}
+                      </div>
                     </div>
-                    <h3 className="font-heading text-[15px] md:text-[17px] font-semibold uppercase text-[var(--text-primary)] mb-2 leading-tight">
-                      {service.title}
-                    </h3>
-                    <p className="font-body text-[13px] text-[var(--text-secondary)] leading-relaxed">
-                      {service.desc}
-                    </p>
+                    <div>
+                      <h3 className="font-heading text-[15px] md:text-[17px] font-semibold uppercase text-[var(--text-primary)] mb-1 md:mb-2 leading-tight">
+                        {service.title}
+                      </h3>
+                      <p className="font-body text-[13px] text-[var(--text-secondary)] leading-relaxed">
+                        {service.desc}
+                      </p>
+                    </div>
                   </Link>
                 </div>
               ))}

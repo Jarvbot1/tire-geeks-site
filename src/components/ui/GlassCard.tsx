@@ -11,10 +11,10 @@ export default function GlassCard({ children, className = '', solid = false }: G
     <div
       className={`rounded-[12px] ${className}`}
       style={{
-        background: solid ? '#141414' : 'rgba(255,255,255,0.04)',
+        background: solid ? '#111111' : 'rgba(255,255,255,0.04)',
         backdropFilter: solid ? 'none' : 'blur(16px)',
         WebkitBackdropFilter: solid ? 'none' : 'blur(16px)',
-        border: `1px solid ${solid ? '#2A2A2A' : 'rgba(255,255,255,0.08)'}`,
+        border: `1px solid ${solid ? 'rgba(255,255,255,0.1)' : 'rgba(255,255,255,0.08)'}`,
       }}
     >
       {children}
