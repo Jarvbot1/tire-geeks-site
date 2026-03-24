@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import DOMPurify from 'isomorphic-dompurify';
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 import type { BlogPost } from '@/data/blogPosts';
@@ -72,7 +73,7 @@ export default function BlogPostClient({ post }: { post: BlogPost | undefined })
           .blog-content a { color: #D42B2B; text-decoration: underline; text-underline-offset: 2px; }
           .blog-content a:hover { color: #FF4444; }
         `}} />
-        <div className="blog-content max-w-[780px] mx-auto px-4 md:px-6 py-8 md:py-12" dangerouslySetInnerHTML={{ __html: post.content }} />
+        <div className="blog-content max-w-[780px] mx-auto px-4 md:px-6 py-8 md:py-12" dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(post.content) }} />
       </article>
 
       {/* Related Posts */}

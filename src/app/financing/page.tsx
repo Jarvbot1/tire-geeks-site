@@ -16,7 +16,7 @@ import {
 } from 'lucide-react';
 
 const ACIMA_LINK =
-  'https://ams.acima.com/discover/new?merchant_guid=merc-e5ef0fb3-8f8e-48fa-838d-4cf2cd7b2ec3&utm_source=web-banner&utm_medium=merchant&utm_campaign=mktg-lp';
+  `https://ams.acima.com/discover/new?merchant_guid=${process.env.NEXT_PUBLIC_ACIMA_MERCHANT_GUID || ''}&utm_source=web-banner&utm_medium=merchant&utm_campaign=mktg-lp`;
 
 const steps = [
   {

@@ -103,6 +103,8 @@ export default function ContactPage() {
                   value={form.name}
                   onChange={handleChange}
                   placeholder="Your full name"
+                  required
+                  maxLength={100}
                   style={inputStyle}
                   onFocus={focusHandler}
                   onBlur={blurHandler}
@@ -119,6 +121,10 @@ export default function ContactPage() {
                   value={form.phone}
                   onChange={handleChange}
                   placeholder="(916) 555-0000"
+                  required
+                  maxLength={20}
+                  pattern="[\d\s\(\)\-\+]+"
+                  title="Please enter a valid phone number"
                   style={inputStyle}
                   onFocus={focusHandler}
                   onBlur={blurHandler}
@@ -135,6 +141,8 @@ export default function ContactPage() {
                   value={form.email}
                   onChange={handleChange}
                   placeholder="you@email.com"
+                  required
+                  maxLength={254}
                   style={inputStyle}
                   onFocus={focusHandler}
                   onBlur={blurHandler}
@@ -149,6 +157,7 @@ export default function ContactPage() {
                   name="location"
                   value={form.location}
                   onChange={handleChange}
+                  required
                   style={{ ...inputStyle, appearance: 'none', cursor: 'pointer' }}
                   onFocus={focusHandler}
                   onBlur={blurHandler}
@@ -167,6 +176,7 @@ export default function ContactPage() {
                   name="service"
                   value={form.service}
                   onChange={handleChange}
+                  required
                   style={{ ...inputStyle, appearance: 'none', cursor: 'pointer' }}
                   onFocus={focusHandler}
                   onBlur={blurHandler}
@@ -193,6 +203,7 @@ export default function ContactPage() {
                     value={form.vehicleYear}
                     onChange={handleChange}
                     placeholder="Year"
+                    maxLength={4}
                     style={inputStyle}
                     onFocus={focusHandler}
                     onBlur={blurHandler}
@@ -204,6 +215,7 @@ export default function ContactPage() {
                     value={form.vehicleMake}
                     onChange={handleChange}
                     placeholder="Make"
+                    maxLength={50}
                     style={inputStyle}
                     onFocus={focusHandler}
                     onBlur={blurHandler}
@@ -215,6 +227,7 @@ export default function ContactPage() {
                     value={form.vehicleModel}
                     onChange={handleChange}
                     placeholder="Model"
+                    maxLength={50}
                     style={inputStyle}
                     onFocus={focusHandler}
                     onBlur={blurHandler}
@@ -231,6 +244,8 @@ export default function ContactPage() {
                   value={form.message}
                   onChange={handleChange}
                   placeholder="Tell us about your vehicle needs..."
+                  required
+                  maxLength={2000}
                   style={{
                     ...inputStyle,
                     height: 'auto',

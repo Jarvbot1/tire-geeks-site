@@ -77,6 +77,7 @@ export default function LocationsSection() {
                 style={{ border: 0 }}
                 allowFullScreen
                 loading="lazy"
+                sandbox="allow-scripts allow-same-origin"
                 title={`${BRAND.locations[i].name} map`}
               />
             </div>

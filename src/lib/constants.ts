@@ -1,3 +1,6 @@
+const ACIMA_GUID = process.env.NEXT_PUBLIC_ACIMA_MERCHANT_GUID || '';
+const ACIMA_APPLY_URL = `https://ams.acima.com/discover/new?merchant_guid=${ACIMA_GUID}&utm_source=web-banner&utm_medium=merchant&utm_campaign=mktg-lp`;
+
 export const BRAND = {
   colors: {
     red: '#D42B2B',
@@ -66,9 +69,8 @@ export const BRAND = {
   },
 
   acima: {
-    merchantGuid: 'merc-e5ef0fb3-8f8e-48fa-838d-4cf2cd7b2ec3',
-    applyUrl:
-      'https://ams.acima.com/discover/new?merchant_guid=merc-e5ef0fb3-8f8e-48fa-838d-4cf2cd7b2ec3&utm_source=web-banner&utm_medium=merchant&utm_campaign=mktg-lp',
+    merchantGuid: ACIMA_GUID,
+    applyUrl: ACIMA_APPLY_URL,
     benefits: [
       'No Credit Needed',
       'No Down Payment',
@@ -77,7 +79,7 @@ export const BRAND = {
       'Apply in Seconds',
     ],
   },
-} as const;
+};
 
 export const NAV_LINKS = [
   { label: 'HOME', href: '/' },

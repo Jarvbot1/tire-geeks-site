@@ -156,6 +156,9 @@ export default function TireSizeCalculator() {
                         placeholder="265"
                         value={current.width}
                         onChange={(e) => setCurrent({ ...current, width: Number(e.target.value) })}
+                        min={100}
+                        max={500}
+                        step={5}
                         className="w-full rounded-lg px-4 py-3 text-white font-body focus:outline-none"
                         style={{
                           backgroundColor: '#1A1A1A',
@@ -174,6 +177,9 @@ export default function TireSizeCalculator() {
                         placeholder="70"
                         value={current.aspect}
                         onChange={(e) => setCurrent({ ...current, aspect: Number(e.target.value) })}
+                        min={20}
+                        max={95}
+                        step={5}
                         className="w-full rounded-lg px-4 py-3 text-white font-body focus:outline-none"
                         style={{
                           backgroundColor: '#1A1A1A',
@@ -192,6 +198,9 @@ export default function TireSizeCalculator() {
                         placeholder="17"
                         value={current.rim}
                         onChange={(e) => setCurrent({ ...current, rim: Number(e.target.value) })}
+                        min={12}
+                        max={30}
+                        step={1}
                         className="w-full rounded-lg px-4 py-3 text-white font-body focus:outline-none"
                         style={{
                           backgroundColor: '#1A1A1A',
@@ -222,6 +231,9 @@ export default function TireSizeCalculator() {
                         placeholder="265"
                         value={newTire.width}
                         onChange={(e) => setNewTire({ ...newTire, width: Number(e.target.value) })}
+                        min={100}
+                        max={500}
+                        step={5}
                         className="w-full rounded-lg px-4 py-3 text-white font-body focus:outline-none"
                         style={{
                           backgroundColor: '#1A1A1A',
@@ -240,6 +252,9 @@ export default function TireSizeCalculator() {
                         placeholder="70"
                         value={newTire.aspect}
                         onChange={(e) => setNewTire({ ...newTire, aspect: Number(e.target.value) })}
+                        min={20}
+                        max={95}
+                        step={5}
                         className="w-full rounded-lg px-4 py-3 text-white font-body focus:outline-none"
                         style={{
                           backgroundColor: '#1A1A1A',
@@ -258,6 +273,9 @@ export default function TireSizeCalculator() {
                         placeholder="17"
                         value={newTire.rim}
                         onChange={(e) => setNewTire({ ...newTire, rim: Number(e.target.value) })}
+                        min={12}
+                        max={30}
+                        step={1}
                         className="w-full rounded-lg px-4 py-3 text-white font-body focus:outline-none"
                         style={{
                           backgroundColor: '#1A1A1A',
