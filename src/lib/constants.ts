@@ -1,4 +1,4 @@
-const ACIMA_GUID = process.env.NEXT_PUBLIC_ACIMA_MERCHANT_GUID || '';
+const ACIMA_GUID = process.env.NEXT_PUBLIC_ACIMA_MERCHANT_GUID || 'merc-e5ef0fb3-8f8e-48fa-838d-4cf2cd7b2ec3';
 const ACIMA_APPLY_URL = `https://ams.acima.com/discover/new?merchant_guid=${ACIMA_GUID}&utm_source=web-banner&utm_medium=merchant&utm_campaign=mktg-lp`;
 
 export const BRAND = {
