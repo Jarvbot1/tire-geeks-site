@@ -28,6 +28,8 @@ export default function sitemap() {
     { url: `${base}/neighborhoods/arden-arcade`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.8 },
     { url: `${base}/neighborhoods/carmichael`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.8 },
     { url: `${base}/contact`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.7 },
+    { url: `${base}/privacy`, lastModified: new Date(), changeFrequency: 'yearly' as const, priority: 0.3 },
+    { url: `${base}/terms`, lastModified: new Date(), changeFrequency: 'yearly' as const, priority: 0.3 },
     ...blogPosts.map(post => ({
       url: `${base}/blog/${post.slug}`,
       lastModified: new Date(),
