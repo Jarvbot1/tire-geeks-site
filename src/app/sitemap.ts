@@ -33,7 +33,7 @@ export default function sitemap() {
     ...blogPosts.map(post => ({
       url: `${base}/blog/${post.slug}`,
       lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
+      changeFrequency: 'weekly' as const,
       priority: 0.7,
     })),
     ...galleryBuilds.map(build => ({
