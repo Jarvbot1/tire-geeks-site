@@ -15,7 +15,7 @@
 Sacramento's walk-in tire, wheel, and suspension shop with no-credit-needed financing — built for drivers who need it now and enthusiasts building something custom.
 
 **What it does (2–3 sentences)** 🟢
-Tire Geeks sells and installs tires, custom wheels, lift kits, leveling kits, lowering kits, alignments, and brakes/suspension out of two Sacramento locations (Florin Road, Arden Way). Walk-ins are welcome — no appointment needed, Mon–Sat 9AM–7PM. Acima lease-to-own financing offers approval up to $5,000 with no traditional credit check, no down payment, and 100 days same-as-cash.
+Tire Geeks sells and installs tires, custom wheels, lift kits, leveling kits, lowering kits, alignments, and brakes/suspension out of two Sacramento locations (Florin Road, Arden Way). Walk-ins are welcome — no appointment needed, Mon–Sat 9AM–6PM. Acima lease-to-own financing offers approval up to $5,000 with no traditional credit check, no down payment, and 100 days same-as-cash.
 
 **Product category (the "shelf")** 🟢
 Local tire & wheel shop / automotive aftermarket retailer. Customers find us by searching:
@@ -232,7 +232,7 @@ The slogan **"Don't trust a nerd for your needs — go with the geeks"** positio
 **Operating-promise phrases:**
 - "No appointment needed" / "Walk-ins welcome" / "Walk in today"
 - "Same-day install" / "Roll up and get [X] the same day"
-- "Mon–Sat: 9AM–7PM"
+- "Mon–Sat: 9AM–6PM"
 - "Two Sacramento locations"
 
 **Financing phrases:**
@@ -464,7 +464,7 @@ When referring to the brand mark in text: "**TIRE**" in red (#D42B2B) and "**GEE
 **Addresses** 🟢
 - Florin Road: **3020 Florin Road, Sacramento, CA 95822**
 - Arden Way: **2245 Arden Way, Sacramento, CA 95825**
-- Hours: **Mon–Sat: 9AM–7PM** (Sun: Closed) — use en-dash between days, no space before/after AM/PM
+- Hours: **Mon–Sat: 9AM–6PM** (Sun: Closed) — use en-dash between days, no space before/after AM/PM
 
 **Preferred terminology** 🟢
 | Use | Don't use |
@@ -492,7 +492,7 @@ When referring to the brand mark in text: "**TIRE**" in red (#D42B2B) and "**GEE
 - **500+ wheel styles available** (Wheels page)
 - **Two Sacramento locations**
 - **No appointment needed** (operating model)
-- **Mon–Sat 9AM–7PM**
+- **Mon–Sat 9AM–6PM**
 
 **Financing proof points** 🟢
 - Approval up to **$5,000 in seconds**

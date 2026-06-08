@@ -81,7 +81,7 @@ export default function BrakesSacramentoPage() {
         name: 'Does Tire Geeks do brake inspections?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'Yes. We offer complimentary brake inspections at both Sacramento locations. Our technicians will check your pad thickness, rotor condition, caliper operation, brake fluid level and condition, and brake line integrity. Walk in anytime Monday through Saturday, 9AM to 7PM.',
+          text: 'Yes. We offer complimentary brake inspections at both Sacramento locations. Our technicians will check your pad thickness, rotor condition, caliper operation, brake fluid level and condition, and brake line integrity. Walk in anytime Monday through Saturday, 9AM to 6PM.',
         },
       },
       {
@@ -431,7 +431,7 @@ export default function BrakesSacramentoPage() {
                     Visit us today &mdash; no appointment needed. Same-day brake service available at both locations.
                   </p>
                   <p className="font-nav text-[12px] uppercase tracking-wider text-[#9E9E9E]">
-                    Mon&ndash;Sat: 9AM&ndash;7PM
+                    Mon&ndash;Sat: 9AM&ndash;6PM
                   </p>
                 </div>
 
@@ -493,7 +493,7 @@ export default function BrakesSacramentoPage() {
                 },
                 {
                   q: 'Does Tire Geeks do brake inspections?',
-                  a: 'Yes, brake inspections are complimentary at both Sacramento locations. Walk in anytime Mon-Sat, 9AM-7PM. Our technicians will check pads, rotors, calipers, fluid, and lines and give you an honest assessment.',
+                  a: 'Yes, brake inspections are complimentary at both Sacramento locations. Walk in anytime Mon-Sat, 9AM-6PM. Our technicians will check pads, rotors, calipers, fluid, and lines and give you an honest assessment.',
                 },
                 {
                   q: "What's the difference between ceramic and semi-metallic brake pads?",
@@ -532,7 +532,7 @@ export default function BrakesSacramentoPage() {
                   address: '3020 Florin Road, Sacramento, CA 95822',
                   phone: '(916) 800-8786',
                   phoneRaw: '+19168008786',
-                  hours: 'Mon-Sat: 9AM-7PM',
+                  hours: 'Mon-Sat: 9AM-6PM',
                   mapUrl: 'https://maps.google.com/?q=3020+Florin+Road+Sacramento+CA+95822',
                   locationPage: '/locations/florin-road',
                 },
@@ -541,7 +541,7 @@ export default function BrakesSacramentoPage() {
                   address: '2245 Arden Way, Sacramento, CA 95825',
                   phone: '(916) 913-8786',
                   phoneRaw: '+19169138786',
-                  hours: 'Mon-Sat: 9AM-7PM',
+                  hours: 'Mon-Sat: 9AM-6PM',
                   mapUrl: 'https://maps.google.com/?q=2245+Arden+Way+Sacramento+CA+95825',
                   locationPage: '/locations/arden-way',
                 },

@@ -12,11 +12,11 @@ import { BRAND } from '@/lib/constants';
 export const metadata: Metadata = {
   title: 'Tire Shop on Arden Way, Sacramento | Tire Geeks Arden-Arcade',
   description:
-    'Visit Tire Geeks at 2245 Arden Way, Sacramento CA 95825. Tires, custom wheels, alignment, lift kits, lowering, brakes & suspension. Walk-ins welcome Mon-Sat 9AM-7PM. Call (916) 913-8786.',
+    'Visit Tire Geeks at 2245 Arden Way, Sacramento CA 95825. Tires, custom wheels, alignment, lift kits, lowering, brakes & suspension. Walk-ins welcome Mon-Sat 9AM-6PM. Call (916) 913-8786.',
   openGraph: {
     title: 'Tire Shop on Arden Way, Sacramento | Tire Geeks Arden-Arcade',
     description:
-      'Visit Tire Geeks at 2245 Arden Way, Sacramento CA 95825. Tires, custom wheels, alignment, lift kits, lowering, brakes & suspension. Walk-ins welcome Mon-Sat 9AM-7PM.',
+      'Visit Tire Geeks at 2245 Arden Way, Sacramento CA 95825. Tires, custom wheels, alignment, lift kits, lowering, brakes & suspension. Walk-ins welcome Mon-Sat 9AM-6PM.',
     url: 'https://tiregeeks.com/locations/arden-way',
     type: 'website',
   },
@@ -62,7 +62,7 @@ const localBusinessSchema = {
       '@type': 'OpeningHoursSpecification',
       dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
       opens: '09:00',
-      closes: '19:00',
+      closes: '18:00',
     },
   ],
   priceRange: '$$',
@@ -106,7 +106,7 @@ const faqSchema = {
       name: 'Where is the best tire shop near Arden-Arcade?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Tire Geeks on Arden Way is the top-rated tire shop serving the Arden-Arcade community. Located at 2245 Arden Way, Sacramento CA 95825, we are just minutes from Arden Fair Mall and easily accessible from Business 80, Howe Avenue, and Watt Avenue. Walk-ins are welcome Monday through Saturday, 9AM to 7PM.',
+        text: 'Tire Geeks on Arden Way is the top-rated tire shop serving the Arden-Arcade community. Located at 2245 Arden Way, Sacramento CA 95825, we are just minutes from Arden Fair Mall and easily accessible from Business 80, Howe Avenue, and Watt Avenue. Walk-ins are welcome Monday through Saturday, 9AM to 6PM.',
       },
     },
     {
@@ -114,7 +114,7 @@ const faqSchema = {
       name: 'Do I need an appointment at Tire Geeks Arden Way?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'No appointment is needed for most services at our Arden Way location. We welcome walk-ins Monday through Saturday from 9AM to 7PM. For larger projects like lift kit installations, suspension builds, or full wheel-and-tire packages, calling ahead at (916) 913-8786 is recommended so we can reserve time and have your parts ready.',
+        text: 'No appointment is needed for most services at our Arden Way location. We welcome walk-ins Monday through Saturday from 9AM to 6PM. For larger projects like lift kit installations, suspension builds, or full wheel-and-tire packages, calling ahead at (916) 913-8786 is recommended so we can reserve time and have your parts ready.',
       },
     },
     {
@@ -305,7 +305,7 @@ export default function ArdenWayPage() {
                   <div className="flex items-start gap-3">
                     <Clock size={18} className="mt-1 flex-shrink-0 text-[#9E9E9E]" />
                     <div>
-                      <p className="font-body text-[16px] text-[#9E9E9E]">Mon&ndash;Sat: 9AM&ndash;7PM</p>
+                      <p className="font-body text-[16px] text-[#9E9E9E]">Mon&ndash;Sat: 9AM&ndash;6PM</p>
                       <p className="font-body text-[16px] text-[#6B7280]">Sun: Closed</p>
                     </div>
                   </div>
@@ -373,7 +373,7 @@ export default function ArdenWayPage() {
                   For drivers in North Sacramento and North Highlands, our Arden Way shop is a straight shot down Watt Avenue or a quick ride on Business 80 South. You&apos;ll get the same expert service and competitive pricing that would cost you more at a dealership or big-box chain. And unlike those places, we actually know your name and remember your vehicle when you come back.
                 </p>
                 <p className="font-body text-[#AAAAAA] text-[15px] leading-relaxed">
-                  Whether you&apos;re shopping for a budget-friendly set of commuter tires, a set of aggressive off-road wheels, or a complete stance build with coilovers and custom fitment, Tire Geeks on Arden Way has you covered. Walk in any Monday through Saturday between 9AM and 7PM, give us a call at{' '}
+                  Whether you&apos;re shopping for a budget-friendly set of commuter tires, a set of aggressive off-road wheels, or a complete stance build with coilovers and custom fitment, Tire Geeks on Arden Way has you covered. Walk in any Monday through Saturday between 9AM and 6PM, give us a call at{' '}
                   <a href="tel:+19169138786" className="text-[#D42B2B] hover:underline">(916) 913-8786</a>, or visit our{' '}
                   <Link href="/locations/florin-road" className="text-[#D42B2B] hover:underline">Florin Road location</Link>{' '}
                   if you&apos;re closer to South Sacramento. We&apos;re here to earn your business and keep you coming back.

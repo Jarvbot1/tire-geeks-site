@@ -266,7 +266,7 @@ export default function TeamPage() {
             Walk In, Meet the Team
           </h2>
           <p className="font-body text-[16px] md:text-[18px] text-[#9E9E9E] max-w-2xl mb-8">
-            Two Sacramento locations, Mon–Sat 9AM–7PM. No appointment needed.
+            Two Sacramento locations, Mon–Sat 9AM–6PM. No appointment needed.
           </p>
           <div className="flex flex-wrap items-center justify-center gap-4">
             <a

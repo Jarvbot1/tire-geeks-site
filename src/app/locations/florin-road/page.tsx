@@ -12,11 +12,11 @@ import { BRAND } from '@/lib/constants';
 export const metadata: Metadata = {
   title: 'Tire Shop on Florin Road, Sacramento | Tire Geeks South Sacramento',
   description:
-    'Visit Tire Geeks at 3020 Florin Road, Sacramento CA 95822. Tires, custom wheels, alignment, lift kits, lowering, brakes & suspension. Walk-ins welcome Mon-Sat 9AM-7PM. Call (916) 800-8786.',
+    'Visit Tire Geeks at 3020 Florin Road, Sacramento CA 95822. Tires, custom wheels, alignment, lift kits, lowering, brakes & suspension. Walk-ins welcome Mon-Sat 9AM-6PM. Call (916) 800-8786.',
   openGraph: {
     title: 'Tire Shop on Florin Road, Sacramento | Tire Geeks South Sacramento',
     description:
-      'Visit Tire Geeks at 3020 Florin Road, Sacramento CA 95822. Tires, custom wheels, alignment, lift kits, lowering, brakes & suspension. Walk-ins welcome Mon-Sat 9AM-7PM.',
+      'Visit Tire Geeks at 3020 Florin Road, Sacramento CA 95822. Tires, custom wheels, alignment, lift kits, lowering, brakes & suspension. Walk-ins welcome Mon-Sat 9AM-6PM.',
     url: 'https://tiregeeks.com/locations/florin-road',
     type: 'website',
   },
@@ -62,7 +62,7 @@ const localBusinessSchema = {
       '@type': 'OpeningHoursSpecification',
       dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
       opens: '09:00',
-      closes: '19:00',
+      closes: '18:00',
     },
   ],
   priceRange: '$$',
@@ -102,7 +102,7 @@ const faqSchema = {
       name: 'Where is the best tire shop near Pocket Sacramento?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Tire Geeks on Florin Road is the top-rated tire shop serving Pocket, Land Park, and all of South Sacramento. Located at 3020 Florin Road, Sacramento CA 95822, we are just minutes from the Pocket neighborhood via Freeport Blvd or I-5. Walk-ins are welcome Monday through Saturday, 9AM to 7PM.',
+        text: 'Tire Geeks on Florin Road is the top-rated tire shop serving Pocket, Land Park, and all of South Sacramento. Located at 3020 Florin Road, Sacramento CA 95822, we are just minutes from the Pocket neighborhood via Freeport Blvd or I-5. Walk-ins are welcome Monday through Saturday, 9AM to 6PM.',
       },
     },
     {
@@ -110,7 +110,7 @@ const faqSchema = {
       name: 'Do I need an appointment at Tire Geeks Florin Road?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'No appointment is needed for most services. Tire Geeks on Florin Road welcomes walk-ins Monday through Saturday from 9AM to 7PM. For larger jobs like lift kit installations or full suspension builds, calling ahead at (916) 800-8786 is recommended so we can reserve the time and parts.',
+        text: 'No appointment is needed for most services. Tire Geeks on Florin Road welcomes walk-ins Monday through Saturday from 9AM to 6PM. For larger jobs like lift kit installations or full suspension builds, calling ahead at (916) 800-8786 is recommended so we can reserve the time and parts.',
       },
     },
     {
@@ -301,7 +301,7 @@ export default function FlorinRoadPage() {
                   <div className="flex items-start gap-3">
                     <Clock size={18} className="mt-1 flex-shrink-0 text-[#9E9E9E]" />
                     <div>
-                      <p className="font-body text-[16px] text-[#9E9E9E]">Mon&ndash;Sat: 9AM&ndash;7PM</p>
+                      <p className="font-body text-[16px] text-[#9E9E9E]">Mon&ndash;Sat: 9AM&ndash;6PM</p>
                       <p className="font-body text-[16px] text-[#6B7280]">Sun: Closed</p>
                     </div>
                   </div>
@@ -363,7 +363,7 @@ export default function FlorinRoadPage() {
               </div>
               <div className="space-y-5">
                 <p className="font-body text-[#AAAAAA] text-[15px] leading-relaxed">
-                  The Meadowview and Fruitridge communities have long needed a trustworthy, no-nonsense tire shop that puts customer service first. That&apos;s exactly what Tire Geeks delivers. We don&apos;t upsell services you don&apos;t need, and we don&apos;t keep you waiting. Most tire installations and alignments are completed the same day, and walk-ins are always welcome during our Monday through Saturday hours from 9AM to 7PM.
+                  The Meadowview and Fruitridge communities have long needed a trustworthy, no-nonsense tire shop that puts customer service first. That&apos;s exactly what Tire Geeks delivers. We don&apos;t upsell services you don&apos;t need, and we don&apos;t keep you waiting. Most tire installations and alignments are completed the same day, and walk-ins are always welcome during our Monday through Saturday hours from 9AM to 6PM.
                 </p>
                 <p className="font-body text-[#AAAAAA] text-[15px] leading-relaxed">
                   If you live in the Land Park area and have been driving across town for tire work, there&apos;s no need to go that far. Our Florin Road location is a quick straight shot down Freeport Blvd or a short hop on I-5. And for Elk Grove residents tired of limited local options, the drive north on Highway 99 takes less than 15 minutes and gives you access to a much wider selection of tires, wheels, and services than you&apos;ll find at the typical chain store.

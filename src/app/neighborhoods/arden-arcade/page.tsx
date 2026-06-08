@@ -5,11 +5,11 @@ import { Phone, MapPin, Clock, Check, ChevronRight, Navigation } from 'lucide-re
 export const metadata: Metadata = {
   title: 'Tire Shop Arden-Arcade Sacramento | Tires, Wheels & Alignment | Tire Geeks',
   description:
-    'Arden-Arcade tire shop on Arden Way — tires from $279, alignment from $79, custom wheels, brakes, and Acima financing. 2245 Arden Way, walk in Mon–Sat 9AM–7PM. Call (916) 913-8786.',
+    'Arden-Arcade tire shop on Arden Way — tires from $279, alignment from $79, custom wheels, brakes, and Acima financing. 2245 Arden Way, walk in Mon–Sat 9AM–6PM. Call (916) 913-8786.',
   openGraph: {
     title: 'Tire Shop Arden-Arcade Sacramento | Tires, Wheels & Alignment | Tire Geeks',
     description:
-      'Tire Geeks at 2245 Arden Way — local Arden-Arcade tire and wheel shop. Tires from $279, alignment from $79, packages from $999. Walk in Mon–Sat 9AM–7PM.',
+      'Tire Geeks at 2245 Arden Way — local Arden-Arcade tire and wheel shop. Tires from $279, alignment from $79, packages from $999. Walk in Mon–Sat 9AM–6PM.',
     url: 'https://tiregeeks.com/neighborhoods/arden-arcade',
     images: [{ url: '/images/store-front-arden.jpg', width: 1200, height: 630 }],
   },
@@ -94,7 +94,7 @@ export default function ArdenArcadePage() {
         '@type': 'OpeningHoursSpecification',
         dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
         opens: '09:00',
-        closes: '19:00',
+        closes: '18:00',
       },
     ],
     priceRange: '$$',
@@ -111,7 +111,7 @@ export default function ArdenArcadePage() {
         name: 'Where exactly is Tire Geeks in Arden-Arcade?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'We are at 2245 Arden Way, Sacramento CA 95825 — right in the heart of Arden-Arcade between Howe Avenue and Watt Avenue, minutes from Arden Fair Mall and Cal Expo. Most Arden-Arcade addresses are within 2 to 5 minutes of the shop. Walk in Monday through Saturday, 9 AM to 7 PM. Call (916) 913-8786.',
+          text: 'We are at 2245 Arden Way, Sacramento CA 95825 — right in the heart of Arden-Arcade between Howe Avenue and Watt Avenue, minutes from Arden Fair Mall and Cal Expo. Most Arden-Arcade addresses are within 2 to 5 minutes of the shop. Walk in Monday through Saturday, 9 AM to 6 PM. Call (916) 913-8786.',
         },
       },
       {
@@ -119,7 +119,7 @@ export default function ArdenArcadePage() {
         name: 'Can I drop my car off in the morning before work?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'Yes. Drop off any morning starting at 9 AM, walk or grab a ride to the office, and we will text you when it is ready. Tires and alignments usually finish in under two hours; full wheel-and-tire packages or brake jobs are a few hours. Pickup any time before 7 PM.',
+          text: 'Yes. Drop off any morning starting at 9 AM, walk or grab a ride to the office, and we will text you when it is ready. Tires and alignments usually finish in under two hours; full wheel-and-tire packages or brake jobs are a few hours. Pickup any time before 6 PM.',
         },
       },
       {
@@ -200,7 +200,7 @@ export default function ArdenArcadePage() {
               Tire Geeks is right in the neighborhood at 2245 Arden Way &mdash; most Arden-Arcade
               addresses are 2 to 5 minutes from the shop. Tires starting at $279, alignment from $79,
               tire-and-wheel packages from $999, plus brakes and Acima financing on the spot. Walk in
-              Mon&ndash;Sat 9AM&ndash;7PM. Call (916) 913-8786.
+              Mon&ndash;Sat 9AM&ndash;6PM. Call (916) 913-8786.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <a
@@ -248,7 +248,7 @@ export default function ArdenArcadePage() {
                   Camino, Eastern, or Fulton, you are 2 to 5 minutes door-to-door. No freeway, no
                   cross-town drive, no losing the morning. Drop the car off on the way to work, swing
                   back at lunch, or grab a coffee at one of the spots up the block while we knock it
-                  out. Walk in Mon&ndash;Sat 9AM&ndash;7PM &mdash; no appointment needed for tires,
+                  out. Walk in Mon&ndash;Sat 9AM&ndash;6PM &mdash; no appointment needed for tires,
                   alignment, or brakes.
                 </p>
               </div>
@@ -472,7 +472,7 @@ export default function ArdenArcadePage() {
                   </div>
                   <div className="flex items-center gap-3">
                     <Clock className="w-5 h-5 flex-shrink-0" style={{ color: '#D42B2B' }} />
-                    <span className="font-body text-[#CFCFCF] text-[15px]">Mon&ndash;Sat: 9AM&ndash;7PM</span>
+                    <span className="font-body text-[#CFCFCF] text-[15px]">Mon&ndash;Sat: 9AM&ndash;6PM</span>
                   </div>
                 </div>
                 <div className="mt-6 pt-6 border-t border-white/5">
@@ -513,7 +513,7 @@ export default function ArdenArcadePage() {
                   You live off Eastern, Watt, or Fulton, and your daily driver needs four tires and
                   an alignment. You are at our counter at 9 AM, leave the car, walk or grab a ride to
                   the office, and we text you mid-morning when it is done. Tires from $279, alignment
-                  from $79, both knocked out before lunch. Pickup any time before 7 PM &mdash; the
+                  from $79, both knocked out before lunch. Pickup any time before 6 PM &mdash; the
                   shop is two minutes from your driveway.
                 </p>
               </div>
@@ -578,7 +578,7 @@ export default function ArdenArcadePage() {
             </h2>
             <p className="font-body text-[#CFCFCF] text-lg mb-3 leading-relaxed">
               Tire Geeks &mdash; 2245 Arden Way, Sacramento. Right in the Arden-Arcade neighborhood.
-              Walk in Mon&ndash;Sat, 9 AM to 7 PM. Tires from $279, alignment from $79, packages
+              Walk in Mon&ndash;Sat, 9 AM to 6 PM. Tires from $279, alignment from $79, packages
               from $999, plus Acima financing on the spot.
             </p>
             <p className="font-body text-[#9E9E9E] text-[15px] mb-8 italic">

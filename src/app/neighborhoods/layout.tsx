@@ -5,7 +5,7 @@ import Footer from '@/components/layout/Footer';
 export const metadata: Metadata = {
   title: 'Tire Shop Service Areas | Sacramento Neighborhoods | Tire Geeks',
   description:
-    'Tire Geeks serves Land Park, Pocket, Meadowview, Elk Grove, Arden-Arcade, Carmichael and more across Sacramento. Walk-ins welcome at Florin Road & Arden Way, Mon-Sat 9AM-7PM.',
+    'Tire Geeks serves Land Park, Pocket, Meadowview, Elk Grove, Arden-Arcade, Carmichael and more across Sacramento. Walk-ins welcome at Florin Road & Arden Way, Mon-Sat 9AM-6PM.',
   openGraph: {
     title: 'Tire Shop Service Areas | Sacramento Neighborhoods | Tire Geeks',
     description:

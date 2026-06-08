@@ -5,11 +5,11 @@ import { Phone, MapPin, Clock, Check, ChevronRight, Navigation } from 'lucide-re
 export const metadata: Metadata = {
   title: 'Tire Shop Land Park Sacramento | Lifts, Wheels & Tires | Tire Geeks',
   description:
-    'Lift kits, lowering, custom wheels & tires from $279 for Land Park drivers. Tire Geeks on Florin Road, 5 min from Land Park. Walk in Mon-Sat 9AM-7PM. Call (916) 800-8786.',
+    'Lift kits, lowering, custom wheels & tires from $279 for Land Park drivers. Tire Geeks on Florin Road, 5 min from Land Park. Walk in Mon-Sat 9AM-6PM. Call (916) 800-8786.',
   openGraph: {
     title: 'Tire Shop Land Park Sacramento | Lifts, Wheels & Tires | Tire Geeks',
     description:
-      'Lift kits, lowering, custom wheel packages, and tires from $279 for Land Park, Sacramento. Walk in Mon-Sat 9AM-7PM. Call (916) 800-8786.',
+      'Lift kits, lowering, custom wheel packages, and tires from $279 for Land Park, Sacramento. Walk in Mon-Sat 9AM-6PM. Call (916) 800-8786.',
     url: 'https://tiregeeks.com/neighborhoods/land-park',
     images: [{ url: '/images/store-front-florin.jpg', width: 1200, height: 630 }],
   },
@@ -92,7 +92,7 @@ export default function LandParkPage() {
         '@type': 'OpeningHoursSpecification',
         dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
         opens: '09:00',
-        closes: '19:00',
+        closes: '18:00',
       },
     ],
     priceRange: '$$',
@@ -198,7 +198,7 @@ export default function LandParkPage() {
               Land Park drivers don&apos;t have to cross town for custom truck builds, lowered cars, or
               fitment-correct wheel work. Tire Geeks on Florin Road handles lifts and leveling kits,
               lowering work, custom wheel packages, and tires starting at $279 — five minutes from
-              Land Park via Sutterville Road. Walk in Mon&ndash;Sat 9AM&ndash;7PM. Call (916) 800-8786.
+              Land Park via Sutterville Road. Walk in Mon&ndash;Sat 9AM&ndash;6PM. Call (916) 800-8786.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <a
@@ -272,7 +272,7 @@ export default function LandParkPage() {
                   Walk In Any Day &mdash; No Appointment Lottery
                 </h3>
                 <p className="font-body text-[#AAAAAA] text-[15px] leading-relaxed">
-                  No appointment needed. Mon&ndash;Sat, 9 AM to 7 PM. Roll up, get a quote in person,
+                  No appointment needed. Mon&ndash;Sat, 9 AM to 6 PM. Roll up, get a quote in person,
                   most jobs go in the same day. Tires and alignments usually finish in under two hours.
                   Lift kits and coilover installs same-day. We don&apos;t book you out two weeks like
                   the dealership and we don&apos;t make you reserve a slot weeks ahead like the chain
@@ -473,7 +473,7 @@ export default function LandParkPage() {
                   </div>
                   <div className="flex items-center gap-3">
                     <Clock className="w-5 h-5 flex-shrink-0" style={{ color: '#D42B2B' }} />
-                    <span className="font-body text-[#CFCFCF] text-[15px]">Mon&ndash;Sat: 9AM&ndash;7PM</span>
+                    <span className="font-body text-[#CFCFCF] text-[15px]">Mon&ndash;Sat: 9AM&ndash;6PM</span>
                   </div>
                 </div>
                 <div className="mt-6 pt-6 border-t border-white/5">
@@ -583,7 +583,7 @@ export default function LandParkPage() {
             </h2>
             <p className="font-body text-[#CFCFCF] text-lg mb-3 leading-relaxed">
               Tire Geeks &mdash; 3020 Florin Road, Sacramento. Five minutes from Land Park.
-              Walk in Mon&ndash;Sat, 9 AM to 7 PM. Acima financing approves up to $5,000 in seconds,
+              Walk in Mon&ndash;Sat, 9 AM to 6 PM. Acima financing approves up to $5,000 in seconds,
               no credit needed, 100 days no interest.
             </p>
             <p className="font-body text-[#9E9E9E] text-[15px] mb-8 italic">

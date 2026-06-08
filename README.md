@@ -28,7 +28,7 @@ npx netlify deploy --prod
 ## Locations
 - **Florin Road**: 3020 Florin Road, Sacramento, CA 95822 — (916) 800-8786
 - **Arden Way**: 2245 Arden Way, Sacramento, CA 95825 — (916) 913-8786
-- **Hours**: Monday-Saturday, 9AM-7PM | No appointment needed
+- **Hours**: Monday-Saturday, 9AM-6PM | No appointment needed
 
 ## Financing
 Acima Leasing — no credit needed, no down payment, 100 days no interest.

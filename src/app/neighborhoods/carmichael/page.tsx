@@ -5,11 +5,11 @@ import { Phone, MapPin, Clock, Check, ChevronRight, Navigation } from 'lucide-re
 export const metadata: Metadata = {
   title: 'Tire Shop Carmichael | Lift Kits, Custom Wheels & Tires | Tire Geeks',
   description:
-    'Lift kits, leveling, custom wheels, and tires from $279 for Carmichael trucks and SUVs. Tire Geeks on Arden Way, ~10 minutes via Fair Oaks Blvd. Walk in Mon–Sat 9AM–7PM. Call (916) 913-8786.',
+    'Lift kits, leveling, custom wheels, and tires from $279 for Carmichael trucks and SUVs. Tire Geeks on Arden Way, ~10 minutes via Fair Oaks Blvd. Walk in Mon–Sat 9AM–6PM. Call (916) 913-8786.',
   openGraph: {
     title: 'Tire Shop Carmichael | Lift Kits, Custom Wheels & Tires | Tire Geeks',
     description:
-      'Lift kits, custom wheels, and tires for Carmichael trucks and SUVs. Tacoma, F-150, 4Runner, Tundra builds. Walk in Mon–Sat 9AM–7PM. Call (916) 913-8786.',
+      'Lift kits, custom wheels, and tires for Carmichael trucks and SUVs. Tacoma, F-150, 4Runner, Tundra builds. Walk in Mon–Sat 9AM–6PM. Call (916) 913-8786.',
     url: 'https://tiregeeks.com/neighborhoods/carmichael',
     images: [{ url: '/images/store-front-arden.jpg', width: 1200, height: 630 }],
   },
@@ -92,7 +92,7 @@ export default function CarmichaelPage() {
         '@type': 'OpeningHoursSpecification',
         dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
         opens: '09:00',
-        closes: '19:00',
+        closes: '18:00',
       },
     ],
     priceRange: '$$',
@@ -198,7 +198,7 @@ export default function CarmichaelPage() {
               Sacramento is truck country and Carmichael is full of Tacomas, F-150s, 4Runners, and
               Tundras that deserve more than a stock setup. Tire Geeks on Arden Way handles lifts,
               leveling kits, custom wheels, lowering, and tires starting at $279 &mdash; about 10
-              minutes from Carmichael via Fair Oaks Boulevard. Walk in Mon&ndash;Sat 9AM&ndash;7PM.
+              minutes from Carmichael via Fair Oaks Boulevard. Walk in Mon&ndash;Sat 9AM&ndash;6PM.
               Call (916) 913-8786.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -275,7 +275,7 @@ export default function CarmichaelPage() {
                   Off-Road, dropping a Camaro on coilovers, or bolting staggered wheels onto a
                   Mustang, we sweat the details. Half-day lifts, same-day wheel-and-tire packages,
                   post-install four-wheel alignment included. No 2-week appointment lottery, no
-                  dealership-grade markup. Walk in Mon&ndash;Sat 9AM&ndash;7PM and get a quote on
+                  dealership-grade markup. Walk in Mon&ndash;Sat 9AM&ndash;6PM and get a quote on
                   the spot.
                 </p>
               </div>
@@ -471,7 +471,7 @@ export default function CarmichaelPage() {
                   </div>
                   <div className="flex items-center gap-3">
                     <Clock className="w-5 h-5 flex-shrink-0" style={{ color: '#D42B2B' }} />
-                    <span className="font-body text-[#CFCFCF] text-[15px]">Mon&ndash;Sat: 9AM&ndash;7PM</span>
+                    <span className="font-body text-[#CFCFCF] text-[15px]">Mon&ndash;Sat: 9AM&ndash;6PM</span>
                   </div>
                 </div>
                 <div className="mt-6 pt-6 border-t border-white/5">
@@ -579,7 +579,7 @@ export default function CarmichaelPage() {
             </h2>
             <p className="font-body text-[#CFCFCF] text-lg mb-3 leading-relaxed">
               Tire Geeks &mdash; 2245 Arden Way, Sacramento. About 10 minutes from Carmichael via
-              Fair Oaks Boulevard. Walk in Mon&ndash;Sat, 9 AM to 7 PM. Lift kits, custom wheels,
+              Fair Oaks Boulevard. Walk in Mon&ndash;Sat, 9 AM to 6 PM. Lift kits, custom wheels,
               tires from $279, post-install alignment included on every build. Acima financing
               available on the spot.
             </p>

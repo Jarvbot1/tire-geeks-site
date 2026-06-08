@@ -132,7 +132,7 @@ export default function HeroSection({ loaded }: { loaded: boolean }) {
             ref={subtitleRef}
             className="font-heading text-[11px] md:text-[18px] lg:text-[20px] font-normal text-[var(--text-secondary)] mb-3 md:mb-8 uppercase tracking-[0.08em] md:tracking-normal md:normal-case leading-relaxed"
           >
-            OPEN NOW &bull; MON&ndash;SAT 9AM&ndash;7PM &bull; TWO SACRAMENTO LOCATIONS &bull; WALK IN ANYTIME
+            OPEN NOW &bull; MON&ndash;SAT 9AM&ndash;6PM &bull; TWO SACRAMENTO LOCATIONS &bull; WALK IN ANYTIME
           </p>
 
           {/* CTAs — full width stacked on mobile */}

@@ -685,7 +685,7 @@ export const blogPosts: BlogPost[] = [
       <h2>What Makes the Best Tire Shop in Sacramento?</h2>
       <p>If you have searched for the <strong>best tire shop Sacramento</strong> has to offer, you already know how many options pop up. National chains, warehouse clubs, dealership service departments, independent garages, and mobile installers all compete for your business. But here is something most Sacramento drivers figure out after one or two bad experiences: the cheapest price on a tire means nothing if the shop cannot properly mount it, balance it, or tell you whether it actually fits your vehicle. At Tire Geeks, we have built our reputation on doing things the right way, every single time, for every customer who walks through our doors.</p>
 
-      <p>We operate two locations in Sacramento, one on <strong>3020 Florin Rd</strong> and another at <strong>2245 Arden Way</strong>, and both are open Monday through Saturday, 9 AM to 7 PM. No appointment needed. You can walk in, get expert advice, and drive out with the right tires, wheels, or suspension work done properly. That combination of convenience, expertise, and honest pricing is exactly what separates a great tire shop from every other option in the region.</p>
+      <p>We operate two locations in Sacramento, one on <strong>3020 Florin Rd</strong> and another at <strong>2245 Arden Way</strong>, and both are open Monday through Saturday, 9 AM to 6 PM. No appointment needed. You can walk in, get expert advice, and drive out with the right tires, wheels, or suspension work done properly. That combination of convenience, expertise, and honest pricing is exactly what separates a great tire shop from every other option in the region.</p>
 
       <h2>Why Sacramento Drivers Choose Tire Geeks Over Chain Stores</h2>
       <p>We get it. The big chains spend millions on advertising, and their websites make everything look seamless. But here is what actually happens at most chain tire stores: you walk in, a sales associate reads specs off a screen, and the lowest-price option gets pushed regardless of whether it is actually the best tire for your driving conditions. The technician in the back may have been mounting tires for three weeks. Nobody asks where you drive, how you drive, or what matters most to you.</p>
@@ -745,7 +745,7 @@ export const blogPosts: BlogPost[] = [
       <blockquote>We believe the best tire shop in Sacramento is the one that earns your trust, not with flashy ads, but by consistently doing right by every customer. That is the standard we hold ourselves to at Tire Geeks.</blockquote>
 
       <h2>Ready to Experience the Difference?</h2>
-      <p>Whether you need a single tire replaced, a full set of custom wheels, a lift kit for your truck, or just honest advice about what your vehicle actually needs, we are here for you. Walk into either location during our hours, Monday through Saturday, 9 AM to 7 PM. No appointment required.</p>
+      <p>Whether you need a single tire replaced, a full set of custom wheels, a lift kit for your truck, or just honest advice about what your vehicle actually needs, we are here for you. Walk into either location during our hours, Monday through Saturday, 9 AM to 6 PM. No appointment required.</p>
 
       <ul>
         <li><strong>Florin Rd:</strong> 3020 Florin Rd, Sacramento, CA 95822 &mdash; Call <a href="tel:9168008786">(916) 800-8786</a></li>
@@ -760,7 +760,7 @@ export const blogPosts: BlogPost[] = [
       <p>The biggest difference is expertise and range of services. Chain stores primarily sell tires and basic wheels using database lookups. At Tire Geeks, our team has hands-on experience with custom fitment, lift kits, lowering kits, alignments, and brake work. We verify every fitment detail by hand, offer walk-in service at both <a href="/locations">Sacramento locations</a>, and provide Acima financing for customers who need flexible payment options. We also give honest, locally informed recommendations based on Sacramento's specific driving conditions.</p>
 
       <h3>Do I need an appointment to get tires installed at Tire Geeks?</h3>
-      <p>No. Both of our locations are walk-in friendly, open Monday through Saturday from 9 AM to 7 PM. You can walk in, get a recommendation, and have your tires installed the same visit in most cases. For larger jobs like lift kit installations, calling ahead is a good idea so we can make sure we have the parts ready for your specific vehicle.</p>
+      <p>No. Both of our locations are walk-in friendly, open Monday through Saturday from 9 AM to 6 PM. You can walk in, get a recommendation, and have your tires installed the same visit in most cases. For larger jobs like lift kit installations, calling ahead is a good idea so we can make sure we have the parts ready for your specific vehicle.</p>
 
       <h3>Can I finance tires and wheels with bad credit in Sacramento?</h3>
       <p>Yes. We offer <a href="/financing">Acima lease-to-own financing</a> that does not require a traditional credit check. You can apply in-store in about five minutes, get approved for up to $5,000, and finance tires, wheels, lift kits, brakes, and other services. There is a 100 days same-as-cash option that many of our customers take advantage of.</p>
@@ -852,7 +852,7 @@ export const blogPosts: BlogPost[] = [
       <p>Whether you are building out a project truck or just want to upgrade the look of your daily driver, <a href="/financing">financing</a> makes it possible to get the setup you actually want instead of settling for the cheapest option.</p>
 
       <h2>Visit Tire Geeks for Custom Wheels</h2>
-      <p>Stop by either of our Sacramento locations to see wheels in person, talk to our team, and get a real fitment consultation. We are open Monday through Saturday, 9 AM to 7 PM, and walk-ins are always welcome.</p>
+      <p>Stop by either of our Sacramento locations to see wheels in person, talk to our team, and get a real fitment consultation. We are open Monday through Saturday, 9 AM to 6 PM, and walk-ins are always welcome.</p>
 
       <ul>
         <li><strong>Florin Rd:</strong> 3020 Florin Rd, Sacramento, CA 95822 &mdash; <a href="tel:9168008786">(916) 800-8786</a></li>
@@ -895,7 +895,7 @@ export const blogPosts: BlogPost[] = [
       <h2>Wheel Alignment in Sacramento: Why It Matters More Than You Think</h2>
       <p>A proper <strong>wheel alignment in Sacramento</strong> is one of the most overlooked maintenance items for cars, trucks, and SUVs. Most drivers do not think about alignment until something obvious goes wrong, like the steering wheel pulling to one side or tires wearing unevenly. By that point, the misalignment has already cost you money in premature tire wear and reduced fuel efficiency. In a city like Sacramento, where road conditions range from freshly paved highway to pothole-riddled side streets, alignment problems develop faster than most people realize.</p>
 
-      <p>At Tire Geeks, we perform wheel alignments at both of our Sacramento locations every day. Whether you drive a sedan, a lifted truck, or an SUV, we have the equipment and expertise to dial in your alignment to manufacturer specifications or custom specs for modified vehicles. Walk-ins are welcome at our <a href="/locations">Florin Rd and Arden Way shops</a>, Monday through Saturday, 9 AM to 7 PM.</p>
+      <p>At Tire Geeks, we perform wheel alignments at both of our Sacramento locations every day. Whether you drive a sedan, a lifted truck, or an SUV, we have the equipment and expertise to dial in your alignment to manufacturer specifications or custom specs for modified vehicles. Walk-ins are welcome at our <a href="/locations">Florin Rd and Arden Way shops</a>, Monday through Saturday, 9 AM to 6 PM.</p>
 
       <h2>Signs You Need a Wheel Alignment</h2>
       <p>Your vehicle gives you clear signals when the alignment is off. Here are the most common symptoms our customers report when they come in for alignment service:</p>
@@ -969,7 +969,7 @@ export const blogPosts: BlogPost[] = [
       <p>Consider the cost of an alignment versus the cost of replacing tires early. A set of four quality tires can cost $600 to $1,500 or more. An alignment that extends the life of those tires by 20,000 to 30,000 miles pays for itself many times over. It is one of the best values in vehicle maintenance.</p>
 
       <h2>Get Your Alignment Checked at Tire Geeks</h2>
-      <p>Walk into either of our Sacramento locations for a quick alignment check. We will put your vehicle on the machine, show you the readings, and recommend service only if it is genuinely needed. Open Monday through Saturday, 9 AM to 7 PM, no appointment necessary.</p>
+      <p>Walk into either of our Sacramento locations for a quick alignment check. We will put your vehicle on the machine, show you the readings, and recommend service only if it is genuinely needed. Open Monday through Saturday, 9 AM to 6 PM, no appointment necessary.</p>
 
       <ul>
         <li><strong>Florin Rd:</strong> 3020 Florin Rd, Sacramento, CA 95822 &mdash; <a href="tel:9168008786">(916) 800-8786</a></li>
@@ -1099,7 +1099,7 @@ export const blogPosts: BlogPost[] = [
       <p>Not sure whether you need a full lift at all? Read our breakdown of <a href="/blog/leveling-kit-vs-lift-kit">leveling kit vs lift kit</a> to decide which is right for your goals. And no matter which route you go, a proper <a href="/blog/alignment-after-lift-kit">alignment after a lift kit</a> is non-negotiable if you want your new tires to last.</p>
 
       <h2>Get Your Lift Kit Installed at Tire Geeks</h2>
-      <p>Ready to lift your truck? Come talk to our team at either Sacramento location. We will discuss your goals, recommend the right kit, go over California compliance, and give you an honest quote for the complete job. Walk-ins welcome Monday through Saturday, 9 AM to 7 PM.</p>
+      <p>Ready to lift your truck? Come talk to our team at either Sacramento location. We will discuss your goals, recommend the right kit, go over California compliance, and give you an honest quote for the complete job. Walk-ins welcome Monday through Saturday, 9 AM to 6 PM.</p>
 
       <ul>
         <li><strong>Florin Rd:</strong> 3020 Florin Rd, Sacramento, CA 95822 &mdash; <a href="tel:9168008786">(916) 800-8786</a></li>
@@ -1219,7 +1219,7 @@ export const blogPosts: BlogPost[] = [
       <p><strong>Transparent pricing.</strong> Acima discloses the total cost of the lease upfront before you sign anything. You will know exactly what you are paying if you take the full lease term, and what you pay if you exercise the early purchase option. There are no hidden fees or surprise charges.</p>
 
       <h2>Get What You Need Today at Tire Geeks</h2>
-      <p>Do not put off safety-critical maintenance or the build you have been planning because of budget concerns. <a href="/financing">Acima financing at Tire Geeks</a> makes it possible to get tires, wheels, lifts, brakes, and more today, with payments that fit your life. Walk into either location Monday through Saturday, 9 AM to 7 PM, and ask about financing.</p>
+      <p>Do not put off safety-critical maintenance or the build you have been planning because of budget concerns. <a href="/financing">Acima financing at Tire Geeks</a> makes it possible to get tires, wheels, lifts, brakes, and more today, with payments that fit your life. Walk into either location Monday through Saturday, 9 AM to 6 PM, and ask about financing.</p>
 
       <ul>
         <li><strong>Florin Rd:</strong> 3020 Florin Rd, Sacramento, CA 95822 &mdash; <a href="tel:9168008786">(916) 800-8786</a></li>
@@ -1243,7 +1243,7 @@ export const blogPosts: BlogPost[] = [
       <p>Absolutely. Package deals combining wheels, tires, installation, and alignment are one of the most common things customers finance at Tire Geeks. Check out our guide on <a href="/blog/new-wheels-and-tires-package-deals">wheel and tire package deals</a> for more information on how packages work and how financing can make a complete build affordable.</p>
 
       <h3>Is Acima available at both Tire Geeks locations?</h3>
-      <p>Yes. Acima financing is available at both our <a href="/locations">Florin Rd location (3020 Florin Rd)</a> and our Arden Way location (2245 Arden Way). You can apply at either shop during business hours, Monday through Saturday, 9 AM to 7 PM. Walk-ins are welcome, and our team can guide you through the application process on the spot.</p>
+      <p>Yes. Acima financing is available at both our <a href="/locations">Florin Rd location (3020 Florin Rd)</a> and our Arden Way location (2245 Arden Way). You can apply at either shop during business hours, Monday through Saturday, 9 AM to 6 PM. Walk-ins are welcome, and our team can guide you through the application process on the spot.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -1335,7 +1335,7 @@ export const blogPosts: BlogPost[] = [
       </ul>
 
       <h2>Get Your Tires Rotated at Tire Geeks</h2>
-      <p>Tire rotation is one of the simplest ways to protect your tire investment and keep your vehicle safe. Walk into either Tire Geeks location any day Monday through Saturday, 9 AM to 7 PM. No appointment needed. We will rotate your tires, check pressures, inspect for wear issues, and have you back on the road quickly.</p>
+      <p>Tire rotation is one of the simplest ways to protect your tire investment and keep your vehicle safe. Walk into either Tire Geeks location any day Monday through Saturday, 9 AM to 6 PM. No appointment needed. We will rotate your tires, check pressures, inspect for wear issues, and have you back on the road quickly.</p>
 
       <ul>
         <li><strong>Florin Rd:</strong> 3020 Florin Rd, Sacramento, CA 95822 &mdash; <a href="tel:9168008786">(916) 800-8786</a></li>
@@ -1441,7 +1441,7 @@ export const blogPosts: BlogPost[] = [
       <p>Sacramento heat also causes uneven wear patterns. If you are not rotating your tires every 5,000 to 7,500 miles, you will likely see premature wear on the front tires (especially on front-wheel-drive vehicles). Pair regular rotations with an <a href="/blog/wheel-alignment-sacramento">alignment check</a> and your tires will last significantly longer.</p>
 
       <h2>Getting Your Tires Installed at Tire Geeks</h2>
-      <p>We carry all the brands mentioned in this guide and many more. Both of our Sacramento locations — <strong>3020 Florin Rd, (916) 800-8786</strong> and <strong>2245 Arden Way, (916) 913-8786</strong> — are open Monday through Saturday, 9 AM to 7 PM. Walk-ins are always welcome and no appointment is needed. We offer <a href="/financing">flexible financing through Acima</a> so you do not have to compromise on tire quality because of budget constraints. Your safety on Sacramento roads is worth getting the right rubber.</p>
+      <p>We carry all the brands mentioned in this guide and many more. Both of our Sacramento locations — <strong>3020 Florin Rd, (916) 800-8786</strong> and <strong>2245 Arden Way, (916) 913-8786</strong> — are open Monday through Saturday, 9 AM to 6 PM. Walk-ins are always welcome and no appointment is needed. We offer <a href="/financing">flexible financing through Acima</a> so you do not have to compromise on tire quality because of budget constraints. Your safety on Sacramento roads is worth getting the right rubber.</p>
 
       <h2>FAQ</h2>
 
@@ -1567,7 +1567,7 @@ export const blogPosts: BlogPost[] = [
       <h2>Getting the Right Truck Tires at Tire Geeks</h2>
       <p>We know truck tires inside and out. Whether you need a simple stock replacement or you are building a full setup with <a href="/blog/lift-kit-installation-sacramento">a lift kit</a>, new wheels, and oversized tires, we handle it all at both Sacramento locations. Our team will measure your current setup, discuss your driving needs, and recommend the exact tire and wheel combination that works for your truck and your budget.</p>
 
-      <p>Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> or <strong>2245 Arden Way, (916) 913-8786</strong>, open Monday through Saturday, 9 AM to 7 PM. Walk-ins are always welcome, no appointment needed. And if budget is a concern, we offer <a href="/financing">financing options</a> so you can get the right tires without waiting.</p>
+      <p>Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> or <strong>2245 Arden Way, (916) 913-8786</strong>, open Monday through Saturday, 9 AM to 6 PM. Walk-ins are always welcome, no appointment needed. And if budget is a concern, we offer <a href="/financing">financing options</a> so you can get the right tires without waiting.</p>
 
       <h2>FAQ</h2>
 
@@ -1711,7 +1711,7 @@ export const blogPosts: BlogPost[] = [
 
       <p>For show builds and VIP style projects, air ride is the way to go. The convenience and versatility cannot be matched by any static setup.</p>
 
-      <p>Whatever direction you choose, visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> or <strong>2245 Arden Way, (916) 913-8786</strong>, open Monday through Saturday, 9 AM to 7 PM. Walk-ins welcome, no appointment needed. We offer <a href="/financing">financing through Acima</a> so you can build your car the way you want without waiting.</p>
+      <p>Whatever direction you choose, visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> or <strong>2245 Arden Way, (916) 913-8786</strong>, open Monday through Saturday, 9 AM to 6 PM. Walk-ins welcome, no appointment needed. We offer <a href="/financing">financing through Acima</a> so you can build your car the way you want without waiting.</p>
 
       <h2>FAQ</h2>
 
@@ -1835,7 +1835,7 @@ export const blogPosts: BlogPost[] = [
       <h2>Getting Your Brakes Done at Tire Geeks</h2>
       <p>We make brake replacement straightforward. Come in to either location — no appointment needed — and we will inspect your brakes for free while you wait. We will show you exactly what needs to be done, explain why, and give you a clear price before any work begins. Most brake jobs are completed within 1-2 hours.</p>
 
-      <p>Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> or <strong>2245 Arden Way, (916) 913-8786</strong>. We are open Monday through Saturday, 9 AM to 7 PM, walk-ins welcome. We also offer <a href="/financing">financing through Acima</a> for brake work, because safety should never wait for payday. If you want to learn about our full range of <a href="/services">automotive services</a>, check out our services page or <a href="/contact">contact us</a> directly.</p>
+      <p>Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> or <strong>2245 Arden Way, (916) 913-8786</strong>. We are open Monday through Saturday, 9 AM to 6 PM, walk-ins welcome. We also offer <a href="/financing">financing through Acima</a> for brake work, because safety should never wait for payday. If you want to learn about our full range of <a href="/services">automotive services</a>, check out our services page or <a href="/contact">contact us</a> directly.</p>
 
       <p>Not sure your brakes need a full job yet? Our guide to <a href="/blog/brake-noise-squeaking-grinding">what brake squeaking, grinding, and squealing actually mean</a> helps you tell a harmless morning squeal from a metal-on-metal emergency. And while your wheels are off, it is the perfect time to consider <a href="/blog/brake-caliper-painting-sacramento">custom brake caliper painting</a> to match your setup.</p>
 
@@ -1960,7 +1960,7 @@ export const blogPosts: BlogPost[] = [
       <p>When you bring your vehicle in for a <a href="/blog/how-often-should-you-rotate-tires">tire rotation</a>, we always check and adjust all four tire pressures as part of the service. This is the minimum frequency you should have pressure checked professionally — every 5,000 to 7,500 miles. Between rotations, a monthly check at home covers you.</p>
 
       <h2>Getting Help With Tire Pressure at Tire Geeks</h2>
-      <p>If your TPMS light is on, if you are not sure what pressure your tires should be at, or if you need a TPMS sensor replaced, stop by either Tire Geeks location. We will check your pressure, adjust it to spec, and diagnose any TPMS issues — no charge for a basic pressure check. We are at <strong>3020 Florin Rd, (916) 800-8786</strong> and <strong>2245 Arden Way, (916) 913-8786</strong>, open Monday through Saturday, 9 AM to 7 PM. Walk-ins welcome, no appointment needed. For TPMS sensor replacement or other <a href="/services">tire services</a>, we can usually handle it same-day. <a href="/contact">Contact us</a> if you have questions before coming in.</p>
+      <p>If your TPMS light is on, if you are not sure what pressure your tires should be at, or if you need a TPMS sensor replaced, stop by either Tire Geeks location. We will check your pressure, adjust it to spec, and diagnose any TPMS issues — no charge for a basic pressure check. We are at <strong>3020 Florin Rd, (916) 800-8786</strong> and <strong>2245 Arden Way, (916) 913-8786</strong>, open Monday through Saturday, 9 AM to 6 PM. Walk-ins welcome, no appointment needed. For TPMS sensor replacement or other <a href="/services">tire services</a>, we can usually handle it same-day. <a href="/contact">Contact us</a> if you have questions before coming in.</p>
 
       <h2>FAQ</h2>
 
@@ -2098,7 +2098,7 @@ export const blogPosts: BlogPost[] = [
         <li><strong>Two convenient Sacramento locations.</strong> Choose whichever is closer to you.</li>
       </ul>
 
-      <p>Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> or <strong>2245 Arden Way, (916) 913-8786</strong>. We are open Monday through Saturday, 9 AM to 7 PM. Walk-ins are always welcome — no appointment needed. Bring your vehicle, tell us what you are looking for, and we will put together the perfect package for your ride and your budget. Or browse <a href="/blog/custom-wheels-sacramento">our custom wheels guide</a> to start getting ideas before you visit.</p>
+      <p>Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> or <strong>2245 Arden Way, (916) 913-8786</strong>. We are open Monday through Saturday, 9 AM to 6 PM. Walk-ins are always welcome — no appointment needed. Bring your vehicle, tell us what you are looking for, and we will put together the perfect package for your ride and your budget. Or browse <a href="/blog/custom-wheels-sacramento">our custom wheels guide</a> to start getting ideas before you visit.</p>
 
       <h2>FAQ</h2>
 
@@ -2258,7 +2258,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Come See Us - Both Sacramento Locations Are Ready to Help</h2>
       <p>Whether you are building a lifted off-road rig or just need to replace a worn-out set on a daily driver, Tire Geeks has the inventory, the expertise, and the financing to get it done right. We carry Nitto, Toyo, BFGoodrich, Cooper, and more in stock at both locations, and our technicians can give you a real fitment consultation for your specific truck - not just a generic size chart recommendation.</p>
-      <p>Find us in South Sacramento at <strong>3020 Florin Rd, (916) 800-8786</strong> and in the Arden area at <strong>2245 Arden Way, (916) 913-8786</strong>. Open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed.</p>
+      <p>Find us in South Sacramento at <strong>3020 Florin Rd, (916) 800-8786</strong> and in the Arden area at <strong>2245 Arden Way, (916) 913-8786</strong>. Open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -2340,7 +2340,7 @@ export const blogPosts: BlogPost[] = [
       <p>Surface-level crazing with very shallow cracks is a watch item, not an immediate replacement requirement. But any crack you can feel, cracks that go into the depth of the rubber, or cracks covering large areas of the sidewall are not safe to drive on. Cracked rubber loses elasticity and can fail under stress - especially on highway stretches like Highway 99 or I-5 where sustained high speed puts consistent load on the sidewall. When in doubt, come in and let us look at it.</p>
 
       <h3>Do I need an appointment to get tires replaced at Tire Geeks?</h3>
-      <p>No appointment needed. Both locations are walk-in friendly Monday through Saturday, 9 AM to 7 PM. Most standard four-tire replacements with balancing take about an hour. If you are combining alignment or brakes with the tire swap, plan for a bit more time. Check our <a href="/locations">locations page</a> for directions to both shops.</p>
+      <p>No appointment needed. Both locations are walk-in friendly Monday through Saturday, 9 AM to 6 PM. Most standard four-tire replacements with balancing take about an hour. If you are combining alignment or brakes with the tire swap, plan for a bit more time. Check our <a href="/locations">locations page</a> for directions to both shops.</p>
 
       <h2>Stop Guessing - Come In for a Free Tire Inspection</h2>
       <p>If anything in this article sounds familiar - a TPMS light that keeps coming back, tires that feel like they are vibrating at 65 mph on Capitol City Freeway, a sidewall that looks a little rough around the edges - do not wait for a blowout to confirm it. Tire Geeks does free visual tire inspections at both locations. We will tell you exactly what we see and what your options are, with no pressure to buy anything on the spot.</p>
@@ -2434,7 +2434,7 @@ export const blogPosts: BlogPost[] = [
       <h2>Frequently Asked Questions</h2>
 
       <h3>Do I need an appointment at the tire shop near me on Florin Rd?</h3>
-      <p>No appointment needed. Tire Geeks at 3020 Florin Rd is walk-in friendly Monday through Saturday, 9 AM to 7 PM. Drive in, we will check your vehicle right away, and give you an honest time estimate for the job. For large jobs like full suspension lifts, calling ahead to confirm parts availability is a good idea, but for tire replacements, alignments, and brake work, just show up.</p>
+      <p>No appointment needed. Tire Geeks at 3020 Florin Rd is walk-in friendly Monday through Saturday, 9 AM to 6 PM. Drive in, we will check your vehicle right away, and give you an honest time estimate for the job. For large jobs like full suspension lifts, calling ahead to confirm parts availability is a good idea, but for tire replacements, alignments, and brake work, just show up.</p>
 
       <h3>What tire brands do you carry at the South Sacramento location?</h3>
       <p>We carry a range from budget-friendly options (Accelera, Nankang, Lionhart) through mid-tier (Falken, General, Cooper, Toyo) to premium brands (Michelin, Continental, Bridgestone, Pirelli, BFGoodrich, Nitto). The right brand depends on your vehicle, your driving habits, and your budget - we will lay out the options without pushing the most expensive thing on the shelf.</p>
@@ -2457,7 +2457,7 @@ export const blogPosts: BlogPost[] = [
         <li><strong>South Sacramento:</strong> 3020 Florin Rd, Sacramento - call (916) 800-8786</li>
         <li><strong>Arden Area:</strong> 2245 Arden Way, Sacramento - call (916) 913-8786</li>
       </ul>
-      <p>Both locations are open Monday through Saturday, 9 AM to 7 PM. Walk-ins welcome, no appointment needed. View all our <a href="/services">tire and wheel services</a>, find the right <a href="/locations">location near you</a>, or <a href="/contact">contact us</a> with questions before you come in. We are a local shop that knows south Sacramento and we will treat your vehicle the way we treat our own.</p>
+      <p>Both locations are open Monday through Saturday, 9 AM to 6 PM. Walk-ins welcome, no appointment needed. View all our <a href="/services">tire and wheel services</a>, find the right <a href="/locations">location near you</a>, or <a href="/contact">contact us</a> with questions before you come in. We are a local shop that knows south Sacramento and we will treat your vehicle the way we treat our own.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -2482,7 +2482,7 @@ export const blogPosts: BlogPost[] = [
       <p>The central location is also why we serve such a wide range of neighborhoods. On any given weekday we'll have vehicles from Arden-Arcade, Carmichael, Fair Oaks, Citrus Heights, North Highlands, Natomas, Campus Commons, and Rancho Cordova all on our lifts at the same time. Different zip codes, same roads, same Sacramento heat, same tire needs.</p>
 
       <h2>What You Will Find When You Walk In</h2>
-      <p>We're open Monday through Saturday, 9 AM to 7 PM. Walk-ins are welcome - no appointment needed. Pull into the lot, tell us what you're dealing with, and we get eyes on the vehicle right away. We don't hand you a clipboard and disappear for forty-five minutes. If you need a tire patch, we can usually turn it around while you wait. If you need four tires mounted and balanced, plan on a couple of hours - we'll let you know before we start so you can make a plan.</p>
+      <p>We're open Monday through Saturday, 9 AM to 6 PM. Walk-ins are welcome - no appointment needed. Pull into the lot, tell us what you're dealing with, and we get eyes on the vehicle right away. We don't hand you a clipboard and disappear for forty-five minutes. If you need a tire patch, we can usually turn it around while you wait. If you need four tires mounted and balanced, plan on a couple of hours - we'll let you know before we start so you can make a plan.</p>
       <p>The shop is set up to handle everything from a single nail-puncture repair on a Honda Civic to a full wheel and tire upgrade on a lifted F-250. We carry passenger tires, truck tires, SUV tires, and performance tires from brands like Toyo, Nitto, BFGoodrich, General, Cooper, Falken, and several others depending on size and application. If you're shopping for aftermarket wheels, we have a wheel wall with real display samples so you can see what a finish actually looks like in person rather than guessing from a website photo.</p>
 
       <h2>Services at the Arden Way Tire Shop in Arden-Arcade Sacramento</h2>
@@ -2529,7 +2529,7 @@ export const blogPosts: BlogPost[] = [
       <h2>Frequently Asked Questions</h2>
 
       <h3>Do I need an appointment at the Tire Geeks Arden Way location?</h3>
-      <p>No appointment needed. We're walk-in friendly Monday through Saturday, 9 AM to 7 PM. Pull in, tell us what you need, and we'll get started. For larger jobs like a full set of tires plus alignment on a truck, it helps to arrive earlier in the day so we have time to complete everything before close.</p>
+      <p>No appointment needed. We're walk-in friendly Monday through Saturday, 9 AM to 6 PM. Pull in, tell us what you need, and we'll get started. For larger jobs like a full set of tires plus alignment on a truck, it helps to arrive earlier in the day so we have time to complete everything before close.</p>
 
       <h3>What tire brands do you carry at the Arden-Arcade tire shop?</h3>
       <p>We stock tires from Toyo, Nitto, BFGoodrich, General, Cooper, Falken, and others depending on size and application. We can order specific sizes and models if we don't have exactly what you need on the shelf. Give us a call at (916) 913-8786 and we can check availability before you make the drive.</p>
@@ -2547,7 +2547,7 @@ export const blogPosts: BlogPost[] = [
       <p>Yes. We use Acima for lease-to-own financing. No traditional credit check, the application takes about sixty seconds, and there is a 90-day same-as-cash option with no penalty for early payoff. It applies to tires, wheels, lift kits, brakes - everything. Visit our <a href="/financing">financing page</a> or ask us at the counter when you come in.</p>
 
       <h2>Ready to Come In? Here Is How to Reach Us</h2>
-      <p>Tire Geeks has two Sacramento locations. Our Arden Way shop at <strong>2245 Arden Way, (916) 913-8786</strong> serves Arden-Arcade, Carmichael, Fair Oaks, Citrus Heights, North Highlands, Natomas, and Campus Commons. Our South Sacramento shop at <strong>3020 Florin Rd, (916) 800-8786</strong> serves the south end of the city and surrounding areas. Both locations are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. If you want to ask about inventory or wait times before you drive over, call either location directly or use our <a href="/contact">contact page</a> to reach us.</p>
+      <p>Tire Geeks has two Sacramento locations. Our Arden Way shop at <strong>2245 Arden Way, (916) 913-8786</strong> serves Arden-Arcade, Carmichael, Fair Oaks, Citrus Heights, North Highlands, Natomas, and Campus Commons. Our South Sacramento shop at <strong>3020 Florin Rd, (916) 800-8786</strong> serves the south end of the city and surrounding areas. Both locations are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. If you want to ask about inventory or wait times before you drive over, call either location directly or use our <a href="/contact">contact page</a> to reach us.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -2697,7 +2697,7 @@ export const blogPosts: BlogPost[] = [
 
       <p>Shopping for the cheapest tires in Sacramento does not have to feel like you are negotiating at a car dealership. At Tire Geeks we give you the out-the-door price up front, tell you what you are getting with each brand, and let you make the call. If your budget is tight, we will tell you what the best tire is at your number - not what makes us the most margin. If you want to step up to a better tire and need to spread the payment out, Acima gets you there today.</p>
 
-      <p>Walk in today - no appointment needed - at either of our two Sacramento locations. Our <strong>South Sacramento shop at 3020 Florin Rd</strong> serves drivers from Meadowview, Valley Hi, Elk Grove, and the Pocket area - call us at <strong>(916) 800-8786</strong>. Our <strong>Arden Way location at 2245 Arden Way</strong> is the closest option for Arden-Arcade, Carmichael, Campus Commons, and North Highlands customers - reach that crew at <strong>(916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 7 PM. If you want to browse our full range of services before coming in, check out our <a href="/services">tire and wheel services page</a>.</p>
+      <p>Walk in today - no appointment needed - at either of our two Sacramento locations. Our <strong>South Sacramento shop at 3020 Florin Rd</strong> serves drivers from Meadowview, Valley Hi, Elk Grove, and the Pocket area - call us at <strong>(916) 800-8786</strong>. Our <strong>Arden Way location at 2245 Arden Way</strong> is the closest option for Arden-Arcade, Carmichael, Campus Commons, and North Highlands customers - reach that crew at <strong>(916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 6 PM. If you want to browse our full range of services before coming in, check out our <a href="/services">tire and wheel services page</a>.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -2837,7 +2837,7 @@ export const blogPosts: BlogPost[] = [
       <p>Expect to pay $80-$150 more per tire for run-flats versus a directly comparable conventional tire. For a set of four on a typical BMW or MINI fitment (225/45R18 or similar), that adds up to $300-$600 more per set. Over the life of a vehicle through two or three sets, you might spend $1,000-$1,500 more total on run-flat tires than conventional - though this is offset somewhat if you never need a spare tire solution. If you are working with a tighter budget, check out our <a href="/financing">financing options</a> for tire purchases - we offer lease-to-own through Acima with no traditional credit check and a 90-day same-as-cash option.</p>
 
       <h2>Come See Us - Both Sacramento Locations, No Appointment Needed</h2>
-      <p>Whether you want to stay with run-flats, switch to conventional tires, or just get a second opinion on what your BMW, MINI, Corvette, or Lexus actually needs - we have the inventory and the experience to walk you through it without the runaround. Both of our Sacramento locations are stocked with run-flat and conventional options across the most common European and performance fitments. Walk in today - no appointment needed. Find us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento, or <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden-Arcade area. Both locations are open Monday through Saturday, 9 AM to 7 PM. <a href="/contact">Contact us</a> ahead of time if you want to confirm a specific tire or rim size is in stock before making the drive.</p>
+      <p>Whether you want to stay with run-flats, switch to conventional tires, or just get a second opinion on what your BMW, MINI, Corvette, or Lexus actually needs - we have the inventory and the experience to walk you through it without the runaround. Both of our Sacramento locations are stocked with run-flat and conventional options across the most common European and performance fitments. Walk in today - no appointment needed. Find us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento, or <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden-Arcade area. Both locations are open Monday through Saturday, 9 AM to 6 PM. <a href="/contact">Contact us</a> ahead of time if you want to confirm a specific tire or rim size is in stock before making the drive.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -2962,8 +2962,8 @@ export const blogPosts: BlogPost[] = [
       <p>Need <a href="/financing">flexible financing for your tires or wheels</a>? We offer lease-to-own through Acima with no traditional credit check, a roughly 60-second application, and a 90-day same-as-cash option. No penalty for paying it off early. It covers tires, wheels, lift kits, brakes - the whole setup.</p>
       <p>Find us at our <a href="/locations">two Sacramento locations</a> or <a href="/contact">contact us</a> with your vehicle info and we will give you a straight answer on what fits. Walk in today - no appointment needed at either location.</p>
       <ul>
-        <li><strong>South Sacramento:</strong> 3020 Florin Rd - (916) 800-8786 - Mon-Sat 9 AM to 7 PM</li>
-        <li><strong>Arden Area:</strong> 2245 Arden Way - (916) 913-8786 - Mon-Sat 9 AM to 7 PM</li>
+        <li><strong>South Sacramento:</strong> 3020 Florin Rd - (916) 800-8786 - Mon-Sat 9 AM to 6 PM</li>
+        <li><strong>Arden Area:</strong> 2245 Arden Way - (916) 913-8786 - Mon-Sat 9 AM to 6 PM</li>
       </ul>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
@@ -3100,7 +3100,7 @@ export const blogPosts: BlogPost[] = [
       <p>Browse our full <a href="/services">wheel and tire services</a>, see <a href="/locations">both Sacramento locations</a>, or <a href="/contact">contact us</a> with your truck specs and we will put together a recommendation.</p>
       <p><strong>South Sacramento:</strong> 3020 Florin Rd - (916) 800-8786<br/>
       <strong>Arden Area:</strong> 2245 Arden Way - (916) 913-8786<br/>
-      Walk in today - no appointment needed. Open Monday through Saturday, 9 AM to 7 PM.</p>
+      Walk in today - no appointment needed. Open Monday through Saturday, 9 AM to 6 PM.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -3370,7 +3370,7 @@ export const blogPosts: BlogPost[] = [
         <a href="/blog/best-wheels-for-trucks-sacramento">best wheels for trucks in Sacramento</a> guide,
         our <a href="/blog/custom-wheels-sacramento">custom wheels Sacramento</a> page, and our
         <a href="/blog/wheel-and-tire-packages-sacramento">wheel and tire packages</a> for bundled pricing.
-        Our <a href="/locations">two Sacramento locations</a> are open Monday through Saturday, 9 AM to 7 PM.
+        Our <a href="/locations">two Sacramento locations</a> are open Monday through Saturday, 9 AM to 6 PM.
       </p>
       <p>
         <strong>South Sacramento:</strong> 3020 Florin Rd, (916) 800-8786<br />
@@ -3551,7 +3551,7 @@ export const blogPosts: BlogPost[] = [
 
       <p><strong>South Sacramento:</strong> 3020 Florin Rd, (916) 800-8786<br/>
       <strong>Arden area:</strong> 2245 Arden Way, (916) 913-8786<br/>
-      Open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed.</p>
+      Open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -3663,7 +3663,7 @@ export const blogPosts: BlogPost[] = [
       <p>We will be straight with you: if it is not in stock, typical order time is 2 to 5 business days for wheels and 1 to 3 days for tires. Many combinations can be transferred from our sister locations or ordered and received within a couple days. Call ahead with your vehicle info and what you are looking for - we will tell you exactly what we have and when we can have what you need. We do not string you along if something is a two-week lead time; we tell you upfront so you can decide.</p>
 
       <h2>Visit Either Tire Geeks Location - Walk In Today</h2>
-      <p>Both Tire Geeks locations handle complete wheel and tire packages, road-force balancing, TPMS service, and Acima financing. Walk in today - no appointment needed. Our South Sacramento shop is at <strong>3020 Florin Rd, (916) 800-8786</strong>. The Arden area location is at <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 7 PM. You can also check out all of our available <a href="/services">tire and wheel services</a>, browse our <a href="/locations">location pages</a> for directions and hours, or reach out through our <a href="/contact">contact page</a> before you come in. Whether you are coming from Meadowview, Fair Oaks, Natomas, or across town, we will have you rolling on a new setup the same day.</p>
+      <p>Both Tire Geeks locations handle complete wheel and tire packages, road-force balancing, TPMS service, and Acima financing. Walk in today - no appointment needed. Our South Sacramento shop is at <strong>3020 Florin Rd, (916) 800-8786</strong>. The Arden area location is at <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 6 PM. You can also check out all of our available <a href="/services">tire and wheel services</a>, browse our <a href="/locations">location pages</a> for directions and hours, or reach out through our <a href="/contact">contact page</a> before you come in. Whether you are coming from Meadowview, Fair Oaks, Natomas, or across town, we will have you rolling on a new setup the same day.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -3770,7 +3770,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Come See Us at Either Location</h2>
 
-      <p>Whether you are leaning toward a solid cast set for your daily Tundra or pricing out American Force forged wheels for a lifted Duramax show build, the best next step is getting eyes on your actual truck and talking through the fitment. We have both categories in stock and can order virtually any forged or cast wheel available. Stop by our South Sacramento shop at 3020 Florin Rd, (916) 800-8786 or our Arden Way location at 2245 Arden Way, (916) 913-8786. Walk in today - no appointment needed. Both locations are open Monday through Saturday, 9 AM to 7 PM. We will pull up fitment data for your exact truck, show you real examples, and put together a complete package quote on the spot. See all our <a href="/locations">Tire Geeks locations</a> or <a href="/contact">contact us</a> with questions before you visit.</p>
+      <p>Whether you are leaning toward a solid cast set for your daily Tundra or pricing out American Force forged wheels for a lifted Duramax show build, the best next step is getting eyes on your actual truck and talking through the fitment. We have both categories in stock and can order virtually any forged or cast wheel available. Stop by our South Sacramento shop at 3020 Florin Rd, (916) 800-8786 or our Arden Way location at 2245 Arden Way, (916) 913-8786. Walk in today - no appointment needed. Both locations are open Monday through Saturday, 9 AM to 6 PM. We will pull up fitment data for your exact truck, show you real examples, and put together a complete package quote on the spot. See all our <a href="/locations">Tire Geeks locations</a> or <a href="/contact">contact us</a> with questions before you visit.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -3904,7 +3904,7 @@ export const blogPosts: BlogPost[] = [
       <h2>Come See Us at Either Tire Geeks Location</h2>
       <p>If you are still deciding between 20-inch and 22-inch wheels for your truck or SUV, the best move is to come in and look at actual mounted examples on vehicles similar to yours. We have both sizes on display and our fitment techs can pull up your vehicle's exact clearances and recommend the right offset and tire size before you spend a dollar.</p>
       <p>We also offer <a href="/financing">flexible financing through Acima</a> - no traditional credit check, roughly 60-second application, 90-day same-as-cash option. Whether you are buying a wheel and tire package, a lift kit, or just tires, financing is available on the full setup.</p>
-      <p>Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento, or at <strong>2245 Arden Way, (916) 913-8786</strong> near Arden-Arcade. Both locations are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. Have questions first? Reach us through our <a href="/contact">contact page</a> and we'll get back to you fast.</p>
+      <p>Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento, or at <strong>2245 Arden Way, (916) 913-8786</strong> near Arden-Arcade. Both locations are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. Have questions first? Reach us through our <a href="/contact">contact page</a> and we'll get back to you fast.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -4038,7 +4038,7 @@ export const blogPosts: BlogPost[] = [
       <p>At 2 inches, most trucks do not need new upper control arms. At 2.5 to 3 inches, it depends on the platform. Ram 1500s and Tundras handle 2.5-3 inch levels without UCAs due to their geometry. On F-150s and GM half-tons, 3 inches starts to push CV axle angles past the comfortable range - we recommend extended upper control arms at 3 inches on those platforms if you plan to wheel the truck or care about long-term CV longevity. We can assess your specific truck and mileage during installation.</p>
 
       <h3>How long does leveling kit installation take at Tire Geeks?</h3>
-      <p>Most leveling kit installs take 1.5 to 3 hours including the alignment. Basic strut spacer installs on a common platform like an F-150 or Silverado are typically 1.5-2 hours. Bilstein 5100 installs take a little longer because we are replacing the full strut assembly and want to take our time with the spring compressor. We are a walk-in shop so you can bring your truck in without scheduling ahead - both locations on Florin Rd and Arden Way are open Monday through Saturday 9 AM to 7 PM.</p>
+      <p>Most leveling kit installs take 1.5 to 3 hours including the alignment. Basic strut spacer installs on a common platform like an F-150 or Silverado are typically 1.5-2 hours. Bilstein 5100 installs take a little longer because we are replacing the full strut assembly and want to take our time with the spring compressor. We are a walk-in shop so you can bring your truck in without scheduling ahead - both locations on Florin Rd and Arden Way are open Monday through Saturday 9 AM to 6 PM.</p>
 
       <h3>Can I install a leveling kit myself and just get the alignment done?</h3>
       <p>Technically yes, but we see a fair number of trucks come in for alignment after a DIY leveling kit where the install was not done correctly - spacers not seated properly, ball joint boots damaged during the install, or fasteners torqued to the wrong spec. Strut spring compression is genuinely dangerous without the right equipment. If you are not experienced with suspension work and do not have a quality spring compressor and torque wrench, bring it to us. The labor portion of a leveling kit install is not expensive, and it is not the place to cut corners.</p>
@@ -4047,7 +4047,7 @@ export const blogPosts: BlogPost[] = [
       <p>This is a common concern and the answer is nuanced. Under the Magnuson-Moss Warranty Act, a dealer cannot void your entire warranty just because you added a leveling kit. However, if a suspension component fails and the dealer can demonstrate the leveling kit caused or contributed to that failure, they can deny that specific claim. A quality kit installed and aligned correctly presents very low risk. Document your installation and keep receipts. We install leveling kits on brand-new trucks regularly and the vast majority of owners have no warranty issues.</p>
 
       <h2>Get Your Leveling Kit Installed at Tire Geeks Sacramento</h2>
-      <p>We carry leveling kits for F-150, Silverado, Sierra, Ram 1500, Tacoma, Tundra, and most other trucks and SUVs, with options from Rough Country, ReadyLift, Bilstein, Eibach, and more. Every installation includes a four-wheel alignment. Walk in today - no appointment needed - at either location. <strong>South Sacramento: 3020 Florin Rd, (916) 800-8786.</strong> <strong>Arden area: 2245 Arden Way, (916) 913-8786.</strong> Both locations open Monday through Saturday, 9 AM to 7 PM. Not ready to pay all at once? Our <a href="/financing">Acima financing has no traditional credit check</a> and a 90-day same-as-cash option. See our full <a href="/services">truck lift and leveling services</a>, find your nearest <a href="/locations">Tire Geeks location</a>, or <a href="/contact">contact us</a> with questions about your specific truck before you come in.</p>
+      <p>We carry leveling kits for F-150, Silverado, Sierra, Ram 1500, Tacoma, Tundra, and most other trucks and SUVs, with options from Rough Country, ReadyLift, Bilstein, Eibach, and more. Every installation includes a four-wheel alignment. Walk in today - no appointment needed - at either location. <strong>South Sacramento: 3020 Florin Rd, (916) 800-8786.</strong> <strong>Arden area: 2245 Arden Way, (916) 913-8786.</strong> Both locations open Monday through Saturday, 9 AM to 6 PM. Not ready to pay all at once? Our <a href="/financing">Acima financing has no traditional credit check</a> and a 90-day same-as-cash option. See our full <a href="/services">truck lift and leveling services</a>, find your nearest <a href="/locations">Tire Geeks location</a>, or <a href="/contact">contact us</a> with questions about your specific truck before you come in.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -4206,8 +4206,8 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Get It Done at Tire Geeks - Both Sacramento Locations</h2>
       <p>We install leveling kits and full lift kits at both of our Sacramento locations. Our technicians do this work every day - not just occasionally. We carry leveling kits for most popular trucks in stock and can get lift kit components quickly for scheduled installs. After any lift, we perform a full alignment in-house so you leave with the truck set correctly, not just raised. Explore our full range of <a href="/services">lift kit and suspension services</a>, learn about our <a href="/locations">two convenient Sacramento locations</a>, or ask about <a href="/financing">financing through Acima</a> - no traditional credit check, 60-second application, and you can finance the whole setup including tires, wheels, lift kit, and alignment together. Ready to get started or just have a question? <a href="/contact">Contact us online</a> or walk in today - no appointment needed.</p>
-      <p><strong>South Sacramento:</strong> 3020 Florin Rd, (916) 800-8786 - Mon-Sat 9 AM to 7 PM<br/>
-      <strong>Arden Area:</strong> 2245 Arden Way, (916) 913-8786 - Mon-Sat 9 AM to 7 PM<br/>
+      <p><strong>South Sacramento:</strong> 3020 Florin Rd, (916) 800-8786 - Mon-Sat 9 AM to 6 PM<br/>
+      <strong>Arden Area:</strong> 2245 Arden Way, (916) 913-8786 - Mon-Sat 9 AM to 6 PM<br/>
       Walk in today - no appointment needed.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
@@ -4325,7 +4325,7 @@ export const blogPosts: BlogPost[] = [
       <p>It depends on your truck's GVWR and its starting frame height. Most full-size half-ton trucks (Silverado 1500, F-150, Ram 1500, Tundra) can legally run a 4-6-inch suspension lift within California's frame height limits. Three-quarter-ton trucks have more headroom under the law. Anything above 6 inches needs a careful measurement of your actual frame height after the lift to verify compliance. We measure every truck and walk you through the numbers before we start cutting or bolting anything.</p>
 
       <h2>Come See Us at Either Sacramento Location</h2>
-      <p>Whether you are in the south end of town or closer to the Arden Way corridor, Tire Geeks has you covered for lift kit installations, consultations, and same-day service on in-stock kits. Stop by <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento or <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden-Arcade area. Walk in today - no appointment needed. We are open Monday through Saturday, 9 AM to 7 PM. If you want to talk through which lift makes sense for your specific truck before you come in, call either location and ask for a tech - we will give you a real answer in under five minutes.</p>
+      <p>Whether you are in the south end of town or closer to the Arden Way corridor, Tire Geeks has you covered for lift kit installations, consultations, and same-day service on in-stock kits. Stop by <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento or <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden-Arcade area. Walk in today - no appointment needed. We are open Monday through Saturday, 9 AM to 6 PM. If you want to talk through which lift makes sense for your specific truck before you come in, call either location and ask for a tech - we will give you a real answer in under five minutes.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -4588,7 +4588,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Get Your Lift Kit Installed at Tire Geeks</h2>
       <p>Whether you are looking at a simple leveling kit or a full 6-inch suspension build with new 35s, our technicians at both Sacramento locations have you covered. We install lift kits on F-150s, Silverados, Rams, Tundras, Tacomas, Colorados, and everything in between - from daily drivers in Natomas and Rancho Cordova to weekend trail rigs heading toward the Sierra or the Rubicon.</p>
-      <p>Stop by our <strong>South Sacramento location at 3020 Florin Rd, (916) 800-8786</strong> or our <strong>Arden area location at 2245 Arden Way, (916) 913-8786</strong>. Walk in today - no appointment needed. We are open Monday through Saturday, 9 AM to 7 PM. If you want to talk through your build before coming in, give us a call or reach out through our <a href="/contact">contact page</a>. You can also see <a href="/locations">both locations</a> for directions and hours.</p>
+      <p>Stop by our <strong>South Sacramento location at 3020 Florin Rd, (916) 800-8786</strong> or our <strong>Arden area location at 2245 Arden Way, (916) 913-8786</strong>. Walk in today - no appointment needed. We are open Monday through Saturday, 9 AM to 6 PM. If you want to talk through your build before coming in, give us a call or reach out through our <a href="/contact">contact page</a>. You can also see <a href="/locations">both locations</a> for directions and hours.</p>
       <p>Ready to finance the whole build? Our Acima lease-to-own program has you covered with no traditional credit check and a 60-second application. Ask us about it when you walk in - we do the whole application in the shop.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
@@ -4721,7 +4721,7 @@ export const blogPosts: BlogPost[] = [
       <p>The Eibach Pro-Kit is the one we recommend most often for Sacramento daily drivers. The drop is aggressive enough to look and handle noticeably different from stock, but conservative enough to handle our local obstacles - Florin Rd crossings, Elk Grove speed bumps, and steep residential driveways. The progressive rate design also means the spring gets stiffer as it compresses, which helps it stay comfortable on the small stuff while controlling body roll on corners.</p>
 
       <h2>Come See Us - Walk-Ins Welcome at Both Locations</h2>
-      <p>Whether you are ready to pull the trigger on a spring swap or just want to talk through your options and look at samples in the shop, both Tire Geeks locations are set up to help. Our <a href="/locations">South Sacramento location</a> is at 3020 Florin Rd, (916) 800-8786. Our Arden area shop is at 2245 Arden Way, (916) 913-8786. Both locations are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. We will pull up your vehicle's specific application data, show you the spring options we have available, and walk you through the total cost before anything goes on the lift. If you want to start the conversation before you come in, use our <a href="/contact">contact page</a> to send us a message or call either location directly.</p>
+      <p>Whether you are ready to pull the trigger on a spring swap or just want to talk through your options and look at samples in the shop, both Tire Geeks locations are set up to help. Our <a href="/locations">South Sacramento location</a> is at 3020 Florin Rd, (916) 800-8786. Our Arden area shop is at 2245 Arden Way, (916) 913-8786. Both locations are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. We will pull up your vehicle's specific application data, show you the spring options we have available, and walk you through the total cost before anything goes on the lift. If you want to start the conversation before you come in, use our <a href="/contact">contact page</a> to send us a message or call either location directly.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -4968,7 +4968,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Come In and Talk Air Ride With Us</h2>
       <p>Our technicians have installed air suspension on everything from Honda Civics to full-size trucks, from basic bag kits to complete custom trunk buildouts with AccuAir e-Level management. We carry Air Lift Performance kits and can source AccuAir and Universal Air for the right build. Whether you want to lay your Civic out at Elk Grove shows or add LoadLifter bags to your Ram before towing season, we will walk you through the right system for your budget and your driving. Visit our <a href="/services">services page</a> to see the full range of suspension work we do, or check our <a href="/locations">locations page</a> for hours and directions. You can also reach us through our <a href="/contact">contact page</a> to ask questions before you come in.</p>
-      <p>Walk in today - no appointment needed. Find us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento (Monday through Saturday, 9 AM to 7 PM) or at <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden area (same hours). Both locations do full air suspension installs, and Acima financing is available at the counter.</p>
+      <p>Walk in today - no appointment needed. Find us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento (Monday through Saturday, 9 AM to 6 PM) or at <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden area (same hours). Both locations do full air suspension installs, and Acima financing is available at the counter.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -5042,7 +5042,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Build Your Lowered Car at Tire Geeks Sacramento</h2>
       <p>Whether you are planning your first drop on a daily driver or putting together a full coilover, wheel, and tire build for the local meet scene, Tire Geeks has the parts, the fitment knowledge, and the installation experience to do it right. We stock a wide range of lowering springs and coilovers for popular Sacramento platforms, and we can source hardware for nearly any car. Check our full range of <a href="/services">suspension and wheel services</a>, browse <a href="/locations">both our Sacramento locations</a>, or <a href="/contact">reach out to our team</a> before you come in.</p>
-      <p>Walk in today - no appointment needed. South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 7 PM.</p>
+      <p>Walk in today - no appointment needed. South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 6 PM.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -5166,7 +5166,7 @@ export const blogPosts: BlogPost[] = [
 
       <p>Our technicians at both Tire Geeks locations align lifted trucks constantly - Tacomas, Silverados, F-150s, Ram 1500s, Tundras, you name it. We know the specs, we have the parts, and we will tell you straight up when cam bolts are enough versus when you genuinely need aftermarket UCAs to get the geometry right. Explore our full range of <a href="/services">alignment and suspension services</a>, view <a href="/locations">both locations and hours</a>, or <a href="/contact">reach out before your lift install</a> so we can schedule the alignment the same day.</p>
 
-      <p>Walk in today - no appointment needed. South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations open Monday through Saturday, 9 AM to 7 PM. Bring the truck in right after the lift goes on - your tires will thank you.</p>
+      <p>Walk in today - no appointment needed. South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations open Monday through Saturday, 9 AM to 6 PM. Bring the truck in right after the lift goes on - your tires will thank you.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -5255,7 +5255,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Get Your Alignment Checked at Tire Geeks - Both Sacramento Locations</h2>
       <p>If any of the five signs above sound familiar - the pull, the uneven wear, that crooked steering wheel you have been ignoring, the highway vibration, or the noise in turns - stop guessing and get a measurement. Alignment specs are not something you can eyeball from the driver's seat. It takes a four-wheel alignment machine and a technician who knows what the numbers mean for your specific vehicle's manufacturer tolerances.</p>
-      <p>Tire Geeks has two locations in Sacramento to make this easy. South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. We will put it on the rack, show you the readings, tell you exactly what is wrong and what it costs to fix it, and get you back on the road with a printout you can keep. That is how we do it.</p>
+      <p>Tire Geeks has two locations in Sacramento to make this easy. South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. We will put it on the rack, show you the readings, tell you exactly what is wrong and what it costs to fix it, and get you back on the road with a printout you can keep. That is how we do it.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -5524,7 +5524,7 @@ export const blogPosts: BlogPost[] = [
         realistic time estimate before we start.
       </p>
       <p>
-        Both of our locations do walk-in alignments Monday through Saturday, 9 AM to 7 PM. You don't
+        Both of our locations do walk-in alignments Monday through Saturday, 9 AM to 6 PM. You don't
         need an appointment. If you're coming in with something complicated - a full lift on a dually,
         a bagged lowrider, a Sprinter van - calling ahead is smart so we can confirm the rack and
         technician availability for your specific vehicle.
@@ -5612,7 +5612,7 @@ export const blogPosts: BlogPost[] = [
         Walk in today - no appointment needed. Bring the vehicle, we'll put it on the rack,
         give you the before-and-after printout, and make sure it drives straight before it leaves.
         If you have questions before coming in, hit our <a href="/contact">contact page</a> or
-        just call the closest location. We're here Mon-Sat 9 AM to 7 PM.
+        just call the closest location. We're here Mon-Sat 9 AM to 6 PM.
       </p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
@@ -5769,7 +5769,7 @@ export const blogPosts: BlogPost[] = [
 
       <p><strong>South Sacramento:</strong> 3020 Florin Rd, (916) 800-8786<br/>
       <strong>Arden Area:</strong> 2245 Arden Way, (916) 913-8786<br/>
-      Both locations open Monday through Saturday, 9 AM to 7 PM.</p>
+      Both locations open Monday through Saturday, 9 AM to 6 PM.</p>
 
       <p>Walk in today - no appointment needed. Our bays are stocked with parts for domestic, Japanese, and European vehicles, and we will have a clear answer on your brakes within the hour. Check our <a href="/locations">locations page</a> for directions and current hours.</p>
     `,
@@ -5900,7 +5900,7 @@ export const blogPosts: BlogPost[] = [
       <p>Yes. Our <a href="/financing">Acima lease-to-own financing</a> covers the complete brake job including big brake kit parts and labor, caliper painting, and anything else we install. The application takes about 60 seconds and does not require a traditional credit check. There is a 90-day same-as-cash option and no penalty for early payoff. It is a real option if you want to do the full upgrade now rather than in pieces.</p>
 
       <h2>Come See Us at Either Tire Geeks Location</h2>
-      <p>Ready to upgrade your brakes or just want to talk through what your truck actually needs? Both Tire Geeks locations handle custom brake packages, caliper painting, big brake kit installs, and performance pad-and-rotor combos. Walk in today - no appointment needed. Our South Sacramento shop is at <strong>3020 Florin Rd, (916) 800-8786</strong>. Our Arden area location is at <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 7 PM. We will pull your vehicle info, check your current brake condition, and give you an honest quote on whatever level of upgrade makes sense for how you actually drive. Find your nearest shop at our <a href="/locations">locations page</a> or reach us directly through the <a href="/contact">contact page</a>.</p>
+      <p>Ready to upgrade your brakes or just want to talk through what your truck actually needs? Both Tire Geeks locations handle custom brake packages, caliper painting, big brake kit installs, and performance pad-and-rotor combos. Walk in today - no appointment needed. Our South Sacramento shop is at <strong>3020 Florin Rd, (916) 800-8786</strong>. Our Arden area location is at <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 6 PM. We will pull your vehicle info, check your current brake condition, and give you an honest quote on whatever level of upgrade makes sense for how you actually drive. Find your nearest shop at our <a href="/locations">locations page</a> or reach us directly through the <a href="/contact">contact page</a>.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -6030,7 +6030,7 @@ export const blogPosts: BlogPost[] = [
 
       <p>If budget is a concern, we offer <a href="/financing">brake financing through Acima</a> - no traditional credit check, 60-second application, 90-day same-as-cash. You can finance pads, rotors, calipers, the whole job. No reason to drive on worn brakes waiting for payday.</p>
 
-      <p>Ready to get your brakes measured? Walk in today - no appointment needed. We are at <strong>3020 Florin Rd, South Sacramento - (916) 800-8786</strong> and <strong>2245 Arden Way - (916) 913-8786</strong>. Both locations open Monday through Saturday, 9 AM to 7 PM. Pull in, we put it on the lift, you get a real measurement and a straight answer - no upsell pressure. <a href="/contact">Contact us</a> if you have questions before you come in.</p>
+      <p>Ready to get your brakes measured? Walk in today - no appointment needed. We are at <strong>3020 Florin Rd, South Sacramento - (916) 800-8786</strong> and <strong>2245 Arden Way - (916) 913-8786</strong>. Both locations open Monday through Saturday, 9 AM to 6 PM. Pull in, we put it on the lift, you get a real measurement and a straight answer - no upsell pressure. <a href="/contact">Contact us</a> if you have questions before you come in.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -6132,7 +6132,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Come In and Get Your Tires Today</h2>
 
-      <p>We have two locations ready to take care of you - no appointment needed. Our South Sacramento shop is at <strong>3020 Florin Rd, (916) 800-8786</strong>, right off the Florin Rd corridor near the railroad crossings. Our Arden area location is at <strong>2245 Arden Way, (916) 913-8786</strong>, easy to reach from Arden-Arcade, Carmichael, and Campus Commons. Both locations are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. Bring your vehicle in, we'll check your current tread depth for free, give you a real installed price for the size you need, and have you rolling on new rubber in under an hour. Check out our full list of <a href="/services">tire and wheel services</a> to see everything we offer beyond tires.</p>
+      <p>We have two locations ready to take care of you - no appointment needed. Our South Sacramento shop is at <strong>3020 Florin Rd, (916) 800-8786</strong>, right off the Florin Rd corridor near the railroad crossings. Our Arden area location is at <strong>2245 Arden Way, (916) 913-8786</strong>, easy to reach from Arden-Arcade, Carmichael, and Campus Commons. Both locations are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. Bring your vehicle in, we'll check your current tread depth for free, give you a real installed price for the size you need, and have you rolling on new rubber in under an hour. Check out our full list of <a href="/services">tire and wheel services</a> to see everything we offer beyond tires.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -6257,7 +6257,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Come In Today - No Appointment Needed</h2>
 
-      <p>Both Tire Geeks locations are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. Our counter staff will quote your job, walk you through the Acima application on the spot, and if you're approved, we get to work the same day.</p>
+      <p>Both Tire Geeks locations are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. Our counter staff will quote your job, walk you through the Acima application on the spot, and if you're approved, we get to work the same day.</p>
 
       <p><strong>South Sacramento:</strong> 3020 Florin Rd, (916) 800-8786. Right off Florin Rd near the Meadowview area - easy on and off from Highway 99.</p>
 
@@ -6386,7 +6386,7 @@ export const blogPosts: BlogPost[] = [
       <p>At Tire Geeks, oil changes start at $39 for conventional, $49-$59 for synthetic blend, and $69-$79 for full synthetic. That includes the filter, correct-spec oil, fluid top-off, and a visual safety inspection. Dealer prices for the same full-synthetic service typically run $90-$120. Quick-lube chains advertise low prices but frequently upsell you to a higher total.</p>
 
       <h3>Do I need an appointment for an oil change at Tire Geeks?</h3>
-      <p>No appointment needed at either location. Walk in to 3020 Florin Rd or 2245 Arden Way any day Monday through Saturday between 9 AM and 7 PM. Most oil changes are completed in 25-35 minutes. If it is a busy Saturday morning, you may have a short wait before your car goes in the bay, but you will be done same-day, same-visit.</p>
+      <p>No appointment needed at either location. Walk in to 3020 Florin Rd or 2245 Arden Way any day Monday through Saturday between 9 AM and 6 PM. Most oil changes are completed in 25-35 minutes. If it is a busy Saturday morning, you may have a short wait before your car goes in the bay, but you will be done same-day, same-visit.</p>
 
       <h3>How often should I change my oil in Sacramento's summer heat?</h3>
       <p>Sacramento's 100F-plus summers from July through October accelerate oil oxidation compared to milder climates. For conventional oil, stick to 3,000 miles. For synthetic blend in a typical daily driver, 5,000 miles is our recommended interval regardless of what the sticker says - the heat earns that extra service. Full synthetic in a newer vehicle can stretch to 6,000-7,500 miles, but we suggest going by the oil life monitor on your dash rather than just odometer miles.</p>
@@ -6408,7 +6408,7 @@ export const blogPosts: BlogPost[] = [
 
       <p><strong>Arden / North Sacramento:</strong> 2245 Arden Way, (916) 913-8786 - Convenient for Arden-Arcade, Carmichael, Fair Oaks, Citrus Heights, North Highlands, Natomas, and Campus Commons. Walk in today - no appointment needed.</p>
 
-      <p>Open Monday through Saturday, 9 AM to 7 PM. Find directions and hours for both shops on our <a href="/locations">locations page</a>, or <a href="/contact">contact us</a> with any questions about your specific vehicle. Walk in today - no appointment needed.</p>
+      <p>Open Monday through Saturday, 9 AM to 6 PM. Find directions and hours for both shops on our <a href="/locations">locations page</a>, or <a href="/contact">contact us</a> with any questions about your specific vehicle. Walk in today - no appointment needed.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -6502,7 +6502,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>How Long Does Alternator Replacement Take?</h2>
       <p>On the majority of vehicles we see in Sacramento - Civics, Camrys, Tacomas, Silverados, F-150s - a straightforward alternator swap takes 1 to 2 hours from lift to drive-out. That includes removing the serpentine belt, unbolting the alternator, transferring the wiring, installing the new unit, tensioning the belt, and running a post-installation charging test to confirm output. We do not hand the car back until the voltmeter confirms the system is charging correctly.</p>
-      <p>Some vehicles take longer. A Honda Odyssey with a transversely mounted V6 has the alternator buried behind the intake manifold - plan on 3 hours. A BMW 5-Series with the alternator mounted low on the engine in a tight bay takes similar time. When you call or come in, we can give you a firm time estimate after we identify your specific vehicle. Most of the time, same-day turnaround is realistic if you bring the car in by mid-morning. We are open Monday through Saturday, 9 AM to 7 PM.</p>
+      <p>Some vehicles take longer. A Honda Odyssey with a transversely mounted V6 has the alternator buried behind the intake manifold - plan on 3 hours. A BMW 5-Series with the alternator mounted low on the engine in a tight bay takes similar time. When you call or come in, we can give you a firm time estimate after we identify your specific vehicle. Most of the time, same-day turnaround is realistic if you bring the car in by mid-morning. We are open Monday through Saturday, 9 AM to 6 PM.</p>
 
       <h2>OEM vs. Aftermarket vs. Remanufactured Alternators</h2>
       <p>This is a real question worth answering honestly. OEM alternators (bought from the dealer) are the gold standard - identical spec to what came in the car. They also cost 2 to 3 times more. For most customers, a quality remanufactured alternator from a reputable supplier is the right call. Brands like Remy (formerly Delco Remy), WAI Global, and Bosch produce remanufactured units that meet or exceed OEM specifications. These come with warranties - typically 1 year unlimited mileage - and they go on vehicles all day long without issues.</p>
@@ -6541,7 +6541,7 @@ export const blogPosts: BlogPost[] = [
       <p>Yes. We warranty both parts and labor on alternator replacement. The specific terms depend on the part installed, but quality remanufactured alternators typically carry a 12-month, unlimited-mileage warranty on the part itself, and we stand behind our labor. If something is not right after the repair, bring it back and we will make it right. We have two Sacramento locations, so whichever is closer to you works.</p>
 
       <h2>Come See Us - Walk-ins Welcome, No Appointment Needed</h2>
-      <p>If your car is showing any of the warning signs above, do not wait. Tire Geeks has two Sacramento locations ready to diagnose and replace your alternator same day on most vehicles. Find us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento, serving Meadowview, Valley Hi, Elk Grove, and the surrounding neighborhoods - or at <strong>2245 Arden Way, (916) 913-8786</strong>, convenient for Arden-Arcade, Campus Commons, Carmichael, Fair Oaks, and Citrus Heights. Walk in today - no appointment needed. We are open Monday through Saturday, 9 AM to 7 PM.</p>
+      <p>If your car is showing any of the warning signs above, do not wait. Tire Geeks has two Sacramento locations ready to diagnose and replace your alternator same day on most vehicles. Find us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento, serving Meadowview, Valley Hi, Elk Grove, and the surrounding neighborhoods - or at <strong>2245 Arden Way, (916) 913-8786</strong>, convenient for Arden-Arcade, Campus Commons, Carmichael, Fair Oaks, and Citrus Heights. Walk in today - no appointment needed. We are open Monday through Saturday, 9 AM to 6 PM.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -6689,7 +6689,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Get Your Starter Replaced at Tire Geeks - Both Sacramento Locations</h2>
 
-      <p>Tire Geeks handles starter replacement in Sacramento at both of our full-service locations. South Sacramento: 3020 Florin Rd, (916) 800-8786. Arden area: 2245 Arden Way, (916) 913-8786. Open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. We will test your battery and starter circuit for free, give you a straight parts-and-labor quote, and in most cases have you back on the road same day. Check out our full list of <a href="/services">auto repair services</a>, find the <a href="/locations">location nearest you</a>, or <a href="/contact">contact us</a> with any questions before you come in.</p>
+      <p>Tire Geeks handles starter replacement in Sacramento at both of our full-service locations. South Sacramento: 3020 Florin Rd, (916) 800-8786. Arden area: 2245 Arden Way, (916) 913-8786. Open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. We will test your battery and starter circuit for free, give you a straight parts-and-labor quote, and in most cases have you back on the road same day. Check out our full list of <a href="/services">auto repair services</a>, find the <a href="/locations">location nearest you</a>, or <a href="/contact">contact us</a> with any questions before you come in.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -6827,7 +6827,7 @@ export const blogPosts: BlogPost[] = [
       <p>On most jobs, you will save 30-50% compared to dealership pricing. The difference is not the quality of parts - we use the same name-brand components - it is labor rate and overhead. A front brake job that quotes at $400-$550 at a dealership typically runs $180-$300 at Tire Geeks. An alternator replacement that a dealer prices at $500-$750 runs $250-$450 at our shop.</p>
 
       <h3>Do I need an appointment for minor auto repair?</h3>
-      <p>No. Walk-ins are welcome at both locations. We are open Monday through Saturday, 9 AM to 7 PM. For larger jobs like alternator or starter replacement, getting here in the morning gives us the best shot at completing the job same day. Oil changes and battery swaps are fast enough that timing is rarely an issue.</p>
+      <p>No. Walk-ins are welcome at both locations. We are open Monday through Saturday, 9 AM to 6 PM. For larger jobs like alternator or starter replacement, getting here in the morning gives us the best shot at completing the job same day. Oil changes and battery swaps are fast enough that timing is rarely an issue.</p>
 
       <h3>Will you tell me what the repair costs before starting work?</h3>
       <p>Always. We diagnose the problem, quote the job in full including parts and labor, and you give us the go-ahead before any work begins. If we find something additional during the repair, we call you before touching it. No surprises on your bill at pickup.</p>
@@ -6847,7 +6847,7 @@ export const blogPosts: BlogPost[] = [
         <li><strong>Arden Area:</strong> 2245 Arden Way - (916) 913-8786</li>
       </ul>
 
-      <p>Both locations open Monday through Saturday, 9 AM to 7 PM. Minor auto repair in Sacramento, done right, at a price that makes sense.</p>
+      <p>Both locations open Monday through Saturday, 9 AM to 6 PM. Minor auto repair in Sacramento, done right, at a price that makes sense.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -7013,7 +7013,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Come See Us at Either Location</h2>
 
-      <p>Tire Geeks handles brake caliper painting in Sacramento at both shops, and we are set up for walk-in customers with no appointment needed. Our South Sacramento location at <strong>3020 Florin Rd</strong> serves the Meadowview, Valley Hi, Parkway, and Pocket neighborhoods - call us at <strong>(916) 800-8786</strong>. Our Arden location at <strong>2245 Arden Way</strong> is convenient for Campus Commons, Arden-Arcade, Carmichael, and Fair Oaks customers - reach us at <strong>(916) 913-8786</strong>. Both shops are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. If you are bundling caliper painting with a wheel upgrade or a full brake service, check our <a href="/locations">locations page</a> for directions, or <a href="/contact">contact us</a> to get a quote before you come in.</p>
+      <p>Tire Geeks handles brake caliper painting in Sacramento at both shops, and we are set up for walk-in customers with no appointment needed. Our South Sacramento location at <strong>3020 Florin Rd</strong> serves the Meadowview, Valley Hi, Parkway, and Pocket neighborhoods - call us at <strong>(916) 800-8786</strong>. Our Arden location at <strong>2245 Arden Way</strong> is convenient for Campus Commons, Arden-Arcade, Carmichael, and Fair Oaks customers - reach us at <strong>(916) 913-8786</strong>. Both shops are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. If you are bundling caliper painting with a wheel upgrade or a full brake service, check our <a href="/locations">locations page</a> for directions, or <a href="/contact">contact us</a> to get a quote before you come in.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -7182,7 +7182,7 @@ export const blogPosts: BlogPost[] = [
 
       <p>Classic car work is a specialty, and we take it seriously at both Tire Geeks locations. Whether you are sourcing whitewalls for a 1957 Bel Air, fitting Torq Thrust wheels on a Chevelle, or working through the backspacing math on a first-generation Mustang, we have the experience and the inventory connections to do the job correctly. We also handle alignment, brake inspection, and all the suspension checks that make classic tires last and perform as they should. Check out our full <a href="/services">service offerings</a> and feel free to bring the car in so we can look at it before committing to a specific wheel or tire choice.</p>
 
-      <p>Come see us at <strong>3020 Florin Rd, (916) 800-8786</strong> (South Sacramento) or <strong>2245 Arden Way, (916) 913-8786</strong> (Arden area). Open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. If you want to talk through your build before you come in, reach out through our <a href="/contact">contact page</a> and we will get back to you fast.</p>
+      <p>Come see us at <strong>3020 Florin Rd, (916) 800-8786</strong> (South Sacramento) or <strong>2245 Arden Way, (916) 913-8786</strong> (Arden area). Open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. If you want to talk through your build before you come in, reach out through our <a href="/contact">contact page</a> and we will get back to you fast.</p>
 
       <p>For more on how we approach custom wheel fitment for all types of builds, see our guide to <a href="/blog/custom-wheels-sacramento">custom wheels in Sacramento</a>.</p>
     `,
@@ -7310,7 +7310,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Book Your Classic Car Service at Tire Geeks</h2>
 
-      <p>Tire Geeks serves Sacramento's classic car enthusiasts at two convenient locations. Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento, or at <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden area. Both shops are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. Whether you are planning a full brake conversion, a suspension refresh, a custom wheel and tire package, or all of the above, we will walk through the options with you and give you a straight answer on what will work and what will not. Sacramento classic car restoration starts with getting the mechanical work done right, and that is what we do every day.</p>
+      <p>Tire Geeks serves Sacramento's classic car enthusiasts at two convenient locations. Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento, or at <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden area. Both shops are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. Whether you are planning a full brake conversion, a suspension refresh, a custom wheel and tire package, or all of the above, we will walk through the options with you and give you a straight answer on what will work and what will not. Sacramento classic car restoration starts with getting the mechanical work done right, and that is what we do every day.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -7499,7 +7499,7 @@ export const blogPosts: BlogPost[] = [
       <p>If you install a leveling kit, yes - you absolutely need an alignment, and we will not skip it. The level changes your caster angle and without alignment correction you will have a pull and you will wear through your new tires in 20,000 miles instead of 50,000. If you are swapping tire sizes without any suspension change, alignment is not strictly required but we recommend checking it - Sacramento roads are rough enough that many trucks come in already out of spec. Check our <a href="/blog/best-tires-for-trucks-sacramento">Sacramento truck tire guide</a> for more on maintaining your setup.</p>
 
       <h2>Get Your F-150 Dialed In at Tire Geeks</h2>
-      <p>Whether you are building out a full 35-inch setup or just need to upgrade from the stock 275/55R20s to something that fills the fenders better, we have the tires, wheels, leveling kits, and install capability to get it done right. Both Tire Geeks locations carry a large F-150 inventory and our techs work on these trucks every day. Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento or <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden area. We are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. If you want to spread out the cost of your build, check out our <a href="/financing">Acima lease-to-own financing</a> - no traditional credit check and the application takes about 60 seconds. See all of our <a href="/services">tire and wheel services</a> or find your nearest shop at our <a href="/locations">Sacramento locations page</a>. Questions about your specific year and trim before you come in? Give us a call or <a href="/contact">contact us online</a> and we will tell you exactly what fits.</p>
+      <p>Whether you are building out a full 35-inch setup or just need to upgrade from the stock 275/55R20s to something that fills the fenders better, we have the tires, wheels, leveling kits, and install capability to get it done right. Both Tire Geeks locations carry a large F-150 inventory and our techs work on these trucks every day. Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento or <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden area. We are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. If you want to spread out the cost of your build, check out our <a href="/financing">Acima lease-to-own financing</a> - no traditional credit check and the application takes about 60 seconds. See all of our <a href="/services">tire and wheel services</a> or find your nearest shop at our <a href="/locations">Sacramento locations page</a>. Questions about your specific year and trim before you come in? Give us a call or <a href="/contact">contact us online</a> and we will tell you exactly what fits.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -7681,7 +7681,7 @@ export const blogPosts: BlogPost[] = [
 
       <p>We stock wheels, tires, leveling kits, and lift kits for Silverado and Sierra trucks at both locations. Our technicians have done hundreds of these builds - from a simple tire swap to a full 6-inch lift with 35s - and we can tell you exactly what fits your truck before you spend a dollar. Check out our <a href="/services">full services list</a>, visit either of our <a href="/locations">Sacramento locations</a>, or explore <a href="/financing">Acima financing</a> if you want to spread out the cost of a bigger build. You can also <a href="/contact">contact us online</a> with your year, trim, and wheel size and we will get back to you with a quote.</p>
 
-      <p>South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed.</p>
+      <p>South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -7831,7 +7831,7 @@ export const blogPosts: BlogPost[] = [
       <p>Both share the 6x5.5 bolt pattern and similar offset ranges, but the DT body is physically wider with different front suspension geometry. A wheel and tire combo that fits perfectly on a DS may have minor rubbing on a DT and vice versa. The DT also has larger brake rotors on most trims, which affects minimum wheel diameter - a 17" wheel that cleared DS brakes may not clear DT Brembo calipers on a Laramie or above. Always confirm the specific model year and trim before ordering. We verify fitment using our database for every build we put together.</p>
 
       <h2>Visit Tire Geeks for Your RAM 1500 Build</h2>
-      <p>If you are ready to upgrade your RAM 1500's tires, wheels, or suspension, bring it to either Tire Geeks location in Sacramento. We have worked on hundreds of RAM 1500 trucks across both generations and we know the fitment details that online calculators miss. Our South Sacramento shop is at <strong>3020 Florin Rd, (916) 800-8786</strong> - easy on/off Hwy 99, serving the Meadowview, Valley Hi, and Elk Grove corridor. Our Arden area location is at <strong>2245 Arden Way, (916) 913-8786</strong> - serving Arden-Arcade, Carmichael, Fair Oaks, and Campus Commons. Both locations are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. We will put your truck on the rack, measure your actual clearances, and build you a setup that works right the first time. Check out our <a href="/financing">financing options through Acima</a> - no credit check, 90-day same-as-cash. Visit our <a href="/locations">locations page</a> for directions, or <a href="/contact">contact us</a> with questions before you come in.</p>
+      <p>If you are ready to upgrade your RAM 1500's tires, wheels, or suspension, bring it to either Tire Geeks location in Sacramento. We have worked on hundreds of RAM 1500 trucks across both generations and we know the fitment details that online calculators miss. Our South Sacramento shop is at <strong>3020 Florin Rd, (916) 800-8786</strong> - easy on/off Hwy 99, serving the Meadowview, Valley Hi, and Elk Grove corridor. Our Arden area location is at <strong>2245 Arden Way, (916) 913-8786</strong> - serving Arden-Arcade, Carmichael, Fair Oaks, and Campus Commons. Both locations are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. We will put your truck on the rack, measure your actual clearances, and build you a setup that works right the first time. Check out our <a href="/financing">financing options through Acima</a> - no credit check, 90-day same-as-cash. Visit our <a href="/locations">locations page</a> for directions, or <a href="/contact">contact us</a> with questions before you come in.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -7994,7 +7994,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Come See Us - Both Locations, No Appointment Needed</h2>
 
-      <p>Whether you are in South Sacramento near Elk Grove and the Pocket, or up in Arden-Arcade, Carmichael, or Citrus Heights, we have a location close to you. Stop by <strong>3020 Florin Rd, (916) 800-8786</strong> or <strong>2245 Arden Way, (916) 913-8786</strong> - both shops are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. We will check your tread depth, pull your alignment specs, and give you a straight answer about whether you need tires now or can wait another few months. No pressure, just honest shop talk.</p>
+      <p>Whether you are in South Sacramento near Elk Grove and the Pocket, or up in Arden-Arcade, Carmichael, or Citrus Heights, we have a location close to you. Stop by <strong>3020 Florin Rd, (916) 800-8786</strong> or <strong>2245 Arden Way, (916) 913-8786</strong> - both shops are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. We will check your tread depth, pull your alignment specs, and give you a straight answer about whether you need tires now or can wait another few months. No pressure, just honest shop talk.</p>
 
       <p>If budget is the concern, check out our <a href="/financing">Acima lease-to-own financing</a> - it is a 60-second application with no traditional credit check, and you can pay it off in 90 days same-as-cash with no penalty. We finance tires, wheels, alignments, and repairs all on one ticket. <a href="/contact">Contact us</a> ahead of time if you want a price quote for your specific size, or just come to either <a href="/locations">Tire Geeks location</a> and we will sort you out at the counter.</p>
     `,
@@ -8177,7 +8177,7 @@ export const blogPosts: BlogPost[] = [
       <p>Depends on the trim. Base Civic and Accord LX OEM tires from Hankook or Firestone are usually fine for the first 40,000 miles if they are rotated on schedule. Performance trims like the Si and Accord Sport often come with OEM-spec tires that were tuned for ride comfort over longevity - some Si owners replace them before 25,000 miles. If you notice uneven wear, noise, or reduced wet grip sooner than expected, bring it in and we will check the wear pattern and alignment before recommending replacement.</p>
 
       <h2>Visit Tire Geeks for Honda Civic and Accord Tires in Sacramento</h2>
-      <p>Whether you need a set of budget all-seasons for a base Civic or a performance upgrade for your Accord Sport 2.0T, we have got the tires in stock and the experience to get the fitment right. Two Sacramento locations to serve you: South Sacramento at <strong>3020 Florin Rd, (916) 800-8786</strong> and Arden area at <strong>2245 Arden Way, (916) 913-8786</strong>. Open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. We do mounting, balancing, alignment, and TPMS service all in one visit. <a href="/locations">Find our locations</a> or <a href="/contact">reach out to us</a> with questions before you come in.</p>
+      <p>Whether you need a set of budget all-seasons for a base Civic or a performance upgrade for your Accord Sport 2.0T, we have got the tires in stock and the experience to get the fitment right. Two Sacramento locations to serve you: South Sacramento at <strong>3020 Florin Rd, (916) 800-8786</strong> and Arden area at <strong>2245 Arden Way, (916) 913-8786</strong>. Open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. We do mounting, balancing, alignment, and TPMS service all in one visit. <a href="/locations">Find our locations</a> or <a href="/contact">reach out to us</a> with questions before you come in.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -8321,7 +8321,7 @@ export const blogPosts: BlogPost[] = [
         Whether you are building a trail rig for the Rubicon or just want proper tires on your daily-driver JL, the team at Tire Geeks knows Wranglers. We handle tire swaps, wheel installs, alignment after lift work, and can help you think through the whole build - not just the rubber. Check out our full list of <a href="/services">services</a> and see everything we do, and visit our <a href="/locations">locations page</a> for directions and hours. Have questions before you come in? <a href="/contact">Contact us</a> any time.
       </p>
       <p>
-        We have two Sacramento locations ready to help: <strong>South Sacramento at 3020 Florin Rd, (916) 800-8786</strong> and <strong>Arden area at 2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. Bring your Jeep and we will put it on the lift, check your current fitment, and tell you exactly what you need.
+        We have two Sacramento locations ready to help: <strong>South Sacramento at 3020 Florin Rd, (916) 800-8786</strong> and <strong>Arden area at 2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. Bring your Jeep and we will put it on the lift, check your current fitment, and tell you exactly what you need.
       </p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
@@ -8465,7 +8465,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Get It Diagnosed at Tire Geeks - Free Inspection, No Appointment Needed</h2>
 
-      <p>If your car is pulling to one side, bring it in and we will figure out why. Our inspection covers alignment angle check, tire pressure and wear review, brake visual, and a suspension look - all at no charge. We have two <a href="/locations">Sacramento locations</a> to serve you: <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento and <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden area. Both are open Monday through Saturday 9 AM to 7 PM. Walk in today - no appointment needed. If we find something, we will show you exactly what it is before we do any work, and we can have most repairs done the same day. <a href="/contact">Contact us</a> ahead of time if you have questions, or just drive over - that is what we are here for. <a href="/services">See our full list of services</a> if you want to know everything we handle under one roof.</p>
+      <p>If your car is pulling to one side, bring it in and we will figure out why. Our inspection covers alignment angle check, tire pressure and wear review, brake visual, and a suspension look - all at no charge. We have two <a href="/locations">Sacramento locations</a> to serve you: <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento and <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden area. Both are open Monday through Saturday 9 AM to 6 PM. Walk in today - no appointment needed. If we find something, we will show you exactly what it is before we do any work, and we can have most repairs done the same day. <a href="/contact">Contact us</a> ahead of time if you have questions, or just drive over - that is what we are here for. <a href="/services">See our full list of services</a> if you want to know everything we handle under one roof.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -8758,7 +8758,7 @@ export const blogPosts: BlogPost[] = [
       <p>
         We have two Sacramento locations to serve you. Stop by <strong>3020 Florin Rd, (916) 800-8786</strong>
         in South Sacramento, or <strong>2245 Arden Way, (916) 913-8786</strong> in the Arden area.
-        Both locations are open Monday through Saturday, 9 AM to 7 PM.
+        Both locations are open Monday through Saturday, 9 AM to 6 PM.
         Walk in today - no appointment needed.
         <a href="/locations">Get directions to both locations</a> or <a href="/contact">contact us</a>
         with questions before you come in.
@@ -8952,7 +8952,7 @@ export const blogPosts: BlogPost[] = [
 
       <p>Check out our <a href="/services">full brake service menu</a> including pad and rotor replacement, caliper service, brake fluid flushes, and brake hardware replacement. Both <a href="/locations">Tire Geeks locations</a> carry a full inventory of brake pads and rotors for same-day turnaround on most vehicles.</p>
 
-      <p>Have a question before you come in? <a href="/contact">Contact us online</a> or just stop by. Walk in today - no appointment needed. South Sacramento: 3020 Florin Rd, (916) 800-8786. Arden area: 2245 Arden Way, (916) 913-8786. Open Monday through Saturday, 9 AM to 7 PM.</p>
+      <p>Have a question before you come in? <a href="/contact">Contact us online</a> or just stop by. Walk in today - no appointment needed. South Sacramento: 3020 Florin Rd, (916) 800-8786. Arden area: 2245 Arden Way, (916) 913-8786. Open Monday through Saturday, 9 AM to 6 PM.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -9043,13 +9043,13 @@ export const blogPosts: BlogPost[] = [
       <p>Maybe, but not necessarily. Driving on a flat tire even for a short distance can damage the inner liner and the sidewall through heat buildup and folding. We will inspect the interior once the tire is off the rim. If the liner is cracked or creased, or if the sidewall cords are showing stress damage, the tire cannot be repaired. The only way to know for certain is to get the tire off and look inside.</p>
 
       <h3>Do I need an appointment for flat tire repair in Sacramento?</h3>
-      <p>No appointment needed. Both Tire Geeks locations handle walk-in flat repairs during regular business hours, Monday through Saturday, 9 AM to 7 PM. Pull in, tell the front desk you have a flat, and we will get you looked at. If we are busy, we will give you an honest time estimate upfront.</p>
+      <p>No appointment needed. Both Tire Geeks locations handle walk-in flat repairs during regular business hours, Monday through Saturday, 9 AM to 6 PM. Pull in, tell the front desk you have a flat, and we will get you looked at. If we are busy, we will give you an honest time estimate upfront.</p>
 
       <h3>What size nails and screws can be repaired vs. what requires replacement?</h3>
       <p>Industry guidelines set 1/4 inch as the maximum puncture diameter that can be repaired. Most standard nails and screws from construction sites fall well under that - a common 16d nail is about 3/16 inch in diameter. Larger fasteners, roofing nails with wide heads that have torn the casing, or bolts that have left a ragged hole larger than 1/4 inch will require tire replacement. We measure every puncture before we commit to a repair.</p>
 
       <h2>Walk In Today - Both Sacramento Locations</h2>
-      <p>Flat tire repair in Sacramento does not require a scheduled appointment at Tire Geeks. Both of our locations are open Monday through Saturday, 9 AM to 7 PM, and walk-in repairs are handled all day. South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Walk in today - no appointment needed. Our techs will inspect the tire, give you an honest assessment of whether it can be repaired or needs replacement, and have you back on the road fast. View all of our <a href="/services">tire and auto repair services</a>, check <a href="/locations">both locations and hours</a>, or <a href="/contact">contact us</a> with questions before you come in.</p>
+      <p>Flat tire repair in Sacramento does not require a scheduled appointment at Tire Geeks. Both of our locations are open Monday through Saturday, 9 AM to 6 PM, and walk-in repairs are handled all day. South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Walk in today - no appointment needed. Our techs will inspect the tire, give you an honest assessment of whether it can be repaired or needs replacement, and have you back on the road fast. View all of our <a href="/services">tire and auto repair services</a>, check <a href="/locations">both locations and hours</a>, or <a href="/contact">contact us</a> with questions before you come in.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -9138,7 +9138,7 @@ export const blogPosts: BlogPost[] = [
       <p>Yes, absolutely. New tires are not perfectly uniform in weight distribution - manufacturing tolerances, the molded tread pattern, and the steel belt placement all create slight imbalances. A new tire that ships from the factory and gets mounted without balancing will almost certainly cause vibration at highway speed. Every tire we mount gets balanced, period.</p>
 
       <h3>How long does a four-tire mount and balance take?</h3>
-      <p>For a standard passenger car or truck, plan on 45-60 minutes. We do not schedule appointments for tire work - you can walk in at either location during business hours (Mon-Sat, 9 AM to 7 PM) and we will get you in. Larger vehicles with run-flat tires or staggered fitments may take a bit longer.</p>
+      <p>For a standard passenger car or truck, plan on 45-60 minutes. We do not schedule appointments for tire work - you can walk in at either location during business hours (Mon-Sat, 9 AM to 6 PM) and we will get you in. Larger vehicles with run-flat tires or staggered fitments may take a bit longer.</p>
 
       <h3>Is it cheaper to buy tires online and bring them to you?</h3>
       <p>Sometimes, but often not once you account for shipping costs ($15-$30 per tire for LT sizes is common), the time coordinating delivery, and the fact that you carry all the risk if a tire arrives damaged. In many cases our in-stock price plus our mount and balance fee is within a few dollars of the online-plus-shipping total. Come in and let us run the comparison - if you have already bought them online, we will still mount them, no problem.</p>
@@ -9147,7 +9147,7 @@ export const blogPosts: BlogPost[] = [
       <p>Yes. If you are still feeling a shimmy after a balance job elsewhere, the first thing we do is put the assembly back on the balancer and re-check the readings. If it comes back balanced but you still feel it on the freeway, we will talk about road-force balancing, inspect for bent wheels, and check for cupped tread. A lot of persistent vibration problems on Sacramento highway drivers are road-force issues that a standard spin balance cannot resolve.</p>
 
       <h3>Do I need an appointment, or can I walk in?</h3>
-      <p>Walk-ins are welcome at both Tire Geeks locations. No appointment needed. We are open Monday through Saturday, 9 AM to 7 PM at both 3020 Florin Rd and 2245 Arden Way. If you are coming from Natomas, Carmichael, or Fair Oaks and want to call ahead to check wait time, the numbers are below.</p>
+      <p>Walk-ins are welcome at both Tire Geeks locations. No appointment needed. We are open Monday through Saturday, 9 AM to 6 PM at both 3020 Florin Rd and 2245 Arden Way. If you are coming from Natomas, Carmichael, or Fair Oaks and want to call ahead to check wait time, the numbers are below.</p>
 
       <h2>Visit Tire Geeks for Tire Mounting and Balancing in Sacramento</h2>
       <p>If you are ready to get tires mounted and balanced correctly by technicians who do this work every day on Sacramento vehicles, come see us at either location. Walk in today - no appointment needed.</p>
@@ -9155,7 +9155,7 @@ export const blogPosts: BlogPost[] = [
         <li><strong>South Sacramento:</strong> 3020 Florin Rd, (916) 800-8786</li>
         <li><strong>Arden Area:</strong> 2245 Arden Way, (916) 913-8786</li>
       </ul>
-      <p>Both shops are open Monday through Saturday, 9 AM to 7 PM. You can also browse our <a href="/locations">locations page</a> for directions and hours, or <a href="/contact">contact us</a> with any questions before you come in.</p>
+      <p>Both shops are open Monday through Saturday, 9 AM to 6 PM. You can also browse our <a href="/locations">locations page</a> for directions and hours, or <a href="/contact">contact us</a> with any questions before you come in.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -9251,7 +9251,7 @@ export const blogPosts: BlogPost[] = [
           </tr>
           <tr>
             <td><strong>Walk-in availability</strong></td>
-            <td>Yes - walk-ins welcome, Mon-Sat 9 AM to 7 PM</td>
+            <td>Yes - walk-ins welcome, Mon-Sat 9 AM to 6 PM</td>
             <td>Walk-ins accepted, but popular stores often have waits</td>
           </tr>
           <tr>
@@ -9304,7 +9304,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Wait Times and Walk-In Convenience</h2>
 
-      <p>Both shops take walk-ins. The practical difference is that Tire Geeks operates two Sacramento locations - 3020 Florin Rd in South Sacramento and 2245 Arden Way serving the Arden-Arcade corridor. If one location has a wait, the other may have immediate availability. We are open Monday through Saturday, 9 AM to 7 PM, which means you can come in after work and still get tires mounted and balanced, not just dropped off.</p>
+      <p>Both shops take walk-ins. The practical difference is that Tire Geeks operates two Sacramento locations - 3020 Florin Rd in South Sacramento and 2245 Arden Way serving the Arden-Arcade corridor. If one location has a wait, the other may have immediate availability. We are open Monday through Saturday, 9 AM to 6 PM, which means you can come in after work and still get tires mounted and balanced, not just dropped off.</p>
 
       <p>Les Schwab stores in the Sacramento area can get backed up, particularly on weekends or during seasonal rushes - before Tahoe ski season when people realize they need snow tires, or at the end of summer when the heat has baked everyone's tires thin. Chains with one location in a trade area have no overflow option.</p>
 
@@ -9330,7 +9330,7 @@ export const blogPosts: BlogPost[] = [
       <p>Yes. We use Acima, a lease-to-own program that does not require a traditional credit check. Approval is income-based, the application takes about 60 seconds, and you can finance tires, wheels, brakes, lift kits, and mechanical work. The 90-day same-as-cash option lets you avoid extra costs if you pay the balance quickly. Les Schwab uses a store credit account that requires credit approval and can take longer to process.</p>
 
       <h3>How many Tire Geeks locations are in Sacramento?</h3>
-      <p>Two. South Sacramento at 3020 Florin Rd, (916) 800-8786 - convenient for drivers in Meadowview, Valley Hi, South Land Park, Pocket, Elk Grove, and the Highway 99 corridor. Arden area at 2245 Arden Way, (916) 913-8786 - convenient for Arden-Arcade, Carmichael, Fair Oaks, Campus Commons, North Highlands, and Natomas. Both are open Monday through Saturday, 9 AM to 7 PM, walk-ins welcome.</p>
+      <p>Two. South Sacramento at 3020 Florin Rd, (916) 800-8786 - convenient for drivers in Meadowview, Valley Hi, South Land Park, Pocket, Elk Grove, and the Highway 99 corridor. Arden area at 2245 Arden Way, (916) 913-8786 - convenient for Arden-Arcade, Carmichael, Fair Oaks, Campus Commons, North Highlands, and Natomas. Both are open Monday through Saturday, 9 AM to 6 PM, walk-ins welcome.</p>
 
       <h3>Does Tire Geeks do mechanical work beyond tires?</h3>
       <p>Yes. We handle oil changes, brake pads and rotors, battery replacement, alternators, starters, belt and hose service, fluid flushes, flat repair, check engine light diagnostics, and suspension repair. For Sacramento drivers who want to consolidate their auto service at one trusted shop instead of juggling a tire place and a separate mechanic, Tire Geeks handles the full ticket.</p>
@@ -9344,7 +9344,7 @@ export const blogPosts: BlogPost[] = [
 
       <p>Tire Geeks is locally owned, operates two Sacramento locations, employs techs who actually do custom builds every week, and offers financing that works even if your credit is not perfect. We handle everything from a set of economy tires on a commuter car to a full 6-inch lift with 37-inch Nitto Trail Grapplers on a Silverado heading up to the Sierra. That is not a chain - that is a real shop.</p>
 
-      <p>Come see us. Walk in today - no appointment needed. <strong>South Sacramento: 3020 Florin Rd, (916) 800-8786.</strong> <strong>Arden area: 2245 Arden Way, (916) 913-8786.</strong> Both locations open Monday through Saturday, 9 AM to 7 PM. Have a question before you drive over? Reach us through the <a href="/contact">Tire Geeks contact page</a> and we will get back to you fast.</p>
+      <p>Come see us. Walk in today - no appointment needed. <strong>South Sacramento: 3020 Florin Rd, (916) 800-8786.</strong> <strong>Arden area: 2245 Arden Way, (916) 913-8786.</strong> Both locations open Monday through Saturday, 9 AM to 6 PM. Have a question before you drive over? Reach us through the <a href="/contact">Tire Geeks contact page</a> and we will get back to you fast.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -9387,7 +9387,7 @@ export const blogPosts: BlogPost[] = [
 
       <h3>Faster Service and Shorter Waits</h3>
 
-      <p>Walk into most chain stores on a Saturday morning and you are looking at a two- to three-hour wait for a basic tire swap, even if you have an appointment. The operation is volume-driven - they are moving as many cars as possible through a standardized process. An independent tire shop with a well-run floor moves quickly because every job is coordinated directly. Tire Geeks is open Monday through Saturday, 9 AM to 7 PM, and walk-ins are always welcome. A four-tire swap with balance typically runs under an hour. If you are coming off Highway 99 from Elk Grove or cutting across from Meadowview, you are not going to be sitting there until noon waiting for a 9:15 appointment to actually start. The turnaround is tight because it has to be - our customers have jobs, kids, and places to be, and we know that.</p>
+      <p>Walk into most chain stores on a Saturday morning and you are looking at a two- to three-hour wait for a basic tire swap, even if you have an appointment. The operation is volume-driven - they are moving as many cars as possible through a standardized process. An independent tire shop with a well-run floor moves quickly because every job is coordinated directly. Tire Geeks is open Monday through Saturday, 9 AM to 6 PM, and walk-ins are always welcome. A four-tire swap with balance typically runs under an hour. If you are coming off Highway 99 from Elk Grove or cutting across from Meadowview, you are not going to be sitting there until noon waiting for a 9:15 appointment to actually start. The turnaround is tight because it has to be - our customers have jobs, kids, and places to be, and we know that.</p>
 
       <h3>Supporting a Sacramento Small Business</h3>
 
@@ -9413,7 +9413,7 @@ export const blogPosts: BlogPost[] = [
       <p>Often yes, but the more important point is that the pricing at an independent tire shop is usually more transparent. You are less likely to end up with a bill that is 30 percent higher than the quoted price due to add-ons you did not ask for. At Tire Geeks, the quote you get includes mount, balance, and valve stems - no surprises at the register. On competitive tire brands, our prices are at or below what the major chains charge because we are not paying corporate overhead or franchise fees.</p>
 
       <h3>Can an independent tire shop handle the same volume and speed as a chain?</h3>
-      <p>Yes. Tire Geeks runs two full-service locations with multiple bays each. A standard four-tire swap with balance typically takes under an hour. Walk-in customers are welcome at both locations during regular hours, Monday through Saturday 9 AM to 7 PM. The difference is that you are not stuck in a queue behind 20 other appointments scheduled by an automated system - the floor runs based on real traffic and actual job times.</p>
+      <p>Yes. Tire Geeks runs two full-service locations with multiple bays each. A standard four-tire swap with balance typically takes under an hour. Walk-in customers are welcome at both locations during regular hours, Monday through Saturday 9 AM to 6 PM. The difference is that you are not stuck in a queue behind 20 other appointments scheduled by an automated system - the floor runs based on real traffic and actual job times.</p>
 
       <h3>Will an independent tire shop carry the brand I want?</h3>
       <p>A good independent shop has access to the same tire distributors as the chains, without being locked into a specific vendor agreement. Tire Geeks stocks and orders Falken, Cooper, Toyo, Nitto, BFGoodrich, Kumho, General, Hankook, Nexen, and others. If you have a specific brand and size in mind, call ahead and we can tell you if it is in stock or how quickly we can get it in. For most popular sizes, we have it on the shelf or can get it next day.</p>
@@ -9429,7 +9429,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Come In and See the Difference</h2>
 
-      <p>If you have been running the chain-store loop and wondering why every visit feels like a negotiation, come by either Tire Geeks location and compare for yourself. South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. Talk to the techs, get a straight quote, and see what it feels like to deal with an independent tire shop that actually knows your car. You can also reach us through the <a href="/contact">contact page</a> or visit our <a href="/locations">locations page</a> for directions and hours.</p>
+      <p>If you have been running the chain-store loop and wondering why every visit feels like a negotiation, come by either Tire Geeks location and compare for yourself. South Sacramento: <strong>3020 Florin Rd, (916) 800-8786</strong>. Arden area: <strong>2245 Arden Way, (916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. Talk to the techs, get a straight quote, and see what it feels like to deal with an independent tire shop that actually knows your car. You can also reach us through the <a href="/contact">contact page</a> or visit our <a href="/locations">locations page</a> for directions and hours.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -9518,7 +9518,7 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Get Set Up Before Your Next Tahoe Trip</h2>
 
-      <p>Do not wait until the Thursday night before a big storm weekend to figure out your chain situation. Come see us now, get the right tires or chains for your vehicle, and head up I-80 or Highway 50 with confidence instead of anxiety. We have two Sacramento locations ready to help: <strong>South Sacramento at 3020 Florin Rd, (916) 800-8786</strong> and <strong>Arden area at 2245 Arden Way, (916) 913-8786</strong>. Both shops are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. If you have questions about what size chains fit your vehicle, whether your current tires qualify for R2, or what a dedicated winter set would cost, <a href="/contact">reach out and we will give you a straight answer</a>.</p>
+      <p>Do not wait until the Thursday night before a big storm weekend to figure out your chain situation. Come see us now, get the right tires or chains for your vehicle, and head up I-80 or Highway 50 with confidence instead of anxiety. We have two Sacramento locations ready to help: <strong>South Sacramento at 3020 Florin Rd, (916) 800-8786</strong> and <strong>Arden area at 2245 Arden Way, (916) 913-8786</strong>. Both shops are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. If you have questions about what size chains fit your vehicle, whether your current tires qualify for R2, or what a dedicated winter set would cost, <a href="/contact">reach out and we will give you a straight answer</a>.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -9895,7 +9895,7 @@ export const blogPosts: BlogPost[] = [
       <p>
         <strong>Tire Geeks South Sacramento</strong> - 3020 Florin Rd, (916) 800-8786<br/>
         <strong>Tire Geeks Arden</strong> - 2245 Arden Way, (916) 913-8786<br/>
-        Open Monday through Saturday, 9 AM to 7 PM. Walk-ins welcome, no appointment needed.
+        Open Monday through Saturday, 9 AM to 6 PM. Walk-ins welcome, no appointment needed.
         Both locations carry full inventory, offer Acima financing, and can mount and balance
         your new tires the same day.
       </p>
@@ -9996,7 +9996,7 @@ export const blogPosts: BlogPost[] = [
       <p>A 5-tire rotation includes your full-size matching spare in the rotation cycle, so each tire carries fewer total miles. It applies only when the spare is the same size, brand, and tread pattern as the four mounted tires - common on older pickups and body-on-frame SUVs. If your spare is a compact temporary spare, skip it. If you are not sure whether your spare qualifies, bring the truck in and we will check. It is a straightforward service that meaningfully extends the life of a full matching set.</p>
 
       <h2>Get Your Tires Rotated at Tire Geeks - Walk-ins Welcome</h2>
-      <p>Tire rotation is a quick service - typically 20-30 minutes while you wait. No appointment needed at either of our Sacramento locations. Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento, or at <strong>2245 Arden Way, (916) 913-8786</strong> serving the Arden-Arcade, Carmichael, and Campus Commons area. We are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. While you are here, we can check your alignment, inspect your brakes, and let you know where your tires actually stand. Check out our full range of <a href="/services">tire and auto services</a>, or <a href="/contact">contact us</a> with any questions before you come in.</p>
+      <p>Tire rotation is a quick service - typically 20-30 minutes while you wait. No appointment needed at either of our Sacramento locations. Visit us at <strong>3020 Florin Rd, (916) 800-8786</strong> in South Sacramento, or at <strong>2245 Arden Way, (916) 913-8786</strong> serving the Arden-Arcade, Carmichael, and Campus Commons area. We are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. While you are here, we can check your alignment, inspect your brakes, and let you know where your tires actually stand. Check out our full range of <a href="/services">tire and auto services</a>, or <a href="/contact">contact us</a> with any questions before you come in.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -10140,7 +10140,7 @@ export const blogPosts: BlogPost[] = [
 
       <p>We handle everything from sway bar end links to full suspension overhauls, and we always include an alignment check after any steering or suspension work. For more on what suspension-related repairs cost alongside other common services, see our <a href="/blog/minor-auto-repair-sacramento">minor auto repair cost guide for Sacramento</a> for context on how suspension fits into your overall maintenance picture.</p>
 
-      <p>Tire Geeks has two Sacramento locations - both walk-in friendly, no appointment needed. Our <strong>South Sacramento shop at 3020 Florin Rd</strong> is the right stop if you are coming from the Pocket, Meadowview, Valley Hi, or Elk Grove - call us at <strong>(916) 800-8786</strong>. Our <strong>Arden area location at 2245 Arden Way</strong> covers Arden-Arcade, Campus Commons, Carmichael, and North Sacramento - call <strong>(916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. Check our <a href="/locations">locations page</a> for directions and hours, or <a href="/contact">contact us</a> with questions before you come in.</p>
+      <p>Tire Geeks has two Sacramento locations - both walk-in friendly, no appointment needed. Our <strong>South Sacramento shop at 3020 Florin Rd</strong> is the right stop if you are coming from the Pocket, Meadowview, Valley Hi, or Elk Grove - call us at <strong>(916) 800-8786</strong>. Our <strong>Arden area location at 2245 Arden Way</strong> covers Arden-Arcade, Campus Commons, Carmichael, and North Sacramento - call <strong>(916) 913-8786</strong>. Both locations are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. Check our <a href="/locations">locations page</a> for directions and hours, or <a href="/contact">contact us</a> with questions before you come in.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
@@ -10290,7 +10290,7 @@ export const blogPosts: BlogPost[] = [
 
       <p>If your check engine light came on after your last alternator or battery replacement, there may be a connection - read our overview of <a href="/blog/alternator-replacement-sacramento">alternator replacement in Sacramento</a> to understand how charging system issues can trigger secondary fault codes. And if you are overdue on basic maintenance that helps prevent check engine light triggers, our <a href="/blog/oil-change-sacramento">Sacramento oil change guide</a> covers the service intervals that matter most.</p>
 
-      <p>Both locations are open Monday through Saturday, 9 AM to 7 PM. Walk in today - no appointment needed. Our South Sacramento shop is at <strong>3020 Florin Rd, (916) 800-8786</strong>, convenient for customers in Valley Hi, Meadowview, Pocket, Elk Grove, and the Stockton Boulevard area. Our Arden Way location is at <strong>2245 Arden Way, (916) 913-8786</strong>, serving Arden-Arcade, Campus Commons, Carmichael, Fair Oaks, and Citrus Heights. If the repair is more than you want to pay out of pocket, ask about our Acima financing - no traditional credit check required. <a href="/contact">Contact us</a> with any questions before you come in.</p>
+      <p>Both locations are open Monday through Saturday, 9 AM to 6 PM. Walk in today - no appointment needed. Our South Sacramento shop is at <strong>3020 Florin Rd, (916) 800-8786</strong>, convenient for customers in Valley Hi, Meadowview, Pocket, Elk Grove, and the Stockton Boulevard area. Our Arden Way location is at <strong>2245 Arden Way, (916) 913-8786</strong>, serving Arden-Arcade, Campus Commons, Carmichael, Fair Oaks, and Citrus Heights. If the repair is more than you want to pay out of pocket, ask about our Acima financing - no traditional credit check required. <a href="/contact">Contact us</a> with any questions before you come in.</p>
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,

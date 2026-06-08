@@ -53,7 +53,7 @@ const faqSchema = {
     {
       '@type': 'Question',
       name: 'Where is the best tire and wheel shop near me in Sacramento?',
-      acceptedAnswer: { '@type': 'Answer', text: 'Tire Geeks has two Sacramento locations: 3020 Florin Road (South Sacramento, near Pocket and Land Park) and 2245 Arden Way (near Arden-Arcade and Carmichael). Both locations carry a massive selection of wheels and tires with same-day installation available. Walk-ins are welcome Monday through Saturday, 9AM to 7PM.' },
+      acceptedAnswer: { '@type': 'Answer', text: 'Tire Geeks has two Sacramento locations: 3020 Florin Road (South Sacramento, near Pocket and Land Park) and 2245 Arden Way (near Arden-Arcade and Carmichael). Both locations carry a massive selection of wheels and tires with same-day installation available. Walk-ins are welcome Monday through Saturday, 9AM to 6PM.' },
     },
     {
       '@type': 'Question',

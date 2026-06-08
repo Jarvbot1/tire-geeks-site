@@ -5,11 +5,11 @@ import { Phone, MapPin, Clock, Check, ChevronRight, Navigation } from 'lucide-re
 export const metadata: Metadata = {
   title: 'Tire Shop Elk Grove | Tire Financing No Credit Check | Tire Geeks',
   description:
-    'Tires from $279 with Acima financing — 0% for 100 days, soft credit pull, up to $5,000 approved in seconds. Tire Geeks on Florin Road, 10–15 min from Elk Grove. Walk in Mon–Sat 9AM–7PM. Call (916) 800-8786.',
+    'Tires from $279 with Acima financing — 0% for 100 days, soft credit pull, up to $5,000 approved in seconds. Tire Geeks on Florin Road, 10–15 min from Elk Grove. Walk in Mon–Sat 9AM–6PM. Call (916) 800-8786.',
   openGraph: {
     title: 'Tire Shop Elk Grove | Tire Financing No Credit Check | Tire Geeks',
     description:
-      'Tires from $279 plus Acima financing for Elk Grove drivers — no credit needed, 100 days no interest. Walk in Mon–Sat 9AM–7PM. Call (916) 800-8786.',
+      'Tires from $279 plus Acima financing for Elk Grove drivers — no credit needed, 100 days no interest. Walk in Mon–Sat 9AM–6PM. Call (916) 800-8786.',
     url: 'https://tiregeeks.com/neighborhoods/elk-grove',
     images: [{ url: '/images/store-front-florin.jpg', width: 1200, height: 630 }],
   },
@@ -93,7 +93,7 @@ export default function ElkGrovePage() {
         '@type': 'OpeningHoursSpecification',
         dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
         opens: '09:00',
-        closes: '19:00',
+        closes: '18:00',
       },
     ],
     priceRange: '$$',
@@ -142,7 +142,7 @@ export default function ElkGrovePage() {
         name: 'Do I need an appointment?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'No appointment. Walk in Monday through Saturday, 9 AM to 7 PM. Most tire installs and alignments finish in under two hours. If you want to drop off in the morning before work, that is fine too — we will text you when it is ready.',
+          text: 'No appointment. Walk in Monday through Saturday, 9 AM to 6 PM. Most tire installs and alignments finish in under two hours. If you want to drop off in the morning before work, that is fine too — we will text you when it is ready.',
         },
       },
     ],
@@ -199,7 +199,7 @@ export default function ElkGrovePage() {
               Need tires today, can&apos;t wait til payday? Tire Geeks on Florin Road is 10&ndash;15 minutes
               up Highway 99 from Elk Grove. Tires starting at $279 out the door, Acima financing approves
               up to $5,000 in seconds with a soft credit pull &mdash; no hard inquiry. Walk in Mon&ndash;Sat
-              9AM&ndash;7PM. Call (916) 800-8786.
+              9AM&ndash;6PM. Call (916) 800-8786.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <a
@@ -278,7 +278,7 @@ export default function ElkGrovePage() {
                   that is most of who comes through our doors. We do not lecture, we do not push you to
                   the most expensive set on the rack, and we do not run hard credit checks behind your
                   back. Soft pull, real options, real numbers. Stop scrolling. Start rolling. Roll up
-                  Mon&ndash;Sat 9AM&ndash;7PM and we will get you sorted.
+                  Mon&ndash;Sat 9AM&ndash;6PM and we will get you sorted.
                 </p>
               </div>
             </div>
@@ -471,7 +471,7 @@ export default function ElkGrovePage() {
                   </div>
                   <div className="flex items-center gap-3">
                     <Clock className="w-5 h-5 flex-shrink-0" style={{ color: '#D42B2B' }} />
-                    <span className="font-body text-[#CFCFCF] text-[15px]">Mon&ndash;Sat: 9AM&ndash;7PM</span>
+                    <span className="font-body text-[#CFCFCF] text-[15px]">Mon&ndash;Sat: 9AM&ndash;6PM</span>
                   </div>
                 </div>
                 <div className="mt-6 pt-6 border-t border-white/5">
@@ -578,7 +578,7 @@ export default function ElkGrovePage() {
             </h2>
             <p className="font-body text-[#CFCFCF] text-lg mb-3 leading-relaxed">
               Tire Geeks &mdash; 3020 Florin Road, Sacramento. Ten to fifteen minutes from Elk Grove
-              up Highway 99. Walk in Mon&ndash;Sat, 9 AM to 7 PM. Acima approves up to $5,000 in
+              up Highway 99. Walk in Mon&ndash;Sat, 9 AM to 6 PM. Acima approves up to $5,000 in
               seconds, no credit needed, soft pull only, 100 days no interest.
             </p>
             <p className="font-body text-[#9E9E9E] text-[15px] mb-8 italic">

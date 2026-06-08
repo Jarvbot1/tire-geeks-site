@@ -93,7 +93,7 @@ const schemaFlorin = {
       "@type": "OpeningHoursSpecification",
       "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
       "opens": "09:00",
-      "closes": "19:00"
+      "closes": "18:00"
     }
   ],
   "priceRange": "$$",
@@ -145,7 +145,7 @@ const schemaArden = {
       "@type": "OpeningHoursSpecification",
       "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
       "opens": "09:00",
-      "closes": "19:00"
+      "closes": "18:00"
     }
   ],
   "priceRange": "$$",
