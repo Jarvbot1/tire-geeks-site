@@ -10296,9 +10296,1189 @@ export const blogPosts: BlogPost[] = [
     featured: false,
   },
 
+  // ---------- BUCKET A: VEHICLE-SPECIFIC ----------
+  {
+    id: '74',
+    slug: 'best-tires-wheels-tesla-model-y-model-3',
+    title: 'Best Tires and Wheels for Tesla Model Y and Model 3: Sacramento EV Owner’s Guide',
+    excerpt: 'Teslas chew through tires faster than gas cars and need EV-specific rubber. Here is what Sacramento Model Y and Model 3 owners should run, and why fitment matters more on an EV.',
+    category: 'VEHICLE GUIDES',
+    author: 'Azam Mirza',
+    authorSlug: 'azam-mirza',
+    date: '2026-01-12',
+    readTime: '9 min read',
+    content: `
+      <h2>Why Teslas Are Hard on Tires</h2>
+      <p>If you own a Tesla Model Y or Model 3 in Sacramento, you have probably noticed your tires wearing out faster than you expected. You are not imagining it. Electric vehicles are significantly heavier than comparable gas cars because of their battery packs, and they deliver instant torque to the wheels the moment you press the accelerator. A Model Y can weigh well over 4,400 pounds, and that combination of mass and immediate power puts real stress on the contact patch. At Tire Geeks, we see Tesla owners come in needing replacements at 25,000 to 30,000 miles when they expected 40,000 or more.</p>
+
+      <p>The good news is that choosing the right tire for your Tesla can dramatically improve both tread life and the range you get per charge. The wrong tire does the opposite. This guide breaks down exactly what Model Y and Model 3 owners around Sacramento should be running.</p>
+
+      <h2>What Makes an "EV Tire" Different</h2>
+      <p>Tires built or rated for electric vehicles are engineered around three priorities that matter less on a conventional car:</p>
+      <ul>
+        <li><strong>Higher load capacity:</strong> The reinforced sidewalls and construction handle the extra battery weight without excessive flex or premature wear.</li>
+        <li><strong>Low rolling resistance:</strong> Less energy lost to the road means more miles per charge. On a Tesla, the right tire can be the difference of 10 to 20 miles of range.</li>
+        <li><strong>Noise-reducing foam:</strong> Without an engine masking road noise, tire hum is far more noticeable in an EV cabin. Many EV-oriented tires include internal acoustic foam to keep things quiet.</li>
+      </ul>
+
+      <h2>Recommended Tires for the Model Y</h2>
+      <p>The Model Y typically runs 19-inch, 20-inch, or 21-inch wheels depending on trim. For most Sacramento owners who want a balance of range, comfort, and longevity, we recommend a premium all-season touring tire with an EV or "T0/T1" Tesla-specific designation where available. The Michelin Primacy and Pilot Sport All Season lines are consistently strong performers, and the Continental and Pirelli EV-specific options hold up well in our climate.</p>
+
+      <p>If you tow, carry heavy loads, or take frequent Tahoe trips, talk to us about a tire with a higher load index and stronger wet/winter grip rather than chasing maximum range.</p>
+
+      <h2>Recommended Tires for the Model 3</h2>
+      <p>The Model 3 is lighter than the Model Y but still benefits from EV-rated rubber. The Performance trim in particular punishes cheap tires because of its power and lower-profile setup. For Standard and Long Range Model 3s, a quiet, low-rolling-resistance all-season is ideal. For the Performance model, a max-performance summer or ultra-high-performance all-season gives you the grip the car can actually use.</p>
+
+      <blockquote>Pro Tip: Resist the urge to buy the absolute cheapest tire for a Tesla. The torque and weight will shred a budget tire quickly, and you lose range every mile in between. The cost per mile is usually worse than a quality EV tire.</blockquote>
+
+      <h2>Wheels and Aero Considerations</h2>
+      <p>Tesla’s factory aero wheel covers exist for a reason: they reduce drag and add real range. If you upgrade to aftermarket wheels for looks, know that you may trade away a few miles of range, and a heavier wheel hurts both efficiency and ride quality. We help Sacramento Tesla owners pick lightweight aftermarket wheels in the correct offset and load rating so you get the look without wrecking the things that make the car efficient.</p>
+
+      <h2>Tire Rotation and Care for Your Tesla</h2>
+      <p>Because EVs wear tires faster and often unevenly, rotation every 5,000 to 6,000 miles is even more important than on a gas car. We also recommend checking alignment if you notice uneven wear, since Tesla suspensions are sensitive and Sacramento’s rougher roads and freeway expansion joints take a toll.</p>
+
+      <h2>Come See the EV Specialists at Tire Geeks</h2>
+      <p>We mount and balance Tesla wheels every week and understand the fitment, load, and TPMS quirks that come with them. Visit us at <strong>3020 Florin Rd</strong> in South Sacramento or <strong>2245 Arden Way</strong> in the Arden area, or call <strong>(916) 800-8786</strong>. We will get your Model Y or Model 3 set up with tires that protect your range and your wallet.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '75',
+    slug: 'best-tires-wheels-subaru-outback-crosstrek',
+    title: 'Best Tires and Wheels for Subaru Outback and Crosstrek: Sacramento All-Weather Guide',
+    excerpt: 'Subarus are everywhere in NorCal for a reason. Here is how to set up your Outback or Crosstrek for Sacramento commutes, Tahoe snow, and light trails.',
+    category: 'VEHICLE GUIDES',
+    author: 'Erika',
+    authorSlug: 'erika',
+    date: '2026-01-19',
+    readTime: '8 min read',
+    content: `
+      <h2>The NorCal Subaru</h2>
+      <p>Few vehicles are as at home in Northern California as a Subaru. The Outback and Crosstrek pair all-wheel drive with enough ground clearance to handle a snowy Tahoe weekend and a dirt trail, while still being comfortable daily drivers around Sacramento. But the symmetrical all-wheel-drive system that makes these cars so capable also makes tire selection more important than most owners realize.</p>
+
+      <h2>Why AWD Changes Your Tire Strategy</h2>
+      <p>Subaru’s all-wheel-drive system is sensitive to differences in tire diameter. If you mix worn tires with new ones, or run mismatched brands and tread depths, you can put strain on the center differential and AWD components. This is why Subaru recommends replacing all four tires together and keeping tread depths within a small tolerance. At Tire Geeks, we always check that your four tires stay matched, and if you damage a single near-new tire, we can shave a replacement to match the others and protect your drivetrain.</p>
+
+      <h2>Best All-Season Tires for the Outback and Crosstrek</h2>
+      <p>For the Sacramento driver who wants one tire to do everything, a premium all-weather tire with the 3-Peak Mountain Snowflake (3PMSF) rating is the sweet spot. These tires handle dry summer commutes, wet winter roads, and occasional Sierra snow without needing a seasonal swap. Lines like the Michelin CrossClimate and comparable all-weather options give you genuine cold-weather capability in a tire you can run year-round.</p>
+
+      <h2>Best Tires for Tahoe and Snow Trips</h2>
+      <p>If you head to the mountains often, a dedicated winter tire still outperforms any all-season once temperatures drop below freezing. Many of our Subaru customers keep a second set of wheels with winter tires mounted, making the seasonal swap quick and protecting their summer rubber. We can build and store that second set for you.</p>
+
+      <blockquote>Pro Tip: Carrying chains is still required on many Sierra routes during storms regardless of your tires or AWD. A 3PMSF-rated tire can exempt you from some chain requirements, but always check current Caltrans conditions before you go.</blockquote>
+
+      <h2>Light Off-Road and All-Terrain Options</h2>
+      <p>Crosstrek and Outback owners who explore fire roads and campsites sometimes want a more rugged look and a bit more bite. There are all-terrain tires sized specifically for these vehicles that add sidewall protection and trail grip without destroying on-road manners or fuel economy. We will steer you away from anything too aggressive that would hurt your daily driving.</p>
+
+      <h2>Wheel Upgrades</h2>
+      <p>Both models look great with a tasteful aftermarket wheel, and the lifted-Crosstrek look is popular in Sacramento right now. We make sure any wheel you choose has the correct bolt pattern, offset, and load rating, and that your tire choice keeps the overall diameter close to factory to preserve your AWD system and speedometer accuracy.</p>
+
+      <h2>Set Up Your Subaru at Tire Geeks</h2>
+      <p>We understand Subaru AWD requirements and the demands of NorCal driving. Stop by <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>, and we will dial in the right setup for your Outback or Crosstrek.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '76',
+    slug: 'best-tires-wheels-ford-bronco',
+    title: 'Best Tires and Wheels for Ford Bronco: Sacramento Off-Road Fitment Guide',
+    excerpt: 'The Bronco is built to go off-road, but the factory setup leaves grip and clearance on the table. Here is how Sacramento Bronco owners should spec tires and wheels.',
+    category: 'VEHICLE GUIDES',
+    author: 'Victor',
+    authorSlug: 'victor',
+    date: '2026-01-26',
+    readTime: '9 min read',
+    content: `
+      <h2>The Bronco Is Built for More</h2>
+      <p>Ford brought the Bronco back with serious off-road hardware, and Sacramento owners are using them exactly as intended, from Sierra trails to Rubicon-adjacent runs. But many Broncos roll off the lot on tires and wheels chosen for showroom balance rather than maximum capability. If you actually wheel your Bronco, or just want the look and clearance, the right tire and wheel package transforms the truck.</p>
+
+      <h2>Understanding Bronco Tire Sizes</h2>
+      <p>Bronco trims vary widely, from the base model on 30-inch tires to the Sasquatch package that comes from the factory with 35-inch tires and the clearance to run them. Knowing what your specific trim can fit without rubbing or a lift is the first step. At Tire Geeks, we test-fit and know which sizes clear on each Bronco configuration.</p>
+
+      <h2>The Big Question: 33s, 35s, or 37s?</h2>
+      <ul>
+        <li><strong>33-inch tires:</strong> A great upgrade for non-Sasquatch Broncos. Better grip and presence with minimal or no lift, and the easiest on your gearing and fuel economy.</li>
+        <li><strong>35-inch tires:</strong> The Sasquatch standard and the sweet spot for serious trail use. Non-Sasquatch trucks usually need a leveling kit or small lift and possibly trimming.</li>
+        <li><strong>37-inch tires:</strong> Maximum clearance and capability, but they require a lift, often re-gearing to keep performance and fuel economy reasonable, and careful fitment work. This is a build, not a bolt-on.</li>
+      </ul>
+
+      <blockquote>Pro Tip: Going bigger than 35s without re-gearing makes your Bronco feel sluggish and hurts fuel economy, because the taller tire changes your effective gear ratio. We will tell you honestly whether re-gearing makes sense for your setup.</blockquote>
+
+      <h2>All-Terrain vs Mud-Terrain</h2>
+      <p>Most Sacramento Bronco owners are best served by a quality all-terrain tire. It grips dirt, gravel, and light mud while staying quiet and predictable on the freeway commute. A mud-terrain tire only makes sense if you spend most of your time in deep mud or rock, and you should expect more road noise and faster highway wear in exchange for that bite.</p>
+
+      <h2>Wheel Selection for the Bronco</h2>
+      <p>Beadlock-capable and off-road-specific wheels in the correct offset give you the aggressive stance and the function to air down safely on the trail. We carry off-road wheel brands sized for the Bronco and make sure the backspacing keeps your steering and suspension geometry happy.</p>
+
+      <h2>Lift, Level, and Clearance Work</h2>
+      <p>Tire Geeks does the leveling kits, lifts, and fitment work to run the tires you want without rubbing. We handle the whole package in-house, from the wheels and tires to the suspension that makes them fit, so you leave with a truck that works.</p>
+
+      <h2>Build Your Bronco at Tire Geeks</h2>
+      <p>Bring your Bronco to <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will help you choose a tire and wheel package that matches how you actually use the truck.</p>
+    `,
+    image: '/images/gallery/lifted-truck.jpg',
+    featured: false,
+  },
+  {
+    id: '77',
+    slug: 'best-tires-wheels-toyota-tundra',
+    title: 'Best Tires and Wheels for Toyota Tundra: Sacramento Truck Owner’s Guide',
+    excerpt: 'Whether your Tundra hauls, tows, or just commutes, the right tires and wheels make a difference. Here is the Sacramento guide for every Tundra generation.',
+    category: 'VEHICLE GUIDES',
+    author: 'Moni Tariq',
+    authorSlug: 'moni-tariq',
+    date: '2026-02-02',
+    readTime: '8 min read',
+    content: `
+      <h2>The Tundra Owner’s Dilemma</h2>
+      <p>Toyota Tundras are built to last, and Sacramento owners keep them for a long time. Over that lifespan you will buy tires more than once, and the right choice depends on how you use the truck. A Tundra that tows a boat to Folsom Lake every weekend needs a different tire than one that mostly commutes on I-5, or one that gets lifted for weekend trails.</p>
+
+      <h2>Match the Tire to the Job</h2>
+      <ul>
+        <li><strong>Towing and hauling:</strong> Look for a highway or all-season tire with a high load rating and strong sidewalls. Stability under load and even wear matter more than aggressive looks here.</li>
+        <li><strong>Daily commuting:</strong> A quiet highway-terrain tire maximizes comfort, fuel economy, and tread life on Sacramento freeways.</li>
+        <li><strong>Off-road and overland:</strong> A 3PMSF-rated all-terrain gives you trail grip and Tahoe capability while staying livable on pavement.</li>
+      </ul>
+
+      <h2>Tire Sizes by Generation</h2>
+      <p>The newer Tundra rides on larger wheels from the factory, while older generations have more aftermarket flexibility. Whatever year you have, we know the sizes that fit cleanly and the ones that need a level or lift. Many owners run a modest leveling kit and a slightly taller all-terrain for the perfect balance of looks and function.</p>
+
+      <blockquote>Pro Tip: On a tow rig, do not sacrifice load rating for style. An underrated tire under a heavy trailer is a real safety risk, especially on a hot Sacramento freeway where heat builds in the tire.</blockquote>
+
+      <h2>Wheels That Work</h2>
+      <p>From clean street wheels to aggressive off-road designs, the Tundra wears almost anything well. We make sure your wheel choice has the right load rating for a full-size truck, the correct offset to avoid rubbing, and a finish that holds up to Sacramento sun and brake dust.</p>
+
+      <h2>Leveling and Lift Options</h2>
+      <p>A leveling kit is one of the most popular Tundra upgrades because it evens out the factory rake and makes room for larger tires at a reasonable price. If you want more, we install full lift kits and handle the alignment afterward so your new setup drives straight and wears evenly.</p>
+
+      <h2>Get Your Tundra Dialed In</h2>
+      <p>Visit Tire Geeks at <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will match your Tundra to the right tire, wheel, and suspension setup for how you drive.</p>
+    `,
+    image: '/images/gallery/lifted-truck.jpg',
+    featured: false,
+  },
+  {
+    id: '78',
+    slug: 'best-tires-wheels-honda-crv',
+    title: 'Best Tires and Wheels for Honda CR-V: Sacramento Commuter and Family Picks',
+    excerpt: 'The CR-V is one of Sacramento’s most common family SUVs. Here is how to pick tires that ride quiet, last long, and keep your family safe in the wet.',
+    category: 'VEHICLE GUIDES',
+    author: 'Erika',
+    authorSlug: 'erika',
+    date: '2026-02-09',
+    readTime: '7 min read',
+    content: `
+      <h2>The Everyday SUV</h2>
+      <p>The Honda CR-V is a Sacramento staple: reliable, efficient, and roomy enough for the whole family. Because it is a daily driver and a family hauler, the priorities for CR-V tires are comfort, quiet, wet-weather safety, and long tread life rather than aggressive performance. The good news is you do not have to spend a fortune to get all of that.</p>
+
+      <h2>What to Prioritize</h2>
+      <ul>
+        <li><strong>Wet grip:</strong> Sacramento’s rainy season turns freeways slick fast. Strong wet braking is the single most important safety feature in a family tire.</li>
+        <li><strong>Tread life:</strong> A higher treadwear warranty means fewer replacements over the years you will own the car.</li>
+        <li><strong>Ride comfort and quiet:</strong> A touring tire keeps cabin noise low and the ride smooth.</li>
+        <li><strong>Fuel economy:</strong> A low-rolling-resistance tire helps the CR-V stay efficient.</li>
+      </ul>
+
+      <h2>Recommended Tire Types</h2>
+      <p>For the vast majority of CR-V owners, a premium grand-touring all-season is the right call. These tires carry long mileage warranties, excel in the wet, and stay quiet on the freeway. If you make regular winter trips to the Sierra, consider an all-weather tire with the 3PMSF rating so you keep traction in cold and snow without a seasonal swap.</p>
+
+      <blockquote>Pro Tip: When you are shopping by price, compare the cost per mile, not just the sticker. A tire that costs a bit more but lasts 20,000 miles longer is the cheaper tire in the end.</blockquote>
+
+      <h2>Wheel Options</h2>
+      <p>Most CR-V owners stay with a clean factory-style wheel, but a tasteful aftermarket wheel can sharpen the look without hurting the ride. We make sure any wheel keeps the correct size and offset so your CR-V drives exactly as Honda intended.</p>
+
+      <h2>Keep the Family Safe</h2>
+      <p>Tire Geeks helps Sacramento families choose safe, long-lasting tires at a fair price. Visit us at <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will get your CR-V set up right.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '79',
+    slug: 'best-tires-wheels-nissan-frontier-titan',
+    title: 'Best Tires and Wheels for Nissan Frontier and Titan: Sacramento Fitment Guide',
+    excerpt: 'Nissan’s trucks are workhorses that respond well to the right upgrades. Here is how Sacramento Frontier and Titan owners should spec tires and wheels.',
+    category: 'VEHICLE GUIDES',
+    author: 'Victor',
+    authorSlug: 'victor',
+    date: '2026-02-16',
+    readTime: '8 min read',
+    content: `
+      <h2>Underrated Trucks, Great Upgrade Candidates</h2>
+      <p>The Nissan Frontier and Titan do not get the attention of the domestic trucks, but Sacramento owners know they are tough, capable, and excellent platforms for tire and wheel upgrades. Whether you have the midsize Frontier or the full-size Titan, the right setup adds both capability and curb appeal.</p>
+
+      <h2>Frontier: Midsize Capability</h2>
+      <p>The Frontier hits a sweet spot for Sacramento drivers who want a usable truck that is easy to park and efficient enough for daily driving. A leveling kit and a set of 31 to 33-inch all-terrains is the most popular upgrade, giving the truck a stronger stance and real trail grip without the cost and fuel penalty of going too big. We test-fit to make sure your chosen size clears.</p>
+
+      <h2>Titan: Full-Size Presence</h2>
+      <p>The Titan carries larger tires and wheels comfortably and looks great with an aggressive setup. For towing and hauling, prioritize load rating and a highway-terrain or all-terrain tire built for weight. For a lifted show-and-go build, we will help you balance the look you want with tires that still drive well on the freeway.</p>
+
+      <blockquote>Pro Tip: Both trucks benefit hugely from a proper alignment after any suspension or tire-size change. Skipping it is the fastest way to wear out an expensive new set of tires unevenly.</blockquote>
+
+      <h2>All-Terrain Is the Default</h2>
+      <p>For most Nissan truck owners, a 3PMSF-rated all-terrain is the ideal all-rounder. It handles Sacramento freeways, dirt and gravel, and Sierra snow trips while staying quiet enough to live with every day. We reserve mud-terrains for the customers who genuinely need them.</p>
+
+      <h2>Wheels and Finishes</h2>
+      <p>From matte black off-road wheels to clean machined finishes, we carry options sized for both trucks with the correct bolt pattern and offset. We will make sure the wheel and tire combination clears your suspension and fenders.</p>
+
+      <h2>Upgrade Your Nissan at Tire Geeks</h2>
+      <p>Bring your Frontier or Titan to <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will build a setup that fits your truck and how you use it.</p>
+    `,
+    image: '/images/gallery/lifted-truck.jpg',
+    featured: false,
+  },
+  {
+    id: '80',
+    slug: 'best-tires-wheels-dodge-charger-challenger',
+    title: 'Best Tires and Wheels for Dodge Charger and Challenger: Performance Picks',
+    excerpt: 'Muscle needs grip. Here is how Sacramento Charger and Challenger owners should choose tires and wheels for street performance, looks, and all-season daily driving.',
+    category: 'VEHICLE GUIDES',
+    author: 'Qassam Tariq',
+    authorSlug: 'qassam-tariq',
+    date: '2026-02-23',
+    readTime: '8 min read',
+    content: `
+      <h2>Power Demands Grip</h2>
+      <p>The Dodge Charger and Challenger are some of the most popular performance cars on Sacramento streets, and for good reason. But all that power is wasted if your tires cannot put it to the ground. The right tire and wheel setup is what separates a muscle car that hooks and corners from one that just spins and slides.</p>
+
+      <h2>Match the Tire to Your Driving</h2>
+      <ul>
+        <li><strong>Daily driver:</strong> An ultra-high-performance all-season gives you grip, all-weather safety, and reasonable tread life for year-round Sacramento driving.</li>
+        <li><strong>Weekend performance:</strong> A max-performance summer tire delivers the strongest dry and wet grip, but you should not run it in cold weather, and it wears faster.</li>
+        <li><strong>Big power (Scat Pack, Hellcat):</strong> These cars demand a serious performance tire with a high speed rating, and rear grip is the priority.</li>
+      </ul>
+
+      <h2>Staggered Setups</h2>
+      <p>Many Chargers and Challengers run a staggered fitment, with wider wheels and tires in the rear than the front. This puts more rubber where the power goes down and gives the car an aggressive stance. If you run staggered, remember that you cannot rotate tires front-to-rear, so plan for it. We will explain the tradeoffs and set you up correctly.</p>
+
+      <blockquote>Pro Tip: A summer performance tire loses grip dramatically below about 45 degrees Fahrenheit. On cold Sacramento winter mornings, an all-season is genuinely safer for a daily-driven muscle car.</blockquote>
+
+      <h2>Wheels for the Look and the Function</h2>
+      <p>The Charger and Challenger look incredible with the right wheel, from classic muscle-car styles to modern concave designs. We make sure your wheels have the correct offset and load rating, clear the big brakes on performance trims, and fit without rubbing under hard cornering or acceleration.</p>
+
+      <h2>Don’t Forget Brakes and Alignment</h2>
+      <p>Big power means big stopping demands. If you are upgrading tires and wheels for performance, it is the right time to inspect your brakes and dial in a performance alignment. We handle all of it in-house.</p>
+
+      <h2>Set Up Your Mopar at Tire Geeks</h2>
+      <p>Bring your Charger or Challenger to <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will help you put the power down and look good doing it.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '81',
+    slug: 'best-tires-wheels-gmc-yukon-chevy-tahoe',
+    title: 'Best Tires and Wheels for GMC Yukon and Chevy Tahoe: Sacramento SUV Guide',
+    excerpt: 'Full-size SUVs need tires that handle weight, towing, and family duty. Here is how Sacramento Yukon and Tahoe owners should choose.',
+    category: 'VEHICLE GUIDES',
+    author: 'Moni Tariq',
+    authorSlug: 'moni-tariq',
+    date: '2026-03-02',
+    readTime: '8 min read',
+    content: `
+      <h2>Big SUVs, Big Demands</h2>
+      <p>The GMC Yukon and Chevy Tahoe are among the most capable family haulers on the road, and Sacramento families load them up with people, gear, and trailers. That weight, plus the towing many owners do, means tire selection is about load capacity and stability first, with looks a close second.</p>
+
+      <h2>Prioritize Load Rating and Stability</h2>
+      <p>These SUVs are heavy, and when fully loaded or towing they put serious demand on the tires. A tire with the correct load rating and strong sidewalls keeps the vehicle stable and safe, especially on hot Sacramento freeways where tire temperatures climb. Never downgrade load rating to save money on a vehicle this size.</p>
+
+      <h2>Tire Types for the Yukon and Tahoe</h2>
+      <ul>
+        <li><strong>Highway all-season:</strong> The default for most owners. Quiet, comfortable, long-lasting, and efficient for daily family duty.</li>
+        <li><strong>All-terrain (3PMSF):</strong> A great choice if you take Tahoe trips, tackle gravel and dirt, or just want a more rugged look with snow capability.</li>
+        <li><strong>Touring:</strong> Maximum comfort and quiet for owners who stay on pavement and prioritize ride quality.</li>
+      </ul>
+
+      <blockquote>Pro Tip: Larger factory wheels on premium trims look great but ride firmer and cost more to re-tire. If comfort matters most, a slightly smaller wheel with more sidewall can actually improve the ride.</blockquote>
+
+      <h2>Wheel Upgrades</h2>
+      <p>From clean street designs to bold finishes, both SUVs carry large wheels well. We make sure your wheels have the right load rating for a full-size SUV and the correct offset and clearance, especially if you tow.</p>
+
+      <h2>Towing Setup</h2>
+      <p>If you tow a trailer, boat, or camper, we will make sure your tires and pressures are set up for the load and talk you through anything else that improves towing stability. The right setup makes a big difference in how the vehicle feels on the freeway with weight behind it.</p>
+
+      <h2>Set Up Your SUV at Tire Geeks</h2>
+      <p>Visit us at <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will get your Yukon or Tahoe set up to haul your family safely for years.</p>
+    `,
+    image: '/images/gallery/lifted-truck.jpg',
+    featured: false,
+  },
+
+  // ---------- BUCKET B: SERVICE GAPS ----------
+  {
+    id: '82',
+    slug: 'ev-tires-explained',
+    title: 'EV Tires Explained: Why Teslas and Electric Cars Need Special Tires',
+    excerpt: 'Electric cars are heavier, torquier, and quieter than gas cars, and that changes everything about the tires they need. Here is what every Sacramento EV owner should know.',
+    category: 'TIRES',
+    author: 'Azam Mirza',
+    authorSlug: 'azam-mirza',
+    date: '2026-03-09',
+    readTime: '8 min read',
+    content: `
+      <h2>Why EVs Are Different</h2>
+      <p>Electric vehicles are taking over Sacramento driveways, and many owners are surprised to learn that they cannot just throw any tire on them. EVs place demands on tires that gas cars do not, and using the wrong tire costs you range, comfort, and money. Here is what makes EV tires genuinely different, and why it matters.</p>
+
+      <h2>Three Reasons EVs Need Special Tires</h2>
+      <h3>1. Weight</h3>
+      <p>The battery pack makes EVs significantly heavier than comparable gas cars, often by 1,000 pounds or more. That weight rides on the tires every mile. EV-rated tires use reinforced construction and higher load ratings to carry it without excessive flex or premature wear.</p>
+
+      <h3>2. Instant Torque</h3>
+      <p>An electric motor delivers full torque the instant you press the pedal. That immediate force at the contact patch wears tread faster than the gradual power delivery of a gas engine. A tire built for an EV uses tread compounds and patterns designed to handle it and last longer.</p>
+
+      <h3>3. Silence</h3>
+      <p>Without engine noise, road and tire noise become the loudest thing in an EV cabin. Many EV tires include a layer of acoustic foam inside the tire that absorbs sound and keeps the ride quiet. Put a regular tire on an EV and you will hear every bit of road hum.</p>
+
+      <h2>The Range Factor</h2>
+      <p>Rolling resistance is the energy your tires lose to the road, and it directly affects how far you can drive on a charge. EV-specific tires are engineered for low rolling resistance, which can mean 10 to 20 extra miles of range compared to a tire that was not designed with efficiency in mind. Over the life of the tire, that adds up to real money and convenience.</p>
+
+      <blockquote>Pro Tip: A cheap, high-rolling-resistance tire on an EV costs you twice: once at purchase and once every mile in lost range. The right EV tire usually has a better cost per mile despite the higher sticker.</blockquote>
+
+      <h2>Do You Have to Buy a Tesla-Branded Tire?</h2>
+      <p>Not necessarily. Tesla and some other manufacturers mark certain tires with codes like T0 or T1, but many excellent EV-rated tires from major brands fit electric vehicles perfectly. What matters is the load rating, the rolling resistance, and the noise characteristics, not a specific badge. We will help you find the right tire whether or not it carries a manufacturer code.</p>
+
+      <h2>Care and Rotation</h2>
+      <p>Because EVs wear tires faster and sometimes unevenly, rotate every 5,000 to 6,000 miles and keep an eye on alignment. Catching uneven wear early can save an expensive set of tires.</p>
+
+      <h2>Talk EVs with Tire Geeks</h2>
+      <p>We fit EVs every week and understand the load, range, and TPMS requirements that come with them. Visit <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will get your electric car the tires it actually needs.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '83',
+    slug: 'road-force-balancing-vs-standard',
+    title: 'Road Force Balancing vs Standard Balancing: Why It Fixes Vibration Others Can’t',
+    excerpt: 'If your steering wheel still shakes after a standard balance, road force balancing may be the answer. Here is how it works and when Sacramento drivers need it.',
+    category: 'SERVICE',
+    author: 'Victor',
+    authorSlug: 'victor',
+    date: '2026-03-16',
+    readTime: '7 min read',
+    content: `
+      <h2>When a Standard Balance Isn’t Enough</h2>
+      <p>You just had your tires balanced, but the steering wheel still shakes at freeway speed. It is one of the most frustrating problems a driver can have, and it is more common than you might think. The fix is often a service called road force balancing, and it solves vibration problems that a standard balance simply cannot. Here is what the difference is and when you need it.</p>
+
+      <h2>How Standard Balancing Works</h2>
+      <p>A traditional spin balance measures the weight distribution of your wheel and tire assembly and tells the technician where to add small weights so the assembly spins smoothly. It corrects weight imbalance, and for most tires that is enough. But it cannot detect a different problem: variation in the stiffness or shape of the tire itself.</p>
+
+      <h2>How Road Force Balancing Works</h2>
+      <p>A road force balancer adds a large roller that presses against the tire with hundreds of pounds of force, simulating the weight of the car on the road. This lets the machine measure not just weight imbalance but also stiffness variation and out-of-round conditions, the things that cause vibration even on a perfectly weight-balanced tire. The machine then guides the technician to match-mount the tire, rotating it on the wheel to cancel out high spots, before fine-tuning the weights.</p>
+
+      <blockquote>Pro Tip: A vibration that gets worse as you speed up and shows up in the steering wheel is classic tire or wheel imbalance or runout. A vibration you feel through the brake pedal is more likely a brake rotor issue. Knowing the difference saves diagnostic time.</blockquote>
+
+      <h2>When You Need Road Force Balancing</h2>
+      <ul>
+        <li>Persistent vibration after a standard balance</li>
+        <li>New tires that vibrate from day one</li>
+        <li>Larger wheels and low-profile tires, which are less forgiving of imperfections</li>
+        <li>Performance and luxury vehicles where smoothness is expected</li>
+        <li>Diagnosing whether a vibration is the tire, the wheel, or something else</li>
+      </ul>
+
+      <h2>It Can Diagnose a Bad Tire or Wheel</h2>
+      <p>One of the most valuable things road force balancing does is identify when a tire or wheel is defective or damaged beyond what balancing can fix. If a tire has too much road force variation, no amount of weight will smooth it out, and the machine proves it. That can support a warranty claim or tell you a wheel is bent and needs repair.</p>
+
+      <h2>Get a Smooth Ride at Tire Geeks</h2>
+      <p>If your vehicle still vibrates after a balance somewhere else, bring it to Tire Geeks. We will road force balance it and find the real cause. Visit <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '84',
+    slug: 'tpms-sensor-replacement-sacramento',
+    title: 'TPMS Sensor Replacement in Sacramento: Cost, Symptoms and Same-Day Service',
+    excerpt: 'That tire pressure light might mean low air, or it might mean a dead sensor. Here is how TPMS works, what replacement costs, and when to get it done in Sacramento.',
+    category: 'SERVICE',
+    author: 'Erika',
+    authorSlug: 'erika',
+    date: '2026-03-23',
+    readTime: '7 min read',
+    content: `
+      <h2>That Little Horseshoe Light</h2>
+      <p>The tire pressure warning light, shaped like a horseshoe with an exclamation point, is one of the most misunderstood warnings on your dashboard. Sometimes it means a tire is low and you just need air. Other times it means a TPMS sensor has failed and needs replacement. Knowing the difference saves you worry and money. Here is how the system works and what to do when the light comes on.</p>
+
+      <h2>What TPMS Actually Does</h2>
+      <p>TPMS stands for Tire Pressure Monitoring System. Most modern vehicles use a small battery-powered sensor inside each wheel that measures air pressure and reports it to the car. When pressure drops too low, the light comes on. The system is a genuine safety feature, since underinflated tires handle poorly, wear out faster, and can fail at freeway speed, especially in Sacramento’s summer heat.</p>
+
+      <h2>Why Sensors Fail</h2>
+      <p>TPMS sensors run on a sealed internal battery that typically lasts five to ten years. Once that battery dies, the sensor cannot be recharged and must be replaced. Sensors can also be damaged during careless tire mounting or by corrosion. If your vehicle is getting older and the light stays on even with properly inflated tires, a dead sensor is the likely cause.</p>
+
+      <h2>Symptoms of a Failing Sensor</h2>
+      <ul>
+        <li>The pressure light stays on even after you correctly inflate all tires</li>
+        <li>The light flashes for a period when you start the car, then stays solid</li>
+        <li>One tire consistently shows no reading on vehicles that display individual pressures</li>
+      </ul>
+
+      <blockquote>Pro Tip: A solid light usually means low pressure. A light that flashes at startup and then stays on usually means a system or sensor fault, not just low air. Either way, do not ignore it.</blockquote>
+
+      <h2>What Replacement Costs</h2>
+      <p>TPMS sensor replacement cost depends on your vehicle and how many sensors need replacing, including the sensor itself plus the labor to dismount the tire, install the sensor, and reseal and balance the wheel. Because sensors age together, when one fails the others are often close behind, so some owners choose to replace all four at once to avoid repeat visits. We will give you an honest assessment of how many actually need replacing.</p>
+
+      <h2>Same-Day Service</h2>
+      <p>We stock sensors for most common vehicles and can program and install them the same day, often while you wait. We also reset and relearn the system so your dashboard reads correctly before you leave.</p>
+
+      <h2>Fix Your TPMS at Tire Geeks</h2>
+      <p>Do not drive around with the pressure light on. Visit <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>, and we will diagnose and fix it fast.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '85',
+    slug: 'nitrogen-tire-inflation-worth-it',
+    title: 'Nitrogen Tire Inflation: Is It Worth It in Sacramento’s Heat?',
+    excerpt: 'Nitrogen tire fills are marketed hard, but do they actually help? Here is the honest breakdown for Sacramento drivers dealing with triple-digit summers.',
+    category: 'TIRES',
+    author: 'Qassam Tariq',
+    authorSlug: 'qassam-tariq',
+    date: '2026-03-30',
+    readTime: '6 min read',
+    content: `
+      <h2>The Nitrogen Question</h2>
+      <p>You have probably been offered a nitrogen tire fill, often with green valve caps and a premium price. The marketing promises better pressure stability, longer tire life, and improved fuel economy. So is nitrogen worth it, especially in Sacramento where summer heat is brutal on tires? Here is an honest answer with no sales pressure.</p>
+
+      <h2>What Nitrogen Actually Does</h2>
+      <p>Regular air is already about 78 percent nitrogen. A nitrogen fill replaces most of the remaining oxygen and moisture so the tire contains nearly pure nitrogen. The two real, measurable benefits are:</p>
+      <ul>
+        <li><strong>More stable pressure with temperature:</strong> Nitrogen expands and contracts slightly less than oxygen as temperatures change, so pressure stays a little more consistent between a cold morning and a hot afternoon.</li>
+        <li><strong>Less moisture inside the tire:</strong> Dry nitrogen reduces internal moisture, which can slow corrosion of wheels and aging of the tire from the inside.</li>
+      </ul>
+
+      <h2>The Honest Truth</h2>
+      <p>For the average Sacramento driver, these benefits are real but modest. Nitrogen does not eliminate the need to check your pressure, it does not dramatically extend tire life, and the fuel-economy gains are small. The single most important thing for tire life and safety is simply keeping your tires at the correct pressure, and you can do that with regular air for free.</p>
+
+      <blockquote>Pro Tip: Whatever you fill with, check your pressure monthly and before long trips. A properly inflated tire on regular air will outlast and outperform a neglected tire on nitrogen every time.</blockquote>
+
+      <h2>Where Nitrogen Makes More Sense</h2>
+      <p>Nitrogen is more worthwhile for performance and track use, for vehicles stored long-term, and for anyone who simply wants the most stable pressure they can get through a Sacramento heat wave. If it is offered free or cheap with a new tire purchase, there is no reason not to take it. Paying a steep premium for it on a daily driver is harder to justify.</p>
+
+      <h2>Can You Mix Nitrogen and Air?</h2>
+      <p>Yes. If you run nitrogen but need air in a pinch, topping off with regular air is completely safe. You simply dilute the nitrogen slightly, and you can refill with nitrogen later if you want.</p>
+
+      <h2>Get Straight Answers at Tire Geeks</h2>
+      <p>We will tell you honestly whether nitrogen makes sense for your vehicle and never pressure you into add-ons you do not need. Visit <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '86',
+    slug: 'wheel-repair-refinishing-sacramento',
+    title: 'Wheel Repair and Refinishing in Sacramento: Curb Rash, Bends and Powder Coating',
+    excerpt: 'Scraped a curb or hit a Sacramento pothole? Damaged wheels can often be repaired or refinished for far less than replacement. Here is what is possible.',
+    category: 'SERVICE',
+    author: 'Victor',
+    authorSlug: 'victor',
+    date: '2026-04-06',
+    readTime: '7 min read',
+    content: `
+      <h2>Damaged Wheels Are Not Always Trash</h2>
+      <p>Curb rash, a bent rim from a Sacramento pothole, or a finish that has faded and corroded over the years can all make a wheel look ruined. But before you spend hundreds or thousands on replacements, know that many damaged wheels can be repaired or refinished for a fraction of the cost. Here is what is fixable and what is not.</p>
+
+      <h2>Curb Rash Repair</h2>
+      <p>Curb rash, the scraping and gouging along the outer edge of a wheel from contact with a curb, is one of the most common types of damage and one of the most repairable. A skilled technician can fill, sand, and refinish the damaged area so it looks new again. Cosmetic curb rash on most alloy wheels is routine work.</p>
+
+      <h2>Bent Wheel Repair</h2>
+      <p>Sacramento roads and freeway expansion joints are hard on wheels, and a solid pothole hit can bend a rim, causing vibration and slow air leaks. Many bent wheels, especially steel and many alloy wheels, can be straightened back to true. However, there are limits. A wheel that is cracked, severely bent, or bent in a structural area should be replaced for safety, not repaired. We inspect carefully and will tell you honestly when a wheel is not safe to fix.</p>
+
+      <blockquote>Pro Tip: Never repair a cracked wheel and put it back in service. A crack can fail suddenly at speed. If we find a crack, replacement is the only safe option, and we will say so even though a repair would make us more in the short term.</blockquote>
+
+      <h2>Refinishing and Powder Coating</h2>
+      <p>If your wheels are structurally fine but the finish is faded, peeling, or corroded, refinishing brings them back to life. Powder coating in particular is a durable, attractive option that lets you keep your original wheels while completely changing or restoring the look. Popular Sacramento choices include matte black, gloss black, bronze, and gunmetal, and you can match a finish to your build.</p>
+
+      <h2>Repair vs Replace</h2>
+      <p>The math usually favors repair for cosmetic damage and minor bends, especially on expensive or hard-to-find wheels. Replacement makes sense when a wheel is cracked, structurally compromised, or when a repair would cost nearly as much as a new wheel. We help you make the call based on safety first and cost second.</p>
+
+      <h2>Restore Your Wheels at Tire Geeks</h2>
+      <p>Bring your damaged or tired-looking wheels to <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will assess them and give you honest repair or replacement options.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '87',
+    slug: 'road-hazard-tire-warranty-explained',
+    title: 'Road Hazard and Tire Warranty Explained: What’s Actually Covered',
+    excerpt: 'Tire warranties are confusing and road hazard coverage is often misunderstood. Here is what each one actually covers and whether it is worth it in Sacramento.',
+    category: 'TIRES',
+    author: 'Moni Tariq',
+    authorSlug: 'moni-tariq',
+    date: '2026-04-13',
+    readTime: '7 min read',
+    content: `
+      <h2>Warranties Are Confusing on Purpose</h2>
+      <p>When you buy tires, you will hear about several kinds of coverage, and they are easy to mix up. Understanding the difference between a manufacturer warranty, a treadwear warranty, and road hazard coverage helps you know what you are actually protected against, and whether the extra coverage is worth it. Here is the plain-English breakdown.</p>
+
+      <h2>Manufacturer Warranty</h2>
+      <p>Every quality tire comes with a manufacturer warranty that covers defects in materials and workmanship. If a tire fails because something was wrong with how it was made, this covers it. What it does not cover is the everyday reality of driving: nails, potholes, curb impacts, and normal wear.</p>
+
+      <h2>Treadwear Warranty</h2>
+      <p>Many tires carry a treadwear or mileage warranty, promising the tire will last a certain number of miles. There is fine print: you usually have to prove regular rotations and proper maintenance, and the payout is typically prorated based on how much tread you used before the tire wore out early. It is a real benefit, but it rewards good maintenance habits.</p>
+
+      <h2>Road Hazard Coverage</h2>
+      <p>This is the one most people misunderstand. Road hazard coverage protects against the damage that normal warranties exclude: a nail or screw that cannot be safely repaired, a pothole that destroys a tire, or impact damage. Depending on the plan, it can cover a free repair or a prorated or full replacement of a tire ruined by road debris.</p>
+
+      <blockquote>Pro Tip: Sacramento and the surrounding freeways are tough on tires, with construction debris and potholes that appear after every wet winter. Road hazard coverage pays for itself more often here than in many places.</blockquote>
+
+      <h2>Is Road Hazard Worth It?</h2>
+      <p>For most Sacramento drivers, road hazard coverage is worth considering, especially on expensive tires, low-profile performance tires that are easily damaged, and any vehicle that racks up freeway miles. The cost is modest compared to replacing a single high-end tire ruined by a pothole. For inexpensive tires on a low-mileage car, it matters less.</p>
+
+      <h2>What Voids Coverage</h2>
+      <p>Coverage generally requires that the tire was properly maintained and not run while flat or badly underinflated, since that causes its own damage. Neglecting rotations or driving on a flat can void both treadwear and road hazard protection.</p>
+
+      <h2>Ask Tire Geeks What’s Right for You</h2>
+      <p>We will explain exactly what your tires come with and whether added coverage makes sense for your situation, with no pressure. Visit <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '88',
+    slug: 'staggered-wheel-setups-explained',
+    title: 'Staggered Wheel Setups Explained: Wider Rears, Fitment and When to Run Them',
+    excerpt: 'A staggered setup runs wider wheels in the rear for grip and looks. Here is how it works, the tradeoffs, and whether it is right for your Sacramento build.',
+    category: 'FITMENT',
+    author: 'Qassam Tariq',
+    authorSlug: 'qassam-tariq',
+    date: '2026-04-20',
+    readTime: '7 min read',
+    content: `
+      <h2>What Is a Staggered Setup?</h2>
+      <p>A staggered wheel and tire setup uses wider wheels and tires on the rear axle than on the front. You see it on performance and rear-wheel-drive cars, from Mustangs and Chargers to BMWs and Corvettes. The wider rear puts more rubber where the power goes down, and it gives the car an aggressive, planted stance. But staggered fitment comes with tradeoffs that every Sacramento owner should understand before committing.</p>
+
+      <h2>Why Run Staggered</h2>
+      <ul>
+        <li><strong>Traction:</strong> Wider rear tires put more power to the ground on rear-wheel-drive cars, reducing wheelspin under hard acceleration.</li>
+        <li><strong>Handling balance:</strong> A properly chosen stagger can improve grip balance on a powerful car.</li>
+        <li><strong>Looks:</strong> The wider rear stance is a major part of the appeal for many builds.</li>
+      </ul>
+
+      <h2>The Big Tradeoff: No Front-to-Rear Rotation</h2>
+      <p>Because the front and rear tires are different sizes, you cannot rotate them front-to-back. That means the rears, which already do more work on a rear-wheel-drive car, wear faster and cannot be moved to the front to even things out. Plan to replace rear tires more often, and budget accordingly.</p>
+
+      <blockquote>Pro Tip: On a staggered setup you can sometimes rotate side-to-side if the tires are not directional, but never front-to-rear. We will tell you exactly what rotation, if any, your specific setup allows.</blockquote>
+
+      <h2>Fitment Matters Even More</h2>
+      <p>Staggered setups require getting the offset, width, and tire size right on both axles so everything clears the suspension and fenders and the car handles correctly. Get it wrong and you risk rubbing, poor handling, or even a setup that is unsafe. This is exactly the kind of fitment work where professional guidance pays off.</p>
+
+      <h2>Can All-Wheel-Drive Cars Run Staggered?</h2>
+      <p>Some can and some cannot. Many AWD systems require all four tires to be the same overall diameter, so a staggered setup must keep diameters matched even if widths differ, and some systems should not run staggered at all. We will check your specific vehicle before you buy.</p>
+
+      <h2>Build It Right at Tire Geeks</h2>
+      <p>If you want a staggered setup done correctly, bring your car to <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will get the fitment right and explain the maintenance that comes with it.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '89',
+    slug: 'plus-sizing-wheels-explained',
+    title: 'Plus-Sizing Your Wheels: Bigger Rims Without Wrecking Ride Quality',
+    excerpt: 'Bigger wheels look great, but go too far and you ruin the ride and risk damage. Here is how plus-sizing works and how to do it right in Sacramento.',
+    category: 'FITMENT',
+    author: 'Erika',
+    authorSlug: 'erika',
+    date: '2026-04-27',
+    readTime: '7 min read',
+    content: `
+      <h2>The Appeal of Bigger Wheels</h2>
+      <p>Larger wheels fill out the wheel wells, sharpen a car’s look, and let you run lower-profile tires for a more planted feel. The practice of going to a bigger wheel is called plus-sizing, and done correctly it improves both looks and handling. Done wrong, it ruins your ride quality and exposes your wheels to pothole damage. Here is how to plus-size the right way.</p>
+
+      <h2>What Plus-Sizing Actually Means</h2>
+      <p>Plus-sizing means increasing wheel diameter while reducing the tire’s sidewall height, so the overall diameter of the wheel and tire stays close to factory. Going up one inch in wheel size is "plus one," two inches is "plus two," and so on. Keeping the overall diameter the same is critical, because it preserves your speedometer accuracy, your gearing, and the clearance in your wheel wells.</p>
+
+      <h2>The Ride Quality Tradeoff</h2>
+      <p>As the wheel gets bigger, the tire sidewall gets shorter. That shorter sidewall flexes less, which sharpens steering response but also transmits more road imperfections into the cabin. On Sacramento’s rougher streets, going too aggressive with a large wheel and a thin sidewall makes for a harsh, jittery ride. There is a balance point, and it is different for every driver and vehicle.</p>
+
+      <blockquote>Pro Tip: A lower-profile tire on a big wheel is far more vulnerable to pothole damage, because there is less sidewall to absorb the impact. If you have a daily route full of bad roads, do not go to the absolute largest wheel that fits.</blockquote>
+
+      <h2>How Far Should You Go?</h2>
+      <p>For most daily drivers, plus one or plus two strikes the best balance of looks and livability. Show cars and dedicated performance builds can go further, accepting the firmer ride in exchange for the look or the handling. We will help you find the size that matches how you actually use your car.</p>
+
+      <h2>Don’t Forget Load Rating and Fitment</h2>
+      <p>A bigger wheel must still carry a tire with the correct load rating, and the wheel and tire combination has to clear your brakes, suspension, and fenders at the right offset. These are the details that separate a clean plus-size from a problem build, and they are exactly what we check before you buy.</p>
+
+      <h2>Plus-Size the Right Way at Tire Geeks</h2>
+      <p>Visit us at <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will help you go bigger without wrecking your ride or your wheels.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+
+  // ---------- BUCKET C: SEASONAL & SACRAMENTO-LOCAL ----------
+  {
+    id: '90',
+    slug: 'sacramento-summer-heat-tires-blowout-prevention',
+    title: 'Sacramento Summer Heat and Your Tires: Blowout Prevention and When to Replace',
+    excerpt: 'Triple-digit Sacramento summers are brutal on tires. Here is how heat causes blowouts, the warning signs, and how to keep your tires safe through the hottest months.',
+    category: 'SEASONAL',
+    author: 'Moni Tariq',
+    authorSlug: 'moni-tariq',
+    date: '2026-05-04',
+    readTime: '7 min read',
+    content: `
+      <h2>Heat Is a Tire’s Worst Enemy</h2>
+      <p>Sacramento summers regularly push past 100 degrees, and the pavement gets far hotter than the air. That heat is one of the leading causes of tire blowouts, and the danger peaks exactly when families are taking summer road trips. Understanding how heat damages tires, and what to watch for, can prevent a dangerous failure on the freeway.</p>
+
+      <h2>How Heat Causes Blowouts</h2>
+      <p>Heat affects tires in two ways. First, hot air expands, raising the pressure inside the tire. Second, the rubber itself gets hotter and weaker as it flexes against scorching pavement at freeway speed. When a tire is already underinflated, worn, or old, that extra heat and stress can be the final straw that causes a sudden blowout. Underinflation is especially dangerous, because a low tire flexes more, builds more heat, and fails faster.</p>
+
+      <h2>The Warning Signs</h2>
+      <ul>
+        <li><strong>Low tread depth:</strong> Worn tires have less rubber to handle heat and are more likely to fail.</li>
+        <li><strong>Cracking or dry rot:</strong> Sacramento sun ages rubber. Cracks in the sidewall or tread are a serious warning.</li>
+        <li><strong>Bulges or blisters:</strong> A bulge means the internal structure is damaged. Replace immediately.</li>
+        <li><strong>Age:</strong> Tires older than six years are at higher risk regardless of tread, because the rubber degrades over time.</li>
+      </ul>
+
+      <blockquote>Pro Tip: Check your tire pressure when the tires are cold, ideally in the morning before driving. Pressure measured on a hot afternoon after freeway driving reads high and will fool you into thinking a low tire is fine.</blockquote>
+
+      <h2>How to Protect Your Tires in Summer</h2>
+      <p>The single most important thing is correct tire pressure. A properly inflated tire runs cooler and is far less likely to fail. Check your pressure at least monthly and before any road trip, inspect for cracks and bulges, do not overload your vehicle, and replace tires that are worn or aged. If you are heading out on a summer trip, a quick inspection beforehand is cheap insurance.</p>
+
+      <h2>When to Replace</h2>
+      <p>Replace tires that are below safe tread depth, show cracking or bulges, or are more than six years old. Heading into a Sacramento summer on marginal tires is a gamble that is not worth taking with your family in the car.</p>
+
+      <h2>Get a Free Summer Tire Check at Tire Geeks</h2>
+      <p>Before the heat peaks, bring your vehicle to <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will inspect your tires and make sure you are safe for summer.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '91',
+    slug: 'sacramento-wet-season-hydroplaning-rain-tires',
+    title: 'Wet-Season Driving in Sacramento: Hydroplaning, Tread Depth and Rain-Ready Tires',
+    excerpt: 'Sacramento’s rainy season brings slick freeways and hydroplaning risk. Here is how tread depth keeps you safe and which tires handle rain best.',
+    category: 'SEASONAL',
+    author: 'Victor',
+    authorSlug: 'victor',
+    date: '2026-05-11',
+    readTime: '7 min read',
+    content: `
+      <h2>Sacramento Rain Is More Dangerous Than It Looks</h2>
+      <p>After a long dry summer, the first rains of the Sacramento wet season lift months of oil and grime off the pavement, creating some of the slickest conditions of the year. Combine that with standing water on the freeways and you have real hydroplaning risk. Your tires are the only thing keeping you connected to the road, and tread depth is what makes the difference between control and a slide.</p>
+
+      <h2>How Hydroplaning Happens</h2>
+      <p>Hydroplaning occurs when a layer of water builds up between your tires and the road faster than the tread can channel it away. When that happens, the tire rides up on the water and loses contact with the pavement, and you lose steering and braking. The risk goes up with speed, with deeper water, and with worn tires that cannot move water out of the way.</p>
+
+      <h2>Tread Depth Is Everything in the Wet</h2>
+      <p>Tire tread exists primarily to evacuate water. As the tread wears down, the tire’s ability to disperse water drops sharply, and wet braking distances grow dangerously long well before the tire is legally bald. A tire with plenty of dry-road life left can still be unsafe in heavy rain.</p>
+
+      <blockquote>Pro Tip: The classic penny test checks for the legal minimum, but for wet safety you want more tread than that. By the time a tire reaches the legal limit, its wet performance has already fallen off significantly. Check tread before the rainy season, not after a scare.</blockquote>
+
+      <h2>How to Reduce Hydroplaning Risk</h2>
+      <ul>
+        <li>Slow down in the rain, especially in standing water and during the first rains of the season</li>
+        <li>Keep your tires properly inflated, since underinflated tires hydroplane more easily</li>
+        <li>Replace tires before tread gets low, not after</li>
+        <li>Avoid driving through deep puddles at speed</li>
+      </ul>
+
+      <h2>Best Tires for Sacramento Rain</h2>
+      <p>A quality all-season or all-weather tire with strong wet-braking performance and deep, water-channeling tread is the right choice for Sacramento. Premium tires consistently stop shorter in the wet than budget options, and that shorter distance is exactly what prevents a collision. If you also take Sierra trips, an all-weather tire with the 3PMSF rating covers rain and snow in one tire.</p>
+
+      <h2>Get Rain-Ready at Tire Geeks</h2>
+      <p>Before the wet season arrives, have your tread checked at <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will make sure your tires can handle Sacramento rain.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '92',
+    slug: 'road-trip-tire-prep-sacramento',
+    title: 'Road Trip Tire Prep: Bay Area, Coast and Sierra Drives from Sacramento',
+    excerpt: 'Heading out of Sacramento for a road trip? A few tire checks beforehand can prevent a roadside disaster. Here is the pre-trip checklist for every NorCal drive.',
+    category: 'SEASONAL',
+    author: 'Erika',
+    authorSlug: 'erika',
+    date: '2026-05-18',
+    readTime: '6 min read',
+    content: `
+      <h2>Sacramento Is a Road Trip Hub</h2>
+      <p>From Sacramento you can reach the Bay Area, the coast, Tahoe, and the Sierra in a few hours, which is why weekend road trips are a way of life here. But each of those drives stresses your tires differently, from hot valley freeways to steep mountain grades to wet coastal roads. A few minutes of tire prep before you leave can save you from a breakdown far from home.</p>
+
+      <h2>The Pre-Trip Tire Checklist</h2>
+      <ul>
+        <li><strong>Check pressure cold:</strong> Set all four tires, and the spare, to the recommended pressure before you drive. Underinflation is the top cause of trip-ruining tire failure.</li>
+        <li><strong>Inspect tread depth:</strong> Make sure you have enough tread for the conditions you will face, especially if rain or snow is possible.</li>
+        <li><strong>Look for damage:</strong> Check for cracks, bulges, embedded nails, and uneven wear. Any of these is a reason to come in before you go.</li>
+        <li><strong>Confirm your spare:</strong> Many drivers discover their spare is flat or missing only when they need it. Check it now.</li>
+      </ul>
+
+      <h2>Match Your Prep to the Destination</h2>
+      <h3>Bay Area and Valley Freeways</h3>
+      <p>Long stretches at freeway speed in the heat demand correct pressure and tires in good condition. This is classic blowout territory if your tires are marginal.</p>
+
+      <h3>The Coast</h3>
+      <p>Winding, often wet coastal roads reward good tread and strong wet grip. Worn tires turn fun curves into a hazard.</p>
+
+      <h3>Tahoe and the Sierra</h3>
+      <p>Mountain trips add grade, altitude, and possible snow. Carry chains, make sure your tires are rated for the conditions, and check current Caltrans requirements before you go.</p>
+
+      <blockquote>Pro Tip: Tire failures on a trip almost always announce themselves beforehand, with low pressure, low tread, or visible damage. A five-minute check before you leave catches nearly all of them.</blockquote>
+
+      <h2>Towing or Loading Heavy?</h2>
+      <p>If you are towing a trailer or packing the vehicle full, your tires are working harder and pressures may need adjusting for the load. We will set you up correctly before you head out.</p>
+
+      <h2>Get a Pre-Trip Check at Tire Geeks</h2>
+      <p>Before your next adventure, swing by <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will make sure your tires are ready for the road.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '93',
+    slug: 'tire-age-dry-rot-california',
+    title: 'Tire Age and Dry Rot in California: How Sacramento Sun Damages Tires',
+    excerpt: 'Tires can be dangerous even with plenty of tread if they are too old. Here is how to read your tire’s age and spot the dry rot that Sacramento sun causes.',
+    category: 'TIRES',
+    author: 'Qassam Tariq',
+    authorSlug: 'qassam-tariq',
+    date: '2026-05-25',
+    readTime: '6 min read',
+    content: `
+      <h2>Tread Is Not the Whole Story</h2>
+      <p>Most drivers judge a tire by its tread, and tread matters. But a tire can have plenty of tread left and still be unsafe if it is too old. Rubber degrades with time and exposure, and Sacramento’s intense sun and heat accelerate that aging. The result is dry rot, and it can cause a tire to fail even though it looks barely used. Here is what every California driver should know.</p>
+
+      <h2>What Is Dry Rot?</h2>
+      <p>Dry rot is the breakdown of the rubber compounds in a tire as it ages and is exposed to heat, sunlight, and ozone. The oils that keep rubber flexible dry out, and the tire becomes brittle. You can see it as fine cracks in the sidewall and between the tread blocks. Once dry rot sets in, the tire’s structural integrity is compromised, and it can crack, leak, or fail.</p>
+
+      <h2>Why California Is Especially Hard on Tires</h2>
+      <p>Sacramento’s long, hot, sunny summers are tough on rubber. Cars parked outside bake in UV and heat day after day, which speeds up the aging process. A tire that might last a decade in a mild, shaded climate can show dry rot much sooner here, especially on a vehicle that is parked outside or driven infrequently.</p>
+
+      <blockquote>Pro Tip: Low-mileage vehicles are often the worst offenders. A weekend car or a second vehicle can have tires that look new in tread but are dangerously old and dry-rotted. Age matters as much as miles.</blockquote>
+
+      <h2>How to Read Your Tire’s Age</h2>
+      <p>Every tire has a DOT code on the sidewall ending in a four-digit number. The first two digits are the week and the last two are the year of manufacture, so a code ending in 3122 means the 31st week of 2022. Most tire makers recommend replacing tires around six years from that date and consider ten years an absolute maximum, regardless of tread.</p>
+
+      <h2>What to Do</h2>
+      <ul>
+        <li>Check the age of your tires, especially on older or low-mileage vehicles</li>
+        <li>Inspect for fine cracking in the sidewall and tread grooves</li>
+        <li>Park in shade or a garage when possible to slow aging</li>
+        <li>Replace tires that are aged or showing dry rot, even with tread remaining</li>
+      </ul>
+
+      <h2>Get Your Tires Checked at Tire Geeks</h2>
+      <p>Not sure how old your tires are or whether that cracking is a problem? Bring your vehicle to <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will read the age, inspect for dry rot, and tell you honestly if you are safe.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+
+  // ---------- BUCKET D: HYPERLOCAL NEIGHBORHOOD PAGES ----------
+  {
+    id: '94',
+    slug: 'tire-shop-near-elk-grove',
+    title: 'Tire Shop Near Elk Grove: Why Drivers Make the Short Trip to Tire Geeks',
+    excerpt: 'Elk Grove drivers have a great tire and wheel shop just up the road. Here is why locals choose Tire Geeks for tires, wheels, lifts, and service.',
+    category: 'LOCAL',
+    author: 'Moni Tariq',
+    authorSlug: 'moni-tariq',
+    date: '2026-01-08',
+    readTime: '6 min read',
+    content: `
+      <h2>Quality Tires and Wheels Just Up the Road from Elk Grove</h2>
+      <p>Elk Grove has grown into one of the largest cities in the Sacramento region, and its drivers expect quality service for their vehicles. While there are chain stores nearby, more and more Elk Grove drivers are making the short trip to Tire Geeks for tires, custom wheels, lift kits, and honest service. Here is why the drive is worth it.</p>
+
+      <h2>A Real Tire and Wheel Specialist</h2>
+      <p>Tire Geeks is not a general repair shop that happens to sell tires. We specialize in tires, wheels, and the suspension work that goes with them, which means deeper inventory, real fitment expertise, and technicians who do this work all day every day. For Elk Grove truck and SUV owners in particular, that expertise matters when it comes to getting lift kits, leveling kits, and oversized tires fitted correctly.</p>
+
+      <h2>What We Do</h2>
+      <ul>
+        <li>New tires for every vehicle, from economy to premium brands</li>
+        <li>Custom wheels and wheel-and-tire packages</li>
+        <li>Lift kits, leveling kits, and lowering setups</li>
+        <li>Mounting, balancing, rotation, and alignment</li>
+        <li>Brakes, TPMS, and minor auto service</li>
+        <li>Financing options for drivers who want to spread out the cost</li>
+      </ul>
+
+      <h2>Honest Service Without the Markup</h2>
+      <p>Elk Grove drivers tell us they come to Tire Geeks because we give straight answers and fair prices. We will tell you when a tire can be repaired instead of replaced, when a wheel can be fixed instead of bought new, and when you genuinely need a service rather than upselling you on things you do not. That honesty is why our customers come back and send their friends.</p>
+
+      <blockquote>Pro Tip: If you are weighing tires or a wheel build, call ahead and tell us your vehicle and what you want. We will check fitment and stock before you make the drive, so your visit is quick and productive.</blockquote>
+
+      <h2>Financing Available</h2>
+      <p>A new set of tires or a wheel-and-tire package is a real expense. We offer financing so Elk Grove drivers can get the safe tires or the setup they want now and pay over time, including options that do not require perfect credit.</p>
+
+      <h2>Visit Tire Geeks from Elk Grove</h2>
+      <p>Our South Sacramento location at <strong>3020 Florin Rd</strong> is a quick trip from Elk Grove, and we also have the <strong>2245 Arden Way</strong> location. Call <strong>(916) 800-8786</strong> and we will take care of you.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '95',
+    slug: 'tire-shop-near-citrus-heights-roseville',
+    title: 'Tire Shop Near Citrus Heights and Roseville: Tires, Wheels and Lifts',
+    excerpt: 'Citrus Heights and Roseville drivers can count on Tire Geeks for tires, custom wheels, and suspension work. Here is what we offer and why locals choose us.',
+    category: 'LOCAL',
+    author: 'Victor',
+    authorSlug: 'victor',
+    date: '2026-01-15',
+    readTime: '6 min read',
+    content: `
+      <h2>Serving Citrus Heights and Roseville Drivers</h2>
+      <p>Drivers in Citrus Heights and Roseville want a tire and wheel shop that knows what it is doing and treats them fairly. Tire Geeks has built a reputation across the Sacramento region for exactly that, and our Arden Way location is an easy trip for north-area drivers. Whether you need a simple set of tires or a full lifted-truck build, we have you covered.</p>
+
+      <h2>More Than Just Tires</h2>
+      <p>Citrus Heights and Roseville have a lot of trucks and SUVs, and we are a go-to shop for owners who want to do more than replace worn rubber. We handle custom wheels, lift and leveling kits, oversized tire fitment, and the alignment work that has to follow. We also do everyday service like rotations, balancing, brakes, and TPMS.</p>
+
+      <h2>Why Locals Choose Tire Geeks</h2>
+      <ul>
+        <li><strong>Specialists, not generalists:</strong> Tires and wheels are what we do, all day.</li>
+        <li><strong>Real fitment expertise:</strong> We test-fit and know what works on your specific vehicle.</li>
+        <li><strong>Honest recommendations:</strong> We repair when we can and replace only when we should.</li>
+        <li><strong>Fair pricing and financing:</strong> Quality work at a fair price, with options to pay over time.</li>
+      </ul>
+
+      <blockquote>Pro Tip: Planning a lift or a wheel-and-tire package? Send us your vehicle details ahead of time and we will confirm fitment and pricing so your visit is smooth.</blockquote>
+
+      <h2>Lifts and Custom Builds</h2>
+      <p>North-area truck owners come to us for clean, correctly fitted lifts and leveling kits. We make sure your new tires clear without rubbing, your alignment is dialed in afterward, and your truck drives straight and looks right. We will also give you an honest take on gearing and tire size so your build performs as well as it looks.</p>
+
+      <h2>Financing for Your Build</h2>
+      <p>Bigger projects deserve flexible payment options. We offer financing, including no-credit-check options, so Citrus Heights and Roseville drivers can get the setup they want without draining their savings.</p>
+
+      <h2>Visit Tire Geeks</h2>
+      <p>Our <strong>2245 Arden Way</strong> location is convenient from Citrus Heights and Roseville, and we also serve you at <strong>3020 Florin Rd</strong>. Call <strong>(916) 800-8786</strong> to get started.</p>
+    `,
+    image: '/images/gallery/lifted-truck.jpg',
+    featured: false,
+  },
+  {
+    id: '96',
+    slug: 'tire-shop-near-folsom-el-dorado-hills',
+    title: 'Tire Shop Near Folsom and El Dorado Hills: Your Sacramento Tire Experts',
+    excerpt: 'Folsom and El Dorado Hills drivers trust Tire Geeks for tires, wheels, and service done right. Here is what we offer and why the trip is worth it.',
+    category: 'LOCAL',
+    author: 'Erika',
+    authorSlug: 'erika',
+    date: '2026-01-22',
+    readTime: '6 min read',
+    content: `
+      <h2>Tire and Wheel Experts for Folsom and El Dorado Hills</h2>
+      <p>Folsom and El Dorado Hills drivers tend to take care of their vehicles, and they expect the shops they use to do the same. Tire Geeks has earned the trust of drivers across the Sacramento region with specialist expertise, honest service, and fair prices. From premium tires for a daily commuter to a complete wheel-and-tire package for a weekend toy, we deliver.</p>
+
+      <h2>What We Offer</h2>
+      <ul>
+        <li>New tires across all budgets and premium brands</li>
+        <li>Custom wheels and complete packages, mounted and balanced</li>
+        <li>Lift kits, leveling kits, and lowering setups</li>
+        <li>Alignment, rotation, balancing, and TPMS service</li>
+        <li>Brakes and minor auto repair</li>
+        <li>Flexible financing options</li>
+      </ul>
+
+      <h2>Premium Service for Premium Vehicles</h2>
+      <p>El Dorado Hills and Folsom see a lot of nicer vehicles, and those cars demand careful handling. We mount and balance with care, use road force balancing when a smooth ride is essential, and treat low-profile and expensive wheels the way they deserve. If you drive something you are proud of, we will treat it accordingly.</p>
+
+      <blockquote>Pro Tip: Larger factory wheels on premium SUVs and sedans are easily curb-rashed and pothole-bent. If yours are damaged, ask us about repair and refinishing before you assume you need to buy new.</blockquote>
+
+      <h2>Lake and Mountain Ready</h2>
+      <p>With Folsom Lake nearby and the Sierra just up the hill, many local drivers tow boats and take mountain trips. We will set you up with the right tires and pressures for towing and the right rubber for snow and Tahoe runs, including 3PMSF-rated all-weather options that handle it all.</p>
+
+      <h2>Honest, Fair, and Local</h2>
+      <p>We give straight answers and fair prices, and we will tell you when something can be repaired rather than replaced. That is why drivers from across the region keep coming back.</p>
+
+      <h2>Visit Tire Geeks</h2>
+      <p>Find us at <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>. We will take great care of your vehicle.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '97',
+    slug: 'tire-shop-near-davis-west-sacramento',
+    title: 'Tire Shop Near Davis and West Sacramento: Tires and Wheels Done Right',
+    excerpt: 'Davis and West Sacramento drivers have a trusted tire and wheel shop nearby. Here is why Tire Geeks is worth the short trip across the causeway.',
+    category: 'LOCAL',
+    author: 'Qassam Tariq',
+    authorSlug: 'qassam-tariq',
+    date: '2026-01-29',
+    readTime: '6 min read',
+    content: `
+      <h2>Tires and Wheels for Davis and West Sacramento</h2>
+      <p>Davis and West Sacramento drivers range from students and commuters to families and truck owners, and all of them need tires they can trust. Tire Geeks is a short trip away and serves the whole region with specialist expertise, honest advice, and fair prices. Whatever you drive, we will get you set up right.</p>
+
+      <h2>Practical Tires for Practical Drivers</h2>
+      <p>A lot of Davis driving is commuting, errands, and the trip into Sacramento, which means most drivers are best served by a long-lasting, fuel-efficient, quiet all-season tire with strong wet grip for the rainy season. We help you compare cost per mile, not just sticker price, so you buy the tire that is actually cheapest over its life.</p>
+
+      <h2>Full Range of Services</h2>
+      <ul>
+        <li>New tires for cars, trucks, and SUVs</li>
+        <li>Custom wheels and packages</li>
+        <li>Lift, leveling, and lowering work</li>
+        <li>Alignment, balancing, rotation, and TPMS</li>
+        <li>Brakes and minor auto repair</li>
+        <li>Financing, including no-credit-check options</li>
+      </ul>
+
+      <blockquote>Pro Tip: Students and budget-minded drivers should not just buy the cheapest tire on the wall. A mid-tier tire with a real treadwear warranty and good wet grip is safer and usually cheaper per mile than the bargain option.</blockquote>
+
+      <h2>Honest Service That Earns Trust</h2>
+      <p>We have built our reputation on telling drivers the truth: repairing a tire or wheel when we can, recommending service only when it is genuinely needed, and giving fair prices. Davis and West Sacramento drivers appreciate a shop that does not try to upsell them on things they do not need.</p>
+
+      <h2>Financing Makes It Easier</h2>
+      <p>Tires and wheels are a real expense, especially for students and families on a budget. Our financing options, including no-credit-check plans, let you get safe tires now and pay over time.</p>
+
+      <h2>Visit Tire Geeks</h2>
+      <p>We are a quick trip from Davis and West Sacramento at <strong>3020 Florin Rd</strong> and <strong>2245 Arden Way</strong>. Call <strong>(916) 800-8786</strong> and we will take care of you.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+
+  // ---------- BUCKET E: BRAND GUIDES ----------
+  {
+    id: '98',
+    slug: 'toyo-tires-guide-open-country-proxes',
+    title: 'Toyo Tires Guide: Open Country, Proxes and Which Is Right for You',
+    excerpt: 'Toyo makes some of the most popular tires in Sacramento, from rugged Open Country to performance Proxes. Here is how to choose the right Toyo for your vehicle.',
+    category: 'TIRES',
+    author: 'Victor',
+    authorSlug: 'victor',
+    date: '2026-02-05',
+    readTime: '7 min read',
+    content: `
+      <h2>Why Toyo Is So Popular in Sacramento</h2>
+      <p>Toyo Tires has a loyal following among Sacramento drivers, especially truck and performance car owners. The brand has a reputation for durability, strong real-world performance, and good value, and they are one of the lines we sell and install most often at Tire Geeks. But Toyo makes a wide range of tires, and choosing the right one starts with understanding their main families.</p>
+
+      <h2>Open Country: Trucks, SUVs and Off-Road</h2>
+      <p>The Open Country line is Toyo’s truck and SUV range, and it is enormously popular here. It spans several types:</p>
+      <ul>
+        <li><strong>Open Country A/T:</strong> The all-terrain workhorse. A great balance of on-road manners, off-road grip, and longevity, and many versions carry the 3PMSF snow rating for Tahoe trips.</li>
+        <li><strong>Open Country R/T:</strong> A rugged-terrain tire that splits the difference between all-terrain and mud-terrain, with a more aggressive look and bite while staying livable on the road.</li>
+        <li><strong>Open Country M/T:</strong> A true mud-terrain for serious off-road use, with maximum bite and an aggressive look, at the cost of road noise and highway wear.</li>
+        <li><strong>Open Country H/T:</strong> A highway tire for trucks and SUVs that prioritizes a quiet, comfortable ride and long life for owners who stay on pavement.</li>
+      </ul>
+
+      <h2>Proxes: Performance and Sport</h2>
+      <p>The Proxes line is Toyo’s performance range, popular with car enthusiasts. It includes max-performance summer tires for the strongest dry and wet grip, ultra-high-performance all-seasons for year-round sport driving, and track-focused options. If you have a sports car or a tuned street car, a Proxes tire is built for the way you drive.</p>
+
+      <blockquote>Pro Tip: The Open Country A/T is the right call for the vast majority of Sacramento truck owners. People often think they want the aggressive mud-terrain look, but the A/T drives better, lasts longer, and is quieter for daily use, while still looking great.</blockquote>
+
+      <h2>Matching the Toyo to Your Vehicle</h2>
+      <p>The right Toyo depends on how you use your vehicle. A daily-driven truck wants an A/T or H/T. A dedicated off-road rig might want an R/T or M/T. A performance car wants a Proxes. We will help you pick the exact model and size that fits your vehicle and your driving.</p>
+
+      <h2>Get Toyo Tires at Tire Geeks</h2>
+      <p>We carry and install Toyo and can order any size you need. Visit <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>, and we will get you on the right set.</p>
+    `,
+    image: '/images/gallery/lifted-truck.jpg',
+    featured: false,
+  },
+  {
+    id: '99',
+    slug: 'fuel-off-road-wheels-guide',
+    title: 'Fuel Off-Road Wheels Guide: Styles, Finishes and Truck Fitment',
+    excerpt: 'Fuel Off-Road is one of the most popular truck wheel brands in Sacramento. Here is a guide to their styles, finishes, and how to get the fitment right.',
+    category: 'WHEELS',
+    author: 'Moni Tariq',
+    authorSlug: 'moni-tariq',
+    date: '2026-02-12',
+    readTime: '7 min read',
+    content: `
+      <h2>The Truck Wheel Everyone Knows</h2>
+      <p>Walk through any Sacramento parking lot and you will spot Fuel Off-Road wheels on trucks everywhere. The brand has become one of the most recognizable names in aftermarket truck wheels, known for bold, aggressive designs and a huge range of finishes. If you are building a truck and want a look that stands out, Fuel is likely on your list. Here is how to choose.</p>
+
+      <h2>Why Fuel Is So Popular</h2>
+      <p>Fuel built its reputation on aggressive styling that matches the lifted-truck look so many owners want. The designs are bold, the finishes are striking, and there is a style for nearly every truck and taste. Combined with wide availability and fitments for popular trucks, that is why Fuel dominates the truck scene.</p>
+
+      <h2>Popular Styles and Finishes</h2>
+      <ul>
+        <li><strong>Matte and gloss black:</strong> The classic aggressive truck look, and the most popular choice in Sacramento.</li>
+        <li><strong>Machined and milled accents:</strong> Black wheels with machined faces or milled spokes add contrast and detail.</li>
+        <li><strong>Bronze and gunmetal:</strong> A more distinctive look that pairs well with many truck colors.</li>
+        <li><strong>Chrome and polished:</strong> A brighter, classic finish for owners who want shine.</li>
+      </ul>
+
+      <h2>Fitment Is Everything</h2>
+      <p>Aggressive wheels only look right and work right when the fitment is correct. With a brand like Fuel, that means choosing the right diameter, width, offset, and backspacing so the wheels fill the wells, clear your brakes and suspension, and do not rub on the fenders at full turn or compression. Many Fuel setups pair with a leveling kit or lift to run larger tires, and getting all of it to work together is exactly what we do.</p>
+
+      <blockquote>Pro Tip: A very aggressive offset that pokes the wheels out looks great but can increase stress on suspension components and may push the tire past the fender, which has legal implications in California. We will help you get the aggressive look while keeping it safe and legal.</blockquote>
+
+      <h2>Wheel and Tire Packages</h2>
+      <p>Most Fuel buyers want a complete package: the wheels, the right tires, mounted, balanced, and installed, with any leveling or lift work done at the same time. We build these packages every week and send trucks out the door looking and driving right.</p>
+
+      <h2>Build Your Truck at Tire Geeks</h2>
+      <p>We carry and order Fuel Off-Road wheels and handle the complete build. Visit <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>, and let us get your truck set up.</p>
+    `,
+    image: '/images/gallery/lifted-truck.jpg',
+    featured: false,
+  },
+  {
+    id: '100',
+    slug: 'black-rhino-wheels-guide',
+    title: 'Black Rhino Wheels Guide: Overland and Off-Road Wheel Styles Explained',
+    excerpt: 'Black Rhino wheels blend overland style with off-road toughness. Here is a guide to the brand’s look, fitment, and which trucks and SUVs they suit best.',
+    category: 'WHEELS',
+    author: 'Qassam Tariq',
+    authorSlug: 'qassam-tariq',
+    date: '2026-02-19',
+    readTime: '6 min read',
+    content: `
+      <h2>The Overland Look Done Right</h2>
+      <p>Black Rhino has carved out a strong following among Sacramento truck and SUV owners who want an overland and adventure-ready aesthetic rather than the flashiest possible look. The brand focuses on clean, functional designs that suit everything from a daily-driven 4Runner to a built overland rig. If your style leans rugged and understated rather than chrome and flash, Black Rhino is worth a look.</p>
+
+      <h2>What Sets Black Rhino Apart</h2>
+      <p>Black Rhino designs lean into the overland and off-road world, with finishes and spoke patterns that pair naturally with all-terrain tires, roof racks, and adventure builds. Many of their wheels are engineered with off-road use in mind, including load ratings appropriate for loaded-down trucks and SUVs, which matters when you are carrying gear into the backcountry.</p>
+
+      <h2>Popular Finishes</h2>
+      <ul>
+        <li><strong>Matte black:</strong> The default overland look, clean and tough.</li>
+        <li><strong>Gunmetal and textured finishes:</strong> Subtle, modern, and great on neutral-colored vehicles.</li>
+        <li><strong>Bronze:</strong> A favorite in the overland community for adding warmth and character.</li>
+        <li><strong>Machined and two-tone:</strong> Adds detail without going flashy.</li>
+      </ul>
+
+      <h2>Great for These Vehicles</h2>
+      <p>Black Rhino fits a wide range, but they are especially popular on midsize and full-size trucks and SUVs built for adventure: Tacomas, 4Runners, Broncos, Tundras, and similar rigs. Paired with the right all-terrain tire, they complete the overland look while keeping the function.</p>
+
+      <blockquote>Pro Tip: For an overland build, prioritize the correct load rating and an offset that allows you to air down and run the tire size you want. Looks matter, but on a rig you actually take off pavement, function has to come first.</blockquote>
+
+      <h2>Getting the Fitment Right</h2>
+      <p>As with any wheel, the diameter, width, offset, and backspacing have to match your vehicle and your tire plans. We make sure your Black Rhino wheels clear your suspension and brakes, fit the tires you want, and work with any lift or leveling kit on the truck.</p>
+
+      <h2>Build Your Rig at Tire Geeks</h2>
+      <p>We carry and order Black Rhino and build complete wheel-and-tire packages. Visit <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>.</p>
+    `,
+    image: '/images/gallery/lifted-truck.jpg',
+    featured: false,
+  },
+  {
+    id: '101',
+    slug: 'michelin-vs-cheaper-tires-worth-it',
+    title: 'Michelin vs Cheaper Tires: Is the Premium Worth It in Sacramento?',
+    excerpt: 'Michelin costs more than budget tires, but is it worth it? Here is an honest look at what you get for the premium and when a cheaper tire makes sense.',
+    category: 'TIRES',
+    author: 'Erika',
+    authorSlug: 'erika',
+    date: '2026-02-26',
+    readTime: '7 min read',
+    content: `
+      <h2>The Premium Tire Question</h2>
+      <p>Michelin sits at the top of most drivers’ minds when they think of premium tires, and they carry a price to match. Sacramento drivers ask us all the time whether the premium is worth it, or whether a cheaper tire will do the same job. Here is an honest answer, because the truth is that it depends on your vehicle, your driving, and your budget.</p>
+
+      <h2>What the Premium Actually Buys</h2>
+      <p>Premium tires like Michelin generally deliver in a few measurable ways:</p>
+      <ul>
+        <li><strong>Shorter wet braking:</strong> Premium tires consistently stop shorter in the rain, and that distance is a real safety margin during Sacramento’s wet season.</li>
+        <li><strong>Longer tread life:</strong> Many premium tires last significantly longer, which improves the cost per mile.</li>
+        <li><strong>Quieter, smoother ride:</strong> Better materials and engineering usually mean a more refined ride.</li>
+        <li><strong>Consistent performance as they wear:</strong> Premium tires often hold their grip better through their life rather than falling off quickly.</li>
+      </ul>
+
+      <h2>The Cost-Per-Mile Math</h2>
+      <p>The sticker price is misleading. A premium tire that costs more but lasts 20,000 miles longer than a budget tire can actually be cheaper per mile, while delivering better safety the whole time. When comparing tires, divide the price by the expected mileage to see the true cost. Often the premium tire wins that math, but not always.</p>
+
+      <blockquote>Pro Tip: The wet-braking difference between a premium and a budget tire can be several car lengths in an emergency stop. On a family vehicle, that margin is worth paying for. On a low-mileage second car, it matters less.</blockquote>
+
+      <h2>When a Cheaper Tire Makes Sense</h2>
+      <p>Budget and mid-tier tires are not bad, and they are the smart choice in some situations: a low-mileage vehicle, a car you plan to sell soon, a tight budget where a safe mid-tier tire beats stretching for a premium you cannot afford, or a vehicle where the premium tire’s strengths simply are not needed. The key is choosing a reputable mid-tier tire with a real treadwear warranty and good wet grip, not the absolute cheapest option on the wall.</p>
+
+      <h2>Our Honest Recommendation</h2>
+      <p>For family vehicles, daily commuters that rack up miles, and anyone who values safety and ride quality, the premium is usually worth it on a cost-per-mile and safety basis. For budget-limited situations and low-mileage cars, a quality mid-tier tire is a perfectly smart choice. We will never push you toward the most expensive tire just because it is the most expensive.</p>
+
+      <h2>Get Honest Advice at Tire Geeks</h2>
+      <p>Tell us your vehicle, your driving, and your budget, and we will recommend the tire that actually makes sense for you. Visit <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+
+  // ---------- BUCKET F: CONVERSION / FINANCING ----------
+  {
+    id: '102',
+    slug: 'bad-credit-finance-tires-wheels-sacramento',
+    title: 'Bad Credit? How to Finance Tires and Wheels in Sacramento with Acima',
+    excerpt: 'Bad credit does not have to keep you off the road. Here is how no-credit-check financing through Acima works at Tire Geeks for tires and wheels.',
+    category: 'FINANCING',
+    author: 'Moni Tariq',
+    authorSlug: 'moni-tariq',
+    date: '2026-03-05',
+    readTime: '6 min read',
+    content: `
+      <h2>Bad Credit Should Not Keep You Off the Road</h2>
+      <p>Tires are not optional. When yours are worn out, you need to replace them for your safety and everyone else’s, and that is true whether or not your credit is perfect. The good news for Sacramento drivers is that bad credit does not have to stop you. At Tire Geeks, we offer no-credit-check financing through Acima that helps you get safe tires or the wheel setup you want, even if traditional financing has turned you down.</p>
+
+      <h2>How No-Credit-Check Financing Works</h2>
+      <p>Acima is a lease-to-own financing option that does not require good credit to qualify. Instead of a hard credit check that can hurt your score and screen out anyone with a rough history, Acima uses other factors to approve you. You get the tires or wheels you need now and make payments over time, with a path to ownership. It is designed for exactly the drivers that banks and credit cards leave behind.</p>
+
+      <h2>What You Can Finance</h2>
+      <ul>
+        <li>A full set of new tires</li>
+        <li>Custom wheels and complete wheel-and-tire packages</li>
+        <li>Lift kits, leveling kits, and related work</li>
+        <li>Other qualifying products and services</li>
+      </ul>
+
+      <blockquote>Pro Tip: Do not keep driving on dangerously worn tires because you are worried about cost or credit. Worn tires are a real safety risk, especially in Sacramento’s wet season, and a financing option that gets you safe rubber now is almost always the right call.</blockquote>
+
+      <h2>Why Drivers Choose This Option</h2>
+      <p>No-credit-check financing through Acima appeals to Sacramento drivers because it is fast, it does not require perfect credit, the application is simple, and it gets you back on safe tires right away. For families on a tight budget or anyone rebuilding their credit, it turns an expense you cannot avoid into a manageable payment.</p>
+
+      <h2>Understand the Terms</h2>
+      <p>Lease-to-own financing is convenient, but it is important to understand the terms, including the total cost and any early-purchase options that can save you money. We will walk you through it honestly so there are no surprises, and we will help you choose the path that costs you the least over time.</p>
+
+      <h2>Apply at Tire Geeks</h2>
+      <p>Getting started is quick and easy at either location. Visit <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>, and we will help you get safely back on the road regardless of your credit.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+  {
+    id: '103',
+    slug: 'buy-now-pay-later-tires-sacramento',
+    title: 'Buy Now, Pay Later for Tires: How Sacramento Drivers Get Rolling Today',
+    excerpt: 'Need tires but want to spread out the cost? Here is how buy now, pay later financing works at Tire Geeks and how to choose the right option.',
+    category: 'FINANCING',
+    author: 'Qassam Tariq',
+    authorSlug: 'qassam-tariq',
+    date: '2026-03-12',
+    readTime: '6 min read',
+    content: `
+      <h2>Get Your Tires Today, Pay Over Time</h2>
+      <p>Tires and wheels are a real expense, and they always seem to come due at the worst time. The good news is that Sacramento drivers do not have to choose between safe tires and their budget. Buy now, pay later financing at Tire Geeks lets you get the tires or the setup you need today and spread the cost into manageable payments. Here is how it works and how to pick the right option.</p>
+
+      <h2>What Buy Now, Pay Later Means</h2>
+      <p>Buy now, pay later simply means you take home your tires, wheels, or service today and pay for them over time instead of all at once. Depending on the option you choose, that can mean fixed installments or a lease-to-own path. The point is to make a necessary purchase fit your budget rather than forcing you to delay safe tires until you have saved up.</p>
+
+      <h2>Why It Matters for Safety</h2>
+      <p>Worn tires are dangerous, and the temptation to stretch them a few more months to avoid the cost is real. Financing removes that pressure. Instead of driving on unsafe rubber through a wet Sacramento winter, you can get new tires now and pay an amount that fits your monthly budget.</p>
+
+      <blockquote>Pro Tip: When comparing financing options, look at the total cost and any early-payoff or early-purchase options, not just the monthly payment. Paying off sooner usually saves money, and we will show you how.</blockquote>
+
+      <h2>Options for Every Situation</h2>
+      <ul>
+        <li><strong>No-credit-check, lease-to-own:</strong> For drivers with poor or limited credit who still need to get rolling.</li>
+        <li><strong>Standard installment financing:</strong> For drivers with stronger credit who want simple, fixed payments.</li>
+        <li><strong>Flexible terms:</strong> We help you match the plan to your budget and your timeline.</li>
+      </ul>
+
+      <h2>What You Can Finance</h2>
+      <p>You can finance new tires, custom wheels, complete packages, lift and leveling kits, and other qualifying services. Whether you need a basic set of safe tires or a full build, there is a payment path that works.</p>
+
+      <h2>Easy to Apply</h2>
+      <p>The application is quick, and we will help you through it. We will also explain the terms honestly so you understand exactly what you are agreeing to and how to keep the total cost as low as possible.</p>
+
+      <h2>Get Rolling Today at Tire Geeks</h2>
+      <p>Do not put off the tires you need. Visit <strong>3020 Florin Rd</strong> or <strong>2245 Arden Way</strong>, or call <strong>(916) 800-8786</strong>, and we will help you get safely back on the road today.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+  },
+
 ];
 
 export const getPostBySlug = (slug: string) => blogPosts.find((p) => p.slug === slug);
 export const getPostsByCategory = (cat: string) => cat === 'ALL' ? blogPosts : blogPosts.filter((p) => p.category === cat);
 export const getRelatedPosts = (current: BlogPost, count = 3) => blogPosts.filter((p) => p.id !== current.id).slice(0, count);
-export const blogCategories = ['ALL', 'TIRES', 'WHEELS', 'VEHICLE GUIDES', 'FITMENT', 'LIFT KITS', 'LOWERING', 'ALIGNMENT', 'BRAKES', 'OIL & MAINTENANCE', 'DIAGNOSTICS', 'CLASSIC CARS', 'FINANCING', 'SACRAMENTO'];
+export const blogCategories = ['ALL', 'TIRES', 'WHEELS', 'VEHICLE GUIDES', 'FITMENT', 'LIFT KITS', 'LOWERING', 'ALIGNMENT', 'BRAKES', 'OIL & MAINTENANCE', 'DIAGNOSTICS', 'CLASSIC CARS', 'FINANCING', 'SERVICE', 'SEASONAL', 'LOCAL', 'SACRAMENTO'];
