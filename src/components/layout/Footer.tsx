@@ -23,6 +23,9 @@ const POPULAR_SERVICES = [
   { label: 'Lift Kits Sacramento', href: '/services/lift-kits-sacramento' },
   { label: 'Lowering Sacramento', href: '/services/lowering-sacramento' },
   { label: 'Brakes Sacramento', href: '/services/brakes-sacramento' },
+  { label: 'Tire Size Guide', href: '/tire-sizes' },
+  { label: 'Wheel Size Guide', href: '/wheel-sizes' },
+  { label: 'Vehicle Fitment Guide', href: '/fitment' },
 ];
 
 const BLOG_LINKS = [

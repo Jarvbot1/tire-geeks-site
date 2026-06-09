@@ -1,0 +1,939 @@
+[
+  {
+    "make": "Tesla",
+    "model": "Model 3",
+    "slug": "tesla-model-3",
+    "type": "EV",
+    "factoryTireSizes": [
+      "235/45R18",
+      "235/40R19"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "235/35R20",
+        "note": "Performance trim runs a staggered 235/35R20 front / 265/35R20 rear setup"
+      }
+    ],
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      18,
+      19,
+      20
+    ],
+    "recommendedTireType": "Low-rolling-resistance, EV-rated all-season with reinforced load rating (acoustic foam where available) to protect range and tread life",
+    "relatedBlogSlug": "best-tires-wheels-tesla-model-y-model-3",
+    "sacramentoNote": "Sacramento heat and Tesla torque wear EV tires fast — the right low-rolling-resistance tire protects both range and tread life on I-5 commutes."
+  },
+  {
+    "make": "Tesla",
+    "model": "Model Y",
+    "slug": "tesla-model-y",
+    "type": "EV",
+    "factoryTireSizes": [
+      "255/45R19",
+      "255/40R20"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "255/35R21",
+        "note": "21\" Überturbine setup; firmer ride, watch for pothole damage"
+      }
+    ],
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      19,
+      20,
+      21
+    ],
+    "recommendedTireType": "Low-rolling-resistance, EV-rated all-season with reinforced load rating (acoustic foam where available) to protect range and tread life",
+    "relatedBlogSlug": "best-tires-wheels-tesla-model-y-model-3",
+    "sacramentoNote": "At 4,400+ lbs the Model Y is hard on tires; an EV-rated tire with the correct load index keeps you safe on hot Sacramento freeways and on Tahoe runs."
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "slug": "toyota-camry",
+    "type": "Car",
+    "factoryTireSizes": [
+      "215/55R17",
+      "235/45R18"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      17,
+      18
+    ],
+    "recommendedTireType": "Quiet grand-touring all-season with strong wet braking for Sacramento commuting",
+    "relatedBlogSlug": "best-tires-toyota-camry-corolla",
+    "sacramentoNote": "A quiet, long-wearing all-season is the sweet spot for a Camry on Sacramento freeways and the wet winter season."
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "slug": "toyota-corolla",
+    "type": "Car",
+    "factoryTireSizes": [
+      "205/55R16",
+      "225/40R18"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      16,
+      18
+    ],
+    "recommendedTireType": "Quiet grand-touring all-season with strong wet braking for Sacramento commuting",
+    "relatedBlogSlug": "best-tires-toyota-camry-corolla",
+    "sacramentoNote": "Compare cost-per-mile, not just sticker price — a mid-tier all-season with a real treadwear warranty is the smart Corolla buy."
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "slug": "honda-civic",
+    "type": "Car",
+    "factoryTireSizes": [
+      "215/55R16",
+      "235/40R18"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      16,
+      18
+    ],
+    "recommendedTireType": "Quiet grand-touring all-season with strong wet braking for Sacramento commuting",
+    "relatedBlogSlug": "best-tires-honda-civic-accord",
+    "sacramentoNote": "Si and Type R trims use a different (5x120) bolt pattern and wider performance rubber — confirm before buying wheels."
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "slug": "honda-accord",
+    "type": "Car",
+    "factoryTireSizes": [
+      "225/55R17",
+      "235/45R18",
+      "235/40R19"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      17,
+      18,
+      19
+    ],
+    "recommendedTireType": "Quiet grand-touring all-season with strong wet braking for Sacramento commuting",
+    "relatedBlogSlug": "best-tires-honda-civic-accord",
+    "sacramentoNote": "Touring and Sport trims jump to 19\" wheels; a quiet grand-touring tire keeps the Accord comfortable on the daily commute."
+  },
+  {
+    "make": "Dodge",
+    "model": "Charger",
+    "slug": "dodge-charger",
+    "type": "Car",
+    "factoryTireSizes": [
+      "235/55R18",
+      "245/45R20"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "275/40R20",
+        "note": "Wider rear on R/T and up; staggered fitment cannot be rotated front-to-rear"
+      }
+    ],
+    "boltPattern": "5x115",
+    "typicalWheelDiameters": [
+      18,
+      20
+    ],
+    "recommendedTireType": "Ultra-high-performance all-season for year-round daily driving, or a max-performance summer tire for weekend use",
+    "relatedBlogSlug": "best-tires-wheels-dodge-charger-challenger",
+    "sacramentoNote": "A summer performance tire loses grip below ~45°F — an all-season is genuinely safer on cold Sacramento mornings for a daily-driven Charger."
+  },
+  {
+    "make": "Dodge",
+    "model": "Challenger",
+    "slug": "dodge-challenger",
+    "type": "Car",
+    "factoryTireSizes": [
+      "235/55R18",
+      "245/45R20"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "275/40R20",
+        "note": "R/T and SRT run wider staggered rear tires; plan for faster rear wear"
+      }
+    ],
+    "boltPattern": "5x115",
+    "typicalWheelDiameters": [
+      18,
+      20
+    ],
+    "recommendedTireType": "Ultra-high-performance all-season for year-round daily driving, or a max-performance summer tire for weekend use",
+    "relatedBlogSlug": "best-tires-wheels-dodge-charger-challenger",
+    "sacramentoNote": "Big-power Scat Pack and Hellcat trims demand a high-speed-rated tire — rear grip is the priority for putting the power down."
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "slug": "ford-mustang",
+    "type": "Car",
+    "factoryTireSizes": [
+      "235/50R18",
+      "255/40R19"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "275/40R19",
+        "note": "GT and performance packs run staggered wider rears; not rotatable front-to-rear"
+      }
+    ],
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      18,
+      19
+    ],
+    "recommendedTireType": "Ultra-high-performance all-season for year-round daily driving, or a max-performance summer tire for weekend use",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "A staggered Mustang setup can rotate side-to-side (if non-directional) but never front-to-rear — budget for quicker rear wear."
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "slug": "chevrolet-camaro",
+    "type": "Car",
+    "factoryTireSizes": [
+      "245/50R18",
+      "245/40R20"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "275/35R20",
+        "note": "SS and ZL1 run staggered wider rears (up to 305-section); cannot rotate front-to-rear"
+      }
+    ],
+    "boltPattern": "5x120",
+    "typicalWheelDiameters": [
+      18,
+      20
+    ],
+    "recommendedTireType": "Ultra-high-performance all-season for year-round daily driving, or a max-performance summer tire for weekend use",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "Performance trims punish cheap tires — match the tire to the power and keep an all-season on if you daily it through winter."
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "slug": "nissan-altima",
+    "type": "Car",
+    "factoryTireSizes": [
+      "215/60R16",
+      "235/40R19"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      16,
+      19
+    ],
+    "recommendedTireType": "Quiet grand-touring all-season with strong wet braking for Sacramento commuting",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "A strong wet-braking all-season matters most for the Altima during Sacramento’s slick first rains."
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "slug": "hyundai-elantra",
+    "type": "Car",
+    "factoryTireSizes": [
+      "205/55R16",
+      "225/45R17"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      16,
+      17
+    ],
+    "recommendedTireType": "Quiet grand-touring all-season with strong wet braking for Sacramento commuting",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "For a budget-minded commuter, a mid-tier tire with good wet grip beats the cheapest option on cost-per-mile."
+  },
+  {
+    "make": "Ford",
+    "model": "F-150",
+    "slug": "ford-f-150",
+    "type": "Truck",
+    "factoryTireSizes": [
+      "245/70R17",
+      "265/70R17",
+      "275/65R18",
+      "275/55R20"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "285/65R18",
+        "needsLevel": true,
+        "note": "A common ~32\" all-terrain upgrade that typically clears with a leveling kit"
+      },
+      {
+        "size": "285/70R17",
+        "needsLift": true,
+        "note": "~34\"+ builds usually need a lift and sometimes trimming"
+      }
+    ],
+    "boltPattern": "6x135",
+    "typicalWheelDiameters": [
+      17,
+      18,
+      20
+    ],
+    "recommendedTireType": "3PMSF-rated all-terrain for mixed on/off-road use, or a highway-terrain tire with a high load rating for towing and commuting",
+    "relatedBlogSlug": "best-tires-wheels-ford-f150",
+    "sacramentoNote": "On a tow rig, never trade load rating for looks — heat builds fast in an underrated tire on a hot Sacramento freeway."
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "slug": "chevrolet-silverado-1500",
+    "type": "Truck",
+    "factoryTireSizes": [
+      "255/70R17",
+      "265/65R18",
+      "275/60R20"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "275/65R18",
+        "needsLevel": true,
+        "note": "Popular all-terrain upgrade that clears with a leveling kit on most trims"
+      },
+      {
+        "size": "275/55R20",
+        "needsLevel": true
+      }
+    ],
+    "boltPattern": "6x139.7",
+    "typicalWheelDiameters": [
+      17,
+      18,
+      20
+    ],
+    "recommendedTireType": "3PMSF-rated all-terrain for mixed on/off-road use, or a highway-terrain tire with a high load rating for towing and commuting",
+    "relatedBlogSlug": "best-tires-wheels-chevy-silverado",
+    "sacramentoNote": "A leveling kit plus a taller all-terrain is the most popular Silverado setup for the right balance of looks and function."
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "slug": "gmc-sierra-1500",
+    "type": "Truck",
+    "factoryTireSizes": [
+      "255/70R17",
+      "265/65R18",
+      "275/60R20"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "275/65R18",
+        "needsLevel": true,
+        "note": "Clears with a leveling kit on most trims"
+      }
+    ],
+    "boltPattern": "6x139.7",
+    "typicalWheelDiameters": [
+      17,
+      18,
+      20
+    ],
+    "recommendedTireType": "3PMSF-rated all-terrain for mixed on/off-road use, or a highway-terrain tire with a high load rating for towing and commuting",
+    "relatedBlogSlug": "best-tires-wheels-chevy-silverado",
+    "sacramentoNote": "We dial in the alignment after any leveling or lift so your Sierra drives straight and wears its new tires evenly."
+  },
+  {
+    "make": "Dodge",
+    "model": "RAM 1500",
+    "slug": "ram-1500",
+    "type": "Truck",
+    "factoryTireSizes": [
+      "265/70R17",
+      "275/65R18",
+      "275/55R20"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "285/45R22",
+        "note": "22\" wheels on Limited/Longhorn; firmer ride, low-profile"
+      },
+      {
+        "size": "275/60R20",
+        "needsLevel": true
+      }
+    ],
+    "boltPattern": "6x139.7",
+    "typicalWheelDiameters": [
+      17,
+      18,
+      20,
+      22
+    ],
+    "recommendedTireType": "3PMSF-rated all-terrain for mixed on/off-road use, or a highway-terrain tire with a high load rating for towing and commuting",
+    "relatedBlogSlug": "best-tires-wheels-ram-1500",
+    "sacramentoNote": "The current Ram 1500 (2019+ DT) is 6x139.7; the older Ram 1500 Classic uses a 5x139.7 pattern — confirm before buying wheels."
+  },
+  {
+    "make": "Toyota",
+    "model": "Tundra",
+    "slug": "toyota-tundra",
+    "type": "Truck",
+    "factoryTireSizes": [
+      "265/70R18",
+      "275/65R18",
+      "285/65R18"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "275/55R20",
+        "needsLevel": true
+      }
+    ],
+    "boltPattern": "6x139.7",
+    "typicalWheelDiameters": [
+      18,
+      20
+    ],
+    "recommendedTireType": "3PMSF-rated all-terrain for mixed on/off-road use, or a highway-terrain tire with a high load rating for towing and commuting",
+    "relatedBlogSlug": "best-tires-wheels-toyota-tundra",
+    "sacramentoNote": "3rd-gen Tundra (2022+) is 6x139.7; 2nd-gen (2007–2021) is 5x150 — the patterns are not interchangeable."
+  },
+  {
+    "make": "Toyota",
+    "model": "Tacoma",
+    "slug": "toyota-tacoma",
+    "type": "Truck",
+    "factoryTireSizes": [
+      "245/70R17",
+      "265/70R16",
+      "265/65R18"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "265/70R17",
+        "needsLevel": true,
+        "note": "A ~31-32\" all-terrain that clears with a small level on most trims"
+      },
+      {
+        "size": "285/70R17",
+        "needsLift": true,
+        "note": "~33\"+ usually needs a lift"
+      }
+    ],
+    "boltPattern": "6x139.7",
+    "typicalWheelDiameters": [
+      16,
+      17,
+      18
+    ],
+    "recommendedTireType": "3PMSF-rated all-terrain for mixed on/off-road use, or a highway-terrain tire with a high load rating for towing and commuting",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "The Tacoma is a Sacramento favorite for Tahoe and trail trips — a 3PMSF all-terrain covers snow and dirt without killing on-road manners."
+  },
+  {
+    "make": "Nissan",
+    "model": "Frontier",
+    "slug": "nissan-frontier",
+    "type": "Truck",
+    "factoryTireSizes": [
+      "255/65R17",
+      "265/60R18"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "265/70R17",
+        "needsLevel": true,
+        "note": "A 31-33\" all-terrain on a leveling kit is the most popular Frontier upgrade"
+      }
+    ],
+    "boltPattern": "6x114.3",
+    "typicalWheelDiameters": [
+      17,
+      18
+    ],
+    "recommendedTireType": "3PMSF-rated all-terrain for mixed on/off-road use, or a highway-terrain tire with a high load rating for towing and commuting",
+    "relatedBlogSlug": "best-tires-wheels-nissan-frontier-titan",
+    "sacramentoNote": "A proper alignment after any tire-size or suspension change is the fastest way to avoid wearing out a new set unevenly."
+  },
+  {
+    "make": "Nissan",
+    "model": "Titan",
+    "slug": "nissan-titan",
+    "type": "Truck",
+    "factoryTireSizes": [
+      "265/70R18",
+      "275/65R18"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "6x139.7",
+    "typicalWheelDiameters": [
+      18
+    ],
+    "recommendedTireType": "3PMSF-rated all-terrain for mixed on/off-road use, or a highway-terrain tire with a high load rating for towing and commuting",
+    "relatedBlogSlug": "best-tires-wheels-nissan-frontier-titan",
+    "sacramentoNote": "For towing, prioritize load rating and a highway- or all-terrain tire built for weight over an aggressive look."
+  },
+  {
+    "make": "Jeep",
+    "model": "Gladiator",
+    "slug": "jeep-gladiator",
+    "type": "Truck",
+    "factoryTireSizes": [
+      "245/75R17",
+      "255/70R18",
+      "285/70R17"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "285/70R17",
+        "needsLevel": true,
+        "note": "35s are common on Rubicon with minor clearance work; bigger needs a lift"
+      }
+    ],
+    "boltPattern": "5x127",
+    "typicalWheelDiameters": [
+      17,
+      18
+    ],
+    "recommendedTireType": "3PMSF-rated all-terrain for mixed on/off-road use, or a highway-terrain tire with a high load rating for towing and commuting",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "Air-down-friendly 17\" wheels and a 3PMSF all-terrain make the Gladiator ready for Sierra trails and chain-control zones."
+  },
+  {
+    "make": "Ford",
+    "model": "F-250 Super Duty",
+    "slug": "ford-f-250-super-duty",
+    "type": "Truck",
+    "factoryTireSizes": [
+      "275/70R18",
+      "275/65R20",
+      "285/60R20"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "8x170",
+    "typicalWheelDiameters": [
+      18,
+      20
+    ],
+    "recommendedTireType": "3PMSF-rated all-terrain for mixed on/off-road use, or a highway-terrain tire with a high load rating for towing and commuting",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "Heavy-duty load ratings are non-negotiable on a Super Duty — we spec tires to your towing and payload, not just the look."
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "slug": "chevrolet-tahoe",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "265/70R17",
+      "275/65R18",
+      "275/60R20"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "285/45R22",
+        "note": "22\" wheels on premium trims ride firmer and cost more to re-tire"
+      }
+    ],
+    "boltPattern": "6x139.7",
+    "typicalWheelDiameters": [
+      17,
+      18,
+      20,
+      22
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": "best-tires-wheels-gmc-yukon-chevy-tahoe",
+    "sacramentoNote": "Loaded up or towing, never downgrade load rating on a full-size SUV — tire temps climb fast on hot Sacramento freeways."
+  },
+  {
+    "make": "GMC",
+    "model": "Yukon",
+    "slug": "gmc-yukon",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "265/70R17",
+      "275/65R18",
+      "275/60R20"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "285/45R22",
+        "note": "22\" on Denali; a slightly smaller wheel with more sidewall rides better"
+      }
+    ],
+    "boltPattern": "6x139.7",
+    "typicalWheelDiameters": [
+      17,
+      18,
+      20,
+      22
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": "best-tires-wheels-gmc-yukon-chevy-tahoe",
+    "sacramentoNote": "For towing a boat to Folsom Lake, we set tire pressures for the load and make sure the setup stays stable at freeway speed."
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "slug": "honda-cr-v",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "225/65R17",
+      "235/60R18"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      17,
+      18
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": "best-tires-wheels-honda-crv",
+    "sacramentoNote": "Wet braking is the single most important safety feature in a family tire for Sacramento’s slick rainy-season freeways."
+  },
+  {
+    "make": "Toyota",
+    "model": "RAV4",
+    "slug": "toyota-rav4",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "225/65R17",
+      "225/60R18"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      17,
+      18
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "TRD and Adventure trims suit a light all-terrain; most RAV4s do best on a quiet grand-touring all-season."
+  },
+  {
+    "make": "Toyota",
+    "model": "4Runner",
+    "slug": "toyota-4runner",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "265/70R17",
+      "265/55R20"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "265/70R17",
+        "needsLevel": true,
+        "note": "A 32\" all-terrain clears with a small level on most 4Runners"
+      },
+      {
+        "size": "285/70R17",
+        "needsLift": true,
+        "note": "33\"+ typically needs a lift"
+      }
+    ],
+    "boltPattern": "6x139.7",
+    "typicalWheelDiameters": [
+      17,
+      20
+    ],
+    "recommendedTireType": "3PMSF all-terrain for trails and Tahoe trips, or a highway tire if you stay mostly on pavement",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "The 4Runner is built for the Sierra — a 3PMSF all-terrain handles Tahoe snow and fire roads while staying livable on pavement."
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander",
+    "slug": "toyota-highlander",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "245/60R18",
+      "235/55R20"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      18,
+      20
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "A 3PMSF all-weather tire lets a Highlander handle Sierra snow trips without a seasonal swap."
+  },
+  {
+    "make": "Ford",
+    "model": "Bronco",
+    "slug": "ford-bronco",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "255/70R16",
+      "265/70R17",
+      "285/70R17"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "315/70R17",
+        "needsLift": true,
+        "note": "Sasquatch runs 35s from the factory; non-Sasquatch usually needs a level or lift"
+      },
+      {
+        "size": "285/70R17",
+        "needsLevel": true,
+        "note": "~33\" upgrade that clears more easily"
+      }
+    ],
+    "boltPattern": "6x139.7",
+    "typicalWheelDiameters": [
+      16,
+      17
+    ],
+    "recommendedTireType": "3PMSF all-terrain for trails and Tahoe trips, or a highway tire if you stay mostly on pavement",
+    "relatedBlogSlug": "best-tires-wheels-ford-bronco",
+    "sacramentoNote": "We test-fit Broncos by trim — Sasquatch clears 35s, but non-Sasquatch trucks usually need a leveling kit and sometimes trimming."
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "slug": "jeep-wrangler",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "245/75R17",
+      "255/70R18",
+      "285/70R17"
+    ],
+    "commonUpgradeSizes": [
+      {
+        "size": "285/70R17",
+        "needsLevel": true,
+        "note": "35s often need a small lift and fender work; 33s usually clear with a level"
+      },
+      {
+        "size": "315/70R17",
+        "needsLift": true,
+        "note": "37s require a lift and re-gearing for performance"
+      }
+    ],
+    "boltPattern": "5x127",
+    "typicalWheelDiameters": [
+      17,
+      18
+    ],
+    "recommendedTireType": "3PMSF all-terrain for trails and Tahoe trips, or a highway tire if you stay mostly on pavement",
+    "relatedBlogSlug": "jeep-wrangler-tires-wheels-sacramento",
+    "sacramentoNote": "Air-down-friendly 17\" wheels and a 3PMSF all-terrain make the Wrangler ready for both the Rubicon and Tahoe chain controls."
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "slug": "jeep-grand-cherokee",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "245/65R18",
+      "265/60R18",
+      "265/50R20"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x127",
+    "typicalWheelDiameters": [
+      18,
+      20
+    ],
+    "recommendedTireType": "3PMSF all-terrain for trails and Tahoe trips, or a highway tire if you stay mostly on pavement",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "Trailhawk trims suit a light all-terrain; most Grand Cherokees do best on a grand-touring or all-weather tire for Sierra trips."
+  },
+  {
+    "make": "Kia",
+    "model": "Telluride",
+    "slug": "kia-telluride",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "245/65R18",
+      "255/55R20"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      18,
+      20
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "A 3PMSF all-weather tire keeps the family-hauler Telluride confident on winter trips to the Sierra."
+  },
+  {
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "slug": "hyundai-santa-fe",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "235/65R17",
+      "235/55R19"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      17,
+      19
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "A quiet grand-touring all-season with strong wet grip suits the Santa Fe for year-round Sacramento driving."
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson",
+    "slug": "hyundai-tucson",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "235/65R17",
+      "235/55R19"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      17,
+      19
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "For a daily-driven Tucson, prioritize wet braking and tread life over an aggressive look."
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "slug": "subaru-outback",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "225/65R17",
+      "225/60R18"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      17,
+      18
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": "best-tires-wheels-subaru-outback-crosstrek",
+    "sacramentoNote": "Subaru AWD is sensitive to tire-diameter mismatch — replace all four together and keep tread depths matched to protect the drivetrain."
+  },
+  {
+    "make": "Subaru",
+    "model": "Crosstrek",
+    "slug": "subaru-crosstrek",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "225/60R17",
+      "225/55R18"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x100 (2013–2023) · 5x114.3 (2024+)",
+    "typicalWheelDiameters": [
+      17,
+      18
+    ],
+    "recommendedTireType": "3PMSF all-terrain for trails and Tahoe trips, or a highway tire if you stay mostly on pavement",
+    "relatedBlogSlug": "best-tires-wheels-subaru-outback-crosstrek",
+    "sacramentoNote": "The Crosstrek’s bolt pattern changed from 5x100 on 2013–2023 models to 5x114.3 on the 2024+ generation — confirm your model year before buying wheels."
+  },
+  {
+    "make": "Subaru",
+    "model": "Forester",
+    "slug": "subaru-forester",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "225/60R17",
+      "225/55R18"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      17,
+      18
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": "best-tires-wheels-subaru-outback-crosstrek",
+    "sacramentoNote": "A 3PMSF all-weather tire keeps the AWD Forester ready for Tahoe snow without a dedicated winter set."
+  },
+  {
+    "make": "Mazda",
+    "model": "CX-5",
+    "slug": "mazda-cx-5",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "225/65R17",
+      "225/55R19"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x114.3",
+    "typicalWheelDiameters": [
+      17,
+      19
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "A premium grand-touring all-season matches the CX-5’s upscale ride and keeps it quiet on the freeway."
+  },
+  {
+    "make": "Honda",
+    "model": "Pilot",
+    "slug": "honda-pilot",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "245/60R18",
+      "255/50R20"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": "5x120",
+    "typicalWheelDiameters": [
+      18,
+      20
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "The Pilot uses Honda’s 5x120 truck/van pattern (not the 5x114.3 of the CR-V) — confirm before buying wheels."
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "slug": "chevrolet-equinox",
+    "type": "SUV",
+    "factoryTireSizes": [
+      "225/65R17",
+      "235/50R19"
+    ],
+    "commonUpgradeSizes": null,
+    "boltPattern": null,
+    "typicalWheelDiameters": [
+      17,
+      19
+    ],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "Bring your Equinox by either Sacramento location and we’ll confirm the exact factory bolt pattern and fitment before you buy."
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "slug": "ford-explorer",
+    "type": "SUV",
+    "factoryTireSizes": null,
+    "commonUpgradeSizes": null,
+    "boltPattern": null,
+    "typicalWheelDiameters": [],
+    "recommendedTireType": "Grand-touring all-season for comfort and tread life, or a 3PMSF all-weather tire if you make regular Sierra trips",
+    "relatedBlogSlug": null,
+    "sacramentoNote": "Explorer fitment varies by generation and trim — we’ll verify your exact factory size and bolt pattern in person."
+  }
+]

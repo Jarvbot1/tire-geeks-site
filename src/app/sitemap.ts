@@ -1,5 +1,8 @@
 import { galleryBuilds } from '@/data/galleryBuilds';
 import { blogPosts } from '@/data/blogPosts';
+import { tireSizes } from '@/data/tireSizes';
+import { wheelSizes, shouldIndexWheelSize } from '@/data/wheelSizes';
+import { fitments, isFitmentComplete } from '@/data/fitments';
 
 export default function sitemap() {
   const base = 'https://tiregeeks.com';
@@ -30,6 +33,31 @@ export default function sitemap() {
     { url: `${base}/contact`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.7 },
     { url: `${base}/privacy`, lastModified: new Date(), changeFrequency: 'yearly' as const, priority: 0.5 },
     { url: `${base}/terms`, lastModified: new Date(), changeFrequency: 'yearly' as const, priority: 0.5 },
+    { url: `${base}/tire-sizes`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.8 },
+    ...tireSizes.map(t => ({
+      url: `${base}/tire-sizes/${t.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.6,
+    })),
+    { url: `${base}/wheel-sizes`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.8 },
+    // Only indexable wheel-size pages go in the sitemap; noindexed (thin) ones
+    // stay reachable via the hub but are intentionally excluded here.
+    ...wheelSizes.filter(shouldIndexWheelSize).map(w => ({
+      url: `${base}/wheel-sizes/${w.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.6,
+    })),
+    { url: `${base}/fitment`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.8 },
+    // Only fully-verified fitment pages (factory size + bolt pattern) are indexed;
+    // incomplete/uncertain vehicles stay hub-reachable but out of the sitemap.
+    ...fitments.filter(isFitmentComplete).map(f => ({
+      url: `${base}/fitment/${f.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.6,
+    })),
     ...blogPosts.map(post => ({
       url: `${base}/blog/${post.slug}`,
       lastModified: new Date(),
