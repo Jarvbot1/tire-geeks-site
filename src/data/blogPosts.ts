@@ -11,6 +11,7 @@ export interface BlogPost {
   content: string;
   image: string;
   featured: boolean;
+  faq?: { question: string; answer: string }[];
 }
 
 export const blogPosts: BlogPost[] = [
@@ -11474,6 +11475,105 @@ export const blogPosts: BlogPost[] = [
     `,
     image: '/images/gallery/wheel-wall-display.jpg',
     featured: false,
+  },
+  {
+    id: '104',
+    slug: 'how-to-choose-a-tire-shop-in-sacramento',
+    title: 'How to Choose a Tire Shop in Sacramento (2026 Guide)',
+    excerpt: 'A practical 2026 guide to picking a tire shop in Sacramento — what to compare, the questions to ask, and how out-the-door pricing, warranty, speed, and local reputation should drive your decision.',
+    category: 'LOCAL',
+    author: 'Moni Tariq',
+    authorSlug: 'moni-tariq',
+    date: '2026-07-06',
+    readTime: '8 min read',
+    content: `
+      <p>Choosing a tire shop in Sacramento comes down to four things: <strong>out-the-door pricing</strong> (the real total with tax, mounting, balancing, and fees included), a clear <strong>warranty</strong> on the tires and the labor, <strong>speed</strong> (can you get installed the same day without an appointment), and <strong>local reputation</strong> you can verify through reviews. A good shop quotes you the final number up front, gets you back on the road quickly, and stands behind the work. This guide walks through exactly how to compare shops so you pay a fair price and drive away on the right tires.</p>
+
+      <h2>What to Compare Between Shops</h2>
+      <p>Every tire shop will happily give you a price. The trick is making sure you are comparing the same thing at each one. Before you decide, line the shops up against these points:</p>
+      <ul>
+        <li><strong>Out-the-door price, not the shelf price.</strong> A tire advertised at "$89 each" can turn into a much bigger number once you add mounting, balancing, new valve stems, tire disposal, road-hazard fees, and California tax. Always ask for the out-the-door total for the exact quantity you need.</li>
+        <li><strong>Warranty coverage.</strong> Look at both the manufacturer's mileage/treadwear warranty and the shop's own workmanship warranty. Also ask whether free rotations, rebalancing, or flat repairs are included for the life of the tires.</li>
+        <li><strong>Turnaround time.</strong> Some shops book you a week out or route your car through a membership queue. Others take walk-ins and finish a standard set the same day. Your time has value — factor it in.</li>
+        <li><strong>Brand selection.</strong> A shop that carries a real range — from budget-friendly lines to premium performance and all-terrain — can match a tire to your actual driving and budget instead of pushing whatever is on the rack. At Tire Geeks we stock and order brands like <strong>Nitto</strong>, <strong>Falken</strong>, <strong>Toyo</strong>, <strong>Kumho</strong>, and <strong>TBB</strong>, so there is a fit for everything from a daily commuter to a lifted truck.</li>
+        <li><strong>Financing options.</strong> If a set of tires or a full wheel package is more than you want to pay at once, ask whether the shop offers financing — ideally with a no-credit-check path so a tight month does not put you on unsafe rubber.</li>
+      </ul>
+
+      <h2>Independent Shops vs Big Chains</h2>
+      <p>Sacramento drivers usually choose between a warehouse club or national chain and a local independent shop. Both can install tires, but they operate very differently.</p>
+      <p><strong>Big chains and warehouse clubs</strong> often advertise low sticker prices, but they can come with trade-offs: a paid membership requirement, appointment-only installation that runs days or a week out, a call center instead of the person doing the work, and a narrow tire selection limited to whatever the corporate buyer stocks. When something needs judgment — a fitment question, a road-force balance, an odd tire size — you are often stuck with a script.</p>
+      <p><strong>Independent shops</strong> like Tire Geeks tend to win on flexibility and service. You talk directly to the people mounting your tires, you can usually walk in and get finished the same day, and the shop can order almost any brand or size rather than steering you to a short list. A good independent will also quote you out-the-door and tell you honestly when a cheaper tire is the smarter buy for how you drive.</p>
+      <p>The right answer depends on what you value, but for most Sacramento drivers who want speed, selection, and a straight answer, a reputable local shop is hard to beat.</p>
+
+      <h2>Questions to Ask Before You Buy</h2>
+      <p>Whether you call ahead or walk in, a few direct questions will tell you almost everything about how a shop operates:</p>
+      <ul>
+        <li><strong>"What's my out-the-door price for [quantity] of this tire?"</strong> — the single most important question. It should include tax, mounting, balancing, valve stems, and disposal.</li>
+        <li><strong>"Is mounting, balancing, and disposal included, or added on top?"</strong> — clears up hidden fees before they surprise you.</li>
+        <li><strong>"What warranty comes with the tire and with your labor?"</strong> — and whether rotations and flat repairs are free afterward.</li>
+        <li><strong>"Do you price match a written quote?"</strong> — a confident shop will beat a competitor's out-the-door number.</li>
+        <li><strong>"Can you install today, or do I need an appointment?"</strong> — tells you the real turnaround.</li>
+        <li><strong>"Do you offer financing?"</strong> — useful for a full set or a wheel-and-tire package.</li>
+      </ul>
+      <blockquote>Pro Tip: Get the competing quote in writing (a printout, text, or email). A written out-the-door number is what lets a shop price match it accurately — and protects you from a verbal "deal" that changes at checkout.</blockquote>
+
+      <h2>Why Sacramento Drivers Choose Tire Geeks</h2>
+      <p>Tire Geeks is a locally owned, independent tire and wheel shop with two Sacramento locations. We quote out-the-door, we take walk-ins, and most standard installs are finished the same day — no membership, no week-out appointment. We carry a wide range of brands including Nitto, Falken, Toyo, Kumho, and TBB, and we will recommend what actually fits your vehicle and your budget. If you bring us a written quote from Costco, America's Tire, or any Sacramento shop, we'll beat the out-the-door price. Financing is available with a no-credit-check option so you can get safe tires now and pay over time.</p>
+      <p>Come see us at either location:</p>
+      <ul>
+        <li><strong>Tire Geeks — Florin Road:</strong> 3020 Florin Road, Sacramento, CA 95822 &middot; (916) 800-8786</li>
+        <li><strong>Tire Geeks — Arden Way:</strong> 2245 Arden Way, Sacramento, CA 95825 &middot; (916) 913-8786</li>
+      </ul>
+      <p>Both shops are open Monday through Saturday, 9 AM to 6 PM. Walk in today, or see all our <a href="/locations">Sacramento locations</a> and <a href="/contact">contact us</a> with any fitment questions before you visit.</p>
+
+      <h2>Frequently Asked Questions</h2>
+
+      <h3>Do tire shops price match Costco?</h3>
+      <p>Many independent shops do. Tire Geeks will beat the out-the-door price on any written quote from Costco, America's Tire, or another Sacramento shop — with no membership required. Bring the printed or texted quote so we can match it accurately.</p>
+
+      <h3>How long does tire installation take?</h3>
+      <p>A standard set of four tires typically takes about 45 minutes to an hour once your vehicle is in the bay. Alignments, custom wheels, or larger fitment jobs can take longer. Because Tire Geeks takes walk-ins, most customers are in and out the same day.</p>
+
+      <h3>Do I need an appointment?</h3>
+      <p>No. Tire Geeks welcomes walk-ins at both Sacramento locations, and most standard tire installs are completed the same day. You are welcome to call ahead if you want to confirm a specific tire is in stock.</p>
+
+      <h3>What's included in out-the-door tire pricing?</h3>
+      <p>Out-the-door pricing is the final total you actually pay — the tires plus mounting, balancing, new valve stems, tire disposal, any road-hazard coverage you choose, and California sales tax. Always compare shops on the out-the-door number, not the per-tire shelf price.</p>
+
+      <h3>Where can I get tires installed same-day in Sacramento?</h3>
+      <p>Tire Geeks installs tires same-day at two Sacramento locations: 3020 Florin Road (95822) and 2245 Arden Way (95825), open Monday through Saturday, 9 AM to 6 PM. No appointment or membership is needed — walk in and we'll get you rolling.</p>
+
+      <h3>What tire brands does Tire Geeks carry?</h3>
+      <p>We stock and order a wide range of brands, including Nitto, Falken, Toyo, Kumho, and TBB, covering everything from budget all-season tires to premium performance and all-terrain options. If you have a specific size or brand in mind, we can source it for you.</p>
+    `,
+    image: '/images/gallery/wheel-wall-display.jpg',
+    featured: false,
+    faq: [
+      {
+        question: 'Do tire shops price match Costco?',
+        answer: "Many independent shops do. Tire Geeks will beat the out-the-door price on any written quote from Costco, America's Tire, or another Sacramento shop — with no membership required. Bring the printed or texted quote so we can match it accurately.",
+      },
+      {
+        question: 'How long does tire installation take?',
+        answer: 'A standard set of four tires typically takes about 45 minutes to an hour once your vehicle is in the bay. Alignments, custom wheels, or larger fitment jobs can take longer. Because Tire Geeks takes walk-ins, most customers are in and out the same day.',
+      },
+      {
+        question: 'Do I need an appointment?',
+        answer: 'No. Tire Geeks welcomes walk-ins at both Sacramento locations, and most standard tire installs are completed the same day. You are welcome to call ahead if you want to confirm a specific tire is in stock.',
+      },
+      {
+        question: "What's included in out-the-door tire pricing?",
+        answer: 'Out-the-door pricing is the final total you actually pay — the tires plus mounting, balancing, new valve stems, tire disposal, any road-hazard coverage you choose, and California sales tax. Always compare shops on the out-the-door number, not the per-tire shelf price.',
+      },
+      {
+        question: 'Where can I get tires installed same-day in Sacramento?',
+        answer: "Tire Geeks installs tires same-day at two Sacramento locations: 3020 Florin Road (95822) and 2245 Arden Way (95825), open Monday through Saturday, 9 AM to 6 PM. No appointment or membership is needed — walk in and we'll get you rolling.",
+      },
+      {
+        question: 'What tire brands does Tire Geeks carry?',
+        answer: 'We stock and order a wide range of brands, including Nitto, Falken, Toyo, Kumho, and TBB, covering everything from budget all-season tires to premium performance and all-terrain options. If you have a specific size or brand in mind, we can source it for you.',
+      },
+    ],
   },
 
 ];

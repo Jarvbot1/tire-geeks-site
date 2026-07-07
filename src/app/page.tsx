@@ -13,6 +13,8 @@ import SocialFeed from '@/components/sections/SocialFeed';
 import BlogPreview from '@/components/sections/BlogPreview';
 import BrandsStrip from '@/components/sections/BrandsStrip';
 import CTABanner from '@/components/sections/CTABanner';
+import PriceMatchBanner from '@/components/PriceMatchBanner';
+import WhyTireGeeks from '@/components/WhyTireGeeks';
 import Footer from '@/components/layout/Footer';
 
 export default function Home() {
@@ -37,6 +39,8 @@ export default function Home() {
         <SocialFeed />
         <BlogPreview />
         <BrandsStrip />
+        <PriceMatchBanner />
+        <WhyTireGeeks />
         <CTABanner />
       </main>
       <Footer />
