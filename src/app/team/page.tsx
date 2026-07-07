@@ -6,7 +6,7 @@ import { authors, type Author } from '@/data/authors';
 export const metadata: Metadata = {
   title: 'Meet the Tire Geeks Team | Sacramento Tire & Wheel Shop',
   description:
-    'Meet the Tire Geeks team. Co-owners Moni Tariq, Qassam Tariq, and Azam Mirza, plus Store Managers Erika and Victor — running two Sacramento shops on Florin Road and Arden Way.',
+    'Meet the Tire Geeks team. Co-owners Moni Tariq and Azam Mirza, plus Store Managers Erika and Victor — running two Sacramento shops on Florin Road and Arden Way.',
   alternates: { canonical: 'https://tiregeeks.com/team' },
 };
 
@@ -15,13 +15,12 @@ export const metadata: Metadata = {
 // instead of the initials placeholder.
 const hasHeadshot: Record<string, boolean> = {
   'moni-tariq': false,
-  'qassam-tariq': false,
   'azam-mirza': false,
   erika: false,
   victor: false,
 };
 
-const ownerSlugs = ['moni-tariq', 'qassam-tariq', 'azam-mirza'];
+const ownerSlugs = ['moni-tariq', 'azam-mirza'];
 const owners = authors.filter((a) => ownerSlugs.includes(a.slug));
 const managers = authors.filter((a) => !ownerSlugs.includes(a.slug));
 
@@ -213,8 +212,8 @@ export default function TeamPage() {
               Meet the People Behind Tire Geeks
             </h1>
             <p className="font-body text-[16px] md:text-[18px] leading-[1.7] text-[#9E9E9E] mt-6">
-              The team behind Tire Geeks: three owners, two store managers, two Sacramento shops.
-              The Tariq brothers built it, Azam Mirza co-owns it, and Erika and Victor run the
+              The team behind Tire Geeks: two owners, two store managers, two Sacramento shops.
+              Moni Tariq built it, Azam Mirza co-owns it, and Erika and Victor run the
               day-to-day. No call centers, no scripts, no database-lookup recommendations — real
               people who know the work.
             </p>

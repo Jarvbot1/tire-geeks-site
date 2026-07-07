@@ -26,28 +26,10 @@ export const authors: Author[] = [
       'Customer service standards',
       'Fitment expertise',
     ],
-    bio: "Moni Tariq owns Tire Geeks and runs both Sacramento shops — Florin Road in South Sac, Arden Way on the north end. Twenty years in the tire and wheel trade, most of those years managing multiple shops before he founded Tire Geeks with his brother Qassam. He sets the standard for how the business runs: honest fitment, no chain-shop database lookups, no upsells, real Acima approval for working drivers. If a customer walks out unsatisfied, Moni hears about it. Most don't. Walk in either store any day Mon–Sat and the shop runs the way it does because Moni built it that way.",
+    bio: "Moni Tariq owns Tire Geeks and runs both Sacramento shops — Florin Road in South Sac, Arden Way on the north end. Twenty years in the tire and wheel trade, most of those years managing multiple shops before he founded Tire Geeks. He sets the standard for how the business runs: honest fitment, no chain-shop database lookups, no upsells, real Acima approval for working drivers. If a customer walks out unsatisfied, Moni hears about it. Most don't. Walk in either store any day Mon–Sat and the shop runs the way it does because Moni built it that way.",
     shortBio:
-      "Owner of Tire Geeks. Twenty years in tires and wheels, with multiple shops managed before founding Tire Geeks alongside his brother Qassam. Standards-driven on fitment, financing, and customer treatment.",
+      "Owner of Tire Geeks. Twenty years in tires and wheels, with multiple shops managed before founding Tire Geeks. Standards-driven on fitment, financing, and customer treatment.",
     imagePath: '/images/team/moni-tariq.jpg',
-  },
-  {
-    slug: 'qassam-tariq',
-    name: 'Qassam Tariq',
-    fullName: 'Qassam Tariq',
-    title: 'Co-Owner, Tire Geeks',
-    yearsInIndustry: 20,
-    expertise: [
-      'Multi-location shop operations',
-      'Business development',
-      'Market expansion',
-      'Custom builds',
-      'Retail strategy',
-    ],
-    bio: "Qassam Tariq is co-owner of Tire Geeks and Moni's brother. Twenty years in the tire and wheel trade, with most of those years spent helping run and open shops across multiple markets — California to El Paso, Texas. He's the operations and growth side of the business. While Moni runs the day-to-day at the Sacramento stores, Qassam is the one figuring out where to expand next, what new lines to bring in, and how to keep the customer experience the same as the brand grows. The Tariq brothers built Tire Geeks together and run it with the same standards the chain shops gave up on a long time ago.",
-    shortBio:
-      "Co-owner of Tire Geeks and Moni's brother. Twenty years opening and running tire and wheel shops from California to El Paso. Operations and growth side of the business.",
-    imagePath: '/images/team/qassam-tariq.jpg',
   },
   {
     slug: 'azam-mirza',
